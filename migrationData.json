@@ -1,0 +1,4069 @@
+[
+    {
+      "Naam": "Sint-Joost-ten-Node",
+      "Gemeente": "3a97d30a672d166c1fb0c8b12486b3a6",
+      "Bevolking geboren buiten EU": 0.3842,
+      "categorie": 8,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Sint-Jans-Molenbeek",
+      "Gemeente": "c3319e1399a4077000822814b1b92ca7",
+      "Bevolking geboren buiten EU": 0.347,
+      "categorie": 7,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Brussel",
+      "Gemeente": "897800be7fd00e066649872bfbdfb271",
+      "Bevolking geboren buiten EU": 0.318,
+      "categorie": 7,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Koekelberg",
+      "Gemeente": "acbb21140fa05458cc45c2dc647800a6",
+      "Bevolking geboren buiten EU": 0.3069,
+      "categorie": 7,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Schaarbeek",
+      "Gemeente": "38d0877f88baa8f605e154e60f50390e",
+      "Bevolking geboren buiten EU": 0.2934,
+      "categorie": 6,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Anderlecht",
+      "Gemeente": "22df03291cd0753b0c4b2c501e308ed4",
+      "Bevolking geboren buiten EU": 0.2921,
+      "categorie": 6,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Evere",
+      "Gemeente": "177af2447f20b6b2914b3b91b1d30715",
+      "Bevolking geboren buiten EU": 0.2895,
+      "categorie": 6,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Sint-Gillis",
+      "Gemeente": "766afbe990036e37b76f90b60b06bb0d",
+      "Bevolking geboren buiten EU": 0.2672,
+      "categorie": 6,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Elsene",
+      "Gemeente": "653e62afec2270032f2edfab21673b36",
+      "Bevolking geboren buiten EU": 0.2624,
+      "categorie": 6,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Etterbeek",
+      "Gemeente": "a97367cbf70c2ec10a064086f9a7df78",
+      "Bevolking geboren buiten EU": 0.26,
+      "categorie": 6,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Jette",
+      "Gemeente": "c3de00b6f839fd178291a35e27a49926",
+      "Bevolking geboren buiten EU": 0.2579,
+      "categorie": 6,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Ganshoren",
+      "Gemeente": "3214bed2cdffd4c5d288d92c0d4dc65f",
+      "Bevolking geboren buiten EU": 0.2553,
+      "categorie": 6,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Sint-Agatha-Berchem",
+      "Gemeente": "b35c75a95e9ce7bdb35ff4a069283f4b",
+      "Bevolking geboren buiten EU": 0.243,
+      "categorie": 5,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Vorst",
+      "Gemeente": "8fdcc063340e150ca0d7ec140c92f735",
+      "Bevolking geboren buiten EU": 0.2361,
+      "categorie": 5,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Antwerpen",
+      "Gemeente": "7a0f351e462307014400486970c09c96",
+      "Bevolking geboren buiten EU": 0.2261,
+      "categorie": 5,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Sint-Lambrechts-Woluwe",
+      "Gemeente": "3e4811e7614fa18a49de5831b55a5ee3",
+      "Bevolking geboren buiten EU": 0.2193,
+      "categorie": 5,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Luik",
+      "Gemeente": "2311c63b25f2ddbebbd6bcb3d2970691",
+      "Bevolking geboren buiten EU": 0.2041,
+      "categorie": 5,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Oudergem",
+      "Gemeente": "c597fb81fe74949146881d8317ccf47c",
+      "Bevolking geboren buiten EU": 0.192,
+      "categorie": 4,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Ukkel",
+      "Gemeente": "1ad7684665d6f876b1f99d8edd4e364b",
+      "Bevolking geboren buiten EU": 0.1842,
+      "categorie": 4,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Machelen",
+      "Gemeente": "727389e1009a86a33f56be73aa0284e6",
+      "Bevolking geboren buiten EU": 0.1822,
+      "categorie": 4,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Leuven",
+      "Gemeente": "71cd87984380b93fd5ab624240d83a35",
+      "Bevolking geboren buiten EU": 0.1794,
+      "categorie": 4,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Sint-Pieters-Woluwe",
+      "Gemeente": "ffb7373e8d795a1c6296fc89d8af4466",
+      "Bevolking geboren buiten EU": 0.1791,
+      "categorie": 4,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Zaventem",
+      "Gemeente": "45311ce3076400bb57d8e393fb8d62e9",
+      "Bevolking geboren buiten EU": 0.1769,
+      "categorie": 4,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Vilvoorde",
+      "Gemeente": "cbf2f6e0e58071683760b25bb06f849c",
+      "Bevolking geboren buiten EU": 0.1695,
+      "categorie": 4,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Verviers",
+      "Gemeente": "3b223f0439be9ba1f2e7985353b88f1f",
+      "Bevolking geboren buiten EU": 0.1667,
+      "categorie": 4,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Ottignies-Louvain-la-Neuve",
+      "Gemeente": "ef84c6100ea08065c90afd7efda55469",
+      "Bevolking geboren buiten EU": 0.1625,
+      "categorie": 4,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Dison",
+      "Gemeente": "1aacdd1d1ab76b49e6262ee29782e929",
+      "Bevolking geboren buiten EU": 0.1619,
+      "categorie": 4,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Drogenbos",
+      "Gemeente": "5a57dd5c99535fd0b837e27d95f7a5d6",
+      "Bevolking geboren buiten EU": 0.1584,
+      "categorie": 4,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Watermaal-Bosvoorde",
+      "Gemeente": "48c5df0e0852e368959d3e11252f82cd",
+      "Bevolking geboren buiten EU": 0.1578,
+      "categorie": 4,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Kraainem",
+      "Gemeente": "483cecefcbf0ee6315255915e3654b82",
+      "Bevolking geboren buiten EU": 0.1523,
+      "categorie": 4,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Boom",
+      "Gemeente": "e702e1ee8860f235363848783b3030a8",
+      "Bevolking geboren buiten EU": 0.1513,
+      "categorie": 4,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Tervuren",
+      "Gemeente": "04a7de2afaf62289ff4ce4473aad3fdc",
+      "Bevolking geboren buiten EU": 0.1509,
+      "categorie": 4,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Gent",
+      "Gemeente": "675866debd99f0481b20d0b7161e97bf",
+      "Bevolking geboren buiten EU": 0.1429,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Mechelen",
+      "Gemeente": "8a373bfd569cc678c8d13f02c144b3fe",
+      "Bevolking geboren buiten EU": 0.1428,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Herstal",
+      "Gemeente": "6a28c055b3e9a61c4292fd2e4713876d",
+      "Bevolking geboren buiten EU": 0.14,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Saint-Nicolas",
+      "Gemeente": "2c9d335c8350c6f2ccddccb7c8a93d11",
+      "Bevolking geboren buiten EU": 0.1396,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Eupen",
+      "Gemeente": "05eafbbcd2f3630e43a03ed504206b39",
+      "Bevolking geboren buiten EU": 0.1385,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Waterloo",
+      "Gemeente": "f0e3cb6ef3f369ed09074cb01639b989",
+      "Bevolking geboren buiten EU": 0.1372,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Oostende",
+      "Gemeente": "18af2325a51eb89b9a16184a1906b4a6",
+      "Bevolking geboren buiten EU": 0.1353,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Turnhout",
+      "Gemeente": "dcba70a49ebb27488b7db27f615bb7c9",
+      "Bevolking geboren buiten EU": 0.1343,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Wemmel",
+      "Gemeente": "66e8d567bba949c3138e00a830cacb87",
+      "Bevolking geboren buiten EU": 0.1297,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Wezembeek-Oppem",
+      "Gemeente": "8be8a2c2b934f45d323dfcbd7aa7750d",
+      "Bevolking geboren buiten EU": 0.1296,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Sint-Niklaas",
+      "Gemeente": "499ed83e1cf737adcf8b9f9eaed35a4e",
+      "Bevolking geboren buiten EU": 0.1287,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Ans",
+      "Gemeente": "7e7b90e2cbd4c4b681419c58a15aaea9",
+      "Bevolking geboren buiten EU": 0.1281,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Farciennes",
+      "Gemeente": "feba35a2cc9e839365da286521ab68bb",
+      "Bevolking geboren buiten EU": 0.1281,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Willebroek",
+      "Gemeente": "50dc79868e8335ee860db0f2f7c6bba6",
+      "Bevolking geboren buiten EU": 0.1254,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Ronse",
+      "Gemeente": "06578ec0ae1720842b86657432149f6f",
+      "Bevolking geboren buiten EU": 0.1246,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Asse",
+      "Gemeente": "788870513b7139334ba4efaf29e0281e",
+      "Bevolking geboren buiten EU": 0.1231,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Genk",
+      "Gemeente": "17aa66126580bdf3ad9b51f9fb471d7b",
+      "Bevolking geboren buiten EU": 0.1225,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Sint-Pieters-Leeuw",
+      "Gemeente": "8cb2bffa7e5b5cc4a068e44287858254",
+      "Bevolking geboren buiten EU": 0.1218,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Seraing",
+      "Gemeente": "2c34874befeccfc118abe3319e02d3a8",
+      "Bevolking geboren buiten EU": 0.1205,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Denderleeuw",
+      "Gemeente": "e215fa5bdf13635666d5c5df76773bd2",
+      "Bevolking geboren buiten EU": 0.1175,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Charleroi",
+      "Gemeente": "8a69c993a5ef1e80aa358f5a3d26564c",
+      "Bevolking geboren buiten EU": 0.1174,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Bergen",
+      "Gemeente": "c6d83313846426a65839a790c12e3b14",
+      "Bevolking geboren buiten EU": 0.1173,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Namen",
+      "Gemeente": "9ce1609e9d7e6838c2ecc8f5232ae3b7",
+      "Bevolking geboren buiten EU": 0.117,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Borsbeek",
+      "Gemeente": "912ff617366bffc6833fa58d4f9e13f7",
+      "Bevolking geboren buiten EU": 0.1132,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Waver",
+      "Gemeente": "cf6f12faa694b67a614d08abaf1c890a",
+      "Bevolking geboren buiten EU": 0.1099,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Kelmis",
+      "Gemeente": "6eb66e7f682203b1927b6da7e3df656c",
+      "Bevolking geboren buiten EU": 0.1089,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Aarlen",
+      "Gemeente": "1364da8117b4bb97fe72c290a2045c91",
+      "Bevolking geboren buiten EU": 0.1077,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Tubeke",
+      "Gemeente": "2e341938227a98c4aa0217f746696949",
+      "Bevolking geboren buiten EU": 0.1068,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Maasmechelen",
+      "Gemeente": "d3878bbba9c06ff4f207e54e2eff10aa",
+      "Bevolking geboren buiten EU": 0.1067,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Aalst",
+      "Gemeente": "edb455b53c563b71972af4b052714992",
+      "Bevolking geboren buiten EU": 0.1066,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Heusden-Zolder",
+      "Gemeente": "3b783a35cc993aade18c95c21577b25e",
+      "Bevolking geboren buiten EU": 0.1064,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Sint-Genesius-Rode",
+      "Gemeente": "38d2019cc16eb76d13c981ae9266aeee",
+      "Bevolking geboren buiten EU": 0.106,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Grimbergen",
+      "Gemeente": "911f01eb882dadaacdc4c8e00107d7b7",
+      "Bevolking geboren buiten EU": 0.1042,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Terhulpen",
+      "Gemeente": "d3e1b40bc32a053b5ea930d283ebfc94",
+      "Bevolking geboren buiten EU": 0.1013,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Liedekerke",
+      "Gemeente": "307a5c030cf032337afa6cd8d6791081",
+      "Bevolking geboren buiten EU": 0.1001,
+      "categorie": 3,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Kortrijk",
+      "Gemeente": "1a64e31059315312642dd23be30004cd",
+      "Bevolking geboren buiten EU": 0.0997,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Overijse",
+      "Gemeente": "f58055aea298caf422eb40932aec0d78",
+      "Bevolking geboren buiten EU": 0.0997,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Tienen",
+      "Gemeente": "68368bf82d66d4e370c3eb73199f7704",
+      "Bevolking geboren buiten EU": 0.0991,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Dilbeek",
+      "Gemeente": "ef6e99e4c47694e4cfd2ccbfd7ea02ac",
+      "Bevolking geboren buiten EU": 0.0956,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Hoeilaart",
+      "Gemeente": "bb04bef33e7ad8a81c828f148827c37a",
+      "Bevolking geboren buiten EU": 0.0951,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Hoei",
+      "Gemeente": "1fe1d7ee3592cb412d2e5dc054884cf9",
+      "Bevolking geboren buiten EU": 0.0943,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Beringen",
+      "Gemeente": "9e330f02965639617b9af556af4e8996",
+      "Bevolking geboren buiten EU": 0.0915,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Mortsel",
+      "Gemeente": "fd900f17d743b24091bded858c278aa0",
+      "Bevolking geboren buiten EU": 0.0912,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Zelzate",
+      "Gemeente": "09517b12a3ba1f32191e8960a2d90f5b",
+      "Bevolking geboren buiten EU": 0.0908,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Rixensart",
+      "Gemeente": "9af9553b83d76644f85ef1bbdf3cebf2",
+      "Bevolking geboren buiten EU": 0.0907,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Houthalen-Helchteren",
+      "Gemeente": "32c3ae152420ea0ef492fd55f811df25",
+      "Bevolking geboren buiten EU": 0.0903,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Zwijndrecht",
+      "Gemeente": "398437b2d407b3687634a3e921be1edd",
+      "Bevolking geboren buiten EU": 0.0891,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Hasselt",
+      "Gemeente": "00aafe1e8c9ecc70c84e9deacd71176d",
+      "Bevolking geboren buiten EU": 0.0887,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Temse",
+      "Gemeente": "e81c3163505fd3a8b8bd8f8e2d0a23df",
+      "Bevolking geboren buiten EU": 0.0886,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Edegem",
+      "Gemeente": "89f09046b34517d14fc766594ac416af",
+      "Bevolking geboren buiten EU": 0.0882,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Kortenberg",
+      "Gemeente": "68cc0b92338dbec44615e755f7044dae",
+      "Bevolking geboren buiten EU": 0.0878,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Zele",
+      "Gemeente": "fd1ffbdbb69e9233774444b54adf5536",
+      "Bevolking geboren buiten EU": 0.0878,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Jurbeke",
+      "Gemeente": "a70f6fa7ab7c7e3a45a50e2eed69931a",
+      "Bevolking geboren buiten EU": 0.087,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Wezet",
+      "Gemeente": "baafa4bb5aee5e447cc891ecadb6b5ed",
+      "Bevolking geboren buiten EU": 0.0868,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Court-Saint-Etienne",
+      "Gemeente": "7179e41516216bffd76aa0c18caa89d9",
+      "Bevolking geboren buiten EU": 0.0865,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Lokeren",
+      "Gemeente": "68b6987ba45edcc8bff00c7645831e5f",
+      "Bevolking geboren buiten EU": 0.0863,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Aubange",
+      "Gemeente": "eac318672af3092daaf225ffc4640358",
+      "Bevolking geboren buiten EU": 0.0862,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Braine-l'Alleud",
+      "Gemeente": "622eed0bcde808514f87ff27669e6288",
+      "Bevolking geboren buiten EU": 0.0858,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Halle",
+      "Gemeente": "cf12e4ad33f3d9cc645e51b35a4fd571",
+      "Bevolking geboren buiten EU": 0.0857,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Lier",
+      "Gemeente": "79c8ee9705af751a4acdabc1cd35ccf4",
+      "Bevolking geboren buiten EU": 0.0851,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Martelange",
+      "Gemeente": "bb3e6e0010bd7912345ce68792ae3f98",
+      "Bevolking geboren buiten EU": 0.0837,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Wetteren",
+      "Gemeente": "108ac7644dfc43e7d6ec50002b0213b1",
+      "Bevolking geboren buiten EU": 0.0827,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Menen",
+      "Gemeente": "6d039a6af7b347df5fb7533e230373a4",
+      "Bevolking geboren buiten EU": 0.0822,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Grâce-Hollogne",
+      "Gemeente": "1f4eb79a52c4791afe21c6d94ae7114c",
+      "Bevolking geboren buiten EU": 0.0821,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Nijvel",
+      "Gemeente": "533b82c5c7f6c8ccd7e9675351312bad",
+      "Bevolking geboren buiten EU": 0.0817,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Linkebeek",
+      "Gemeente": "f62ff99f78fdc9655c2e7c7e1c4ab59d",
+      "Bevolking geboren buiten EU": 0.0815,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Beyne-Heusay",
+      "Gemeente": "5989cbd1f9a4524ca00ba16b94f8f205",
+      "Bevolking geboren buiten EU": 0.0812,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Quaregnon",
+      "Gemeente": "cd6963bc8d554f61df3052520950ff01",
+      "Bevolking geboren buiten EU": 0.0808,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Leopoldsburg",
+      "Gemeente": "7454c967bb8c2784cffbde2c10d93167",
+      "Bevolking geboren buiten EU": 0.0789,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Sint-Truiden",
+      "Gemeente": "f81ec9128fa5c5f56dc7e799144e6925",
+      "Bevolking geboren buiten EU": 0.0783,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Lasne",
+      "Gemeente": "c2b762540d3d943ad3383138dabc1b8f",
+      "Bevolking geboren buiten EU": 0.0783,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Diest",
+      "Gemeente": "30d322c7a9029810178965f721c56bde",
+      "Bevolking geboren buiten EU": 0.0779,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Edingen",
+      "Gemeente": "b3937fabb8c7135488ca60480e51d149",
+      "Bevolking geboren buiten EU": 0.0778,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Beersel",
+      "Gemeente": "a2e3748cb7c3e12c99bf679fe85aa1c0",
+      "Bevolking geboren buiten EU": 0.0763,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Wijnegem",
+      "Gemeente": "75089ddf5b49723af7722c3ace9f09b8",
+      "Bevolking geboren buiten EU": 0.076,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Roeselare",
+      "Gemeente": "5860654db7f3b0c999c6001b8c6bc23d",
+      "Bevolking geboren buiten EU": 0.0754,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "La Louvière",
+      "Gemeente": "5d0a1a7bae6a9d1e6915d52858e08987",
+      "Bevolking geboren buiten EU": 0.0754,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Fléron",
+      "Gemeente": "c820cd3521a291004b6bcf07ce80e5f3",
+      "Bevolking geboren buiten EU": 0.0754,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Mol",
+      "Gemeente": "b2b8fead34b714c1b279b3772f863c40",
+      "Bevolking geboren buiten EU": 0.0749,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Chastre",
+      "Gemeente": "15fdc7040d027ea66177ef2c525ebd9a",
+      "Bevolking geboren buiten EU": 0.0742,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Hemiksem",
+      "Gemeente": "a33fee2a3c2cfbd877c7bac3fdebf145",
+      "Bevolking geboren buiten EU": 0.0736,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Welkenraedt",
+      "Gemeente": "a4b6fe3386cde84aaa38ae58c3bee5b8",
+      "Bevolking geboren buiten EU": 0.0735,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "s Gravenbrakel",
+      "Gemeente": "7892b02f673b9817cf27d7ff3b0b659a",
+      "Bevolking geboren buiten EU": 0.073,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Châtelet",
+      "Gemeente": "da1b12c8e79bba124711bbe813b52489",
+      "Bevolking geboren buiten EU": 0.0726,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Eeklo",
+      "Gemeente": "5b751db6543e9dace6cbf6aa46c9e335",
+      "Bevolking geboren buiten EU": 0.0724,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Mont-Saint-Guibert",
+      "Gemeente": "b9a5c7d7001b6a5fc3d3aa0676bcce27",
+      "Bevolking geboren buiten EU": 0.0723,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Malmedy",
+      "Gemeente": "eeca3ee765c72de046a00195f45bf204",
+      "Bevolking geboren buiten EU": 0.0711,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Ninove",
+      "Gemeente": "b95d2b52b4862d27d3ae333f61828856",
+      "Bevolking geboren buiten EU": 0.0707,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Gembloux",
+      "Gemeente": "3f9064d4e6d7ad22a482d9db2f3e786a",
+      "Bevolking geboren buiten EU": 0.07,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Meise",
+      "Gemeente": "8eaff61f37634ddda3612a34222db474",
+      "Bevolking geboren buiten EU": 0.0694,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Manage",
+      "Gemeente": "8deca86c0cb3e61f561cc1c20e3a6a07",
+      "Bevolking geboren buiten EU": 0.0694,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Lens",
+      "Gemeente": "e2c06b75d89b198ce6a744130716e4eb",
+      "Bevolking geboren buiten EU": 0.0692,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Brugge",
+      "Gemeente": "98ccc0a7e399e7a895ee81fb09ff37fa",
+      "Bevolking geboren buiten EU": 0.0692,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Bertem",
+      "Gemeente": "11ec2dd8624951cca31f6a73760c5f96",
+      "Bevolking geboren buiten EU": 0.0689,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Spa",
+      "Gemeente": "8e66d16e001a7149d102bf88dfa70db0",
+      "Bevolking geboren buiten EU": 0.0677,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Wommelgem",
+      "Gemeente": "d59beaa9e8e2db2d02cc7e8bc1f3dd22",
+      "Bevolking geboren buiten EU": 0.0676,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Aiseau-Presles",
+      "Gemeente": "206882781802744fe0ee825ecaadebd4",
+      "Bevolking geboren buiten EU": 0.0676,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Graven",
+      "Gemeente": "08067e406ffb46a0150f672806dead39",
+      "Bevolking geboren buiten EU": 0.0672,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Zinnik",
+      "Gemeente": "ae520adad2c76e0f9bcf014cee96b635",
+      "Bevolking geboren buiten EU": 0.0666,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Tongeren",
+      "Gemeente": "c1df550df1abbe6a6fb8f365468fe8b2",
+      "Bevolking geboren buiten EU": 0.0665,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Kuurne",
+      "Gemeente": "da42d11e87dc46817927f77114c6614b",
+      "Bevolking geboren buiten EU": 0.0661,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Virton",
+      "Gemeente": "3c45a8304cf3c4abbf448c10087ab016",
+      "Bevolking geboren buiten EU": 0.066,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Hensies",
+      "Gemeente": "cc371305127f88ef2830dda8c6ad1894",
+      "Bevolking geboren buiten EU": 0.066,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Steenokkerzeel",
+      "Gemeente": "252aa6b0ab40fcb6dafe6e34b896b582",
+      "Bevolking geboren buiten EU": 0.0658,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Bastenaken",
+      "Gemeente": "8dbc55316567d15dd45c65bf8170d862",
+      "Bevolking geboren buiten EU": 0.0653,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Geraardsbergen",
+      "Gemeente": "9ce23192474584ce94568cfe06417ab0",
+      "Bevolking geboren buiten EU": 0.0646,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Raeren",
+      "Gemeente": "13dbf0252db4a254d5f7ac175eb3e221",
+      "Bevolking geboren buiten EU": 0.0644,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Herentals",
+      "Gemeente": "592e6fc52c209a8d1175f71ce4d6cc64",
+      "Bevolking geboren buiten EU": 0.0644,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Niel",
+      "Gemeente": "8ae3cac48499e79e0e3cc1d4435c709b",
+      "Bevolking geboren buiten EU": 0.064,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Herent",
+      "Gemeente": "14248231bc2ece7e8b8296166615f4ac",
+      "Bevolking geboren buiten EU": 0.0635,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Brasschaat",
+      "Gemeente": "d0e6a2da53acdb5bb0fd24856e24d424",
+      "Bevolking geboren buiten EU": 0.0634,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Aartselaar",
+      "Gemeente": "84e0b5237c63f05a5c5cd5e0012a7871",
+      "Bevolking geboren buiten EU": 0.0625,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Lontzen",
+      "Gemeente": "21f8241368a7c472e6314d11f688771b",
+      "Bevolking geboren buiten EU": 0.0624,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Geel",
+      "Gemeente": "ae44798f5a888b6523b76b831c69e9a9",
+      "Bevolking geboren buiten EU": 0.0622,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Merchtem",
+      "Gemeente": "e22d2565aba3cd94f6b6c012957a05b0",
+      "Bevolking geboren buiten EU": 0.062,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Schoten",
+      "Gemeente": "893d0ff1c564e47e683f33d0d8a74333",
+      "Bevolking geboren buiten EU": 0.0614,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Blankenberge",
+      "Gemeente": "d9d0286ecf2b384ae0f7c3897a4c38a3",
+      "Bevolking geboren buiten EU": 0.061,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "De Panne",
+      "Gemeente": "fe69fcb4d21c168b951735b99330810b",
+      "Bevolking geboren buiten EU": 0.0604,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Harelbeke",
+      "Gemeente": "bb78d045c5a07e23d0448ca84c81fdca",
+      "Bevolking geboren buiten EU": 0.0599,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Brugelette",
+      "Gemeente": "bc2c7c87c7b77e692b06c47feece4728",
+      "Bevolking geboren buiten EU": 0.0599,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Dinant",
+      "Gemeente": "086497951fa67b473424fff0d0803a0b",
+      "Bevolking geboren buiten EU": 0.0597,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Flémalle",
+      "Gemeente": "215a1b53a8e485737cba05a960a26d63",
+      "Bevolking geboren buiten EU": 0.0595,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Marche-en-Famenne",
+      "Gemeente": "2dbe81d050a1667f9d485a39ee106f3e",
+      "Bevolking geboren buiten EU": 0.0594,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Oupeye",
+      "Gemeente": "0b5a084e342b318a0caf1bbf78d580db",
+      "Bevolking geboren buiten EU": 0.0594,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Lanaken",
+      "Gemeente": "7e4706f281ba4f62d6353b0edb6d3509",
+      "Bevolking geboren buiten EU": 0.0594,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Chaudfontaine",
+      "Gemeente": "3f5de59dc5ed34be174cf8d9a881799b",
+      "Bevolking geboren buiten EU": 0.0593,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Dendermonde",
+      "Gemeente": "70e9477d9f9130b361154960c72c184d",
+      "Bevolking geboren buiten EU": 0.0591,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Chaumont-Gistoux",
+      "Gemeente": "b089eb12c7e9b75420908beaf30346b0",
+      "Bevolking geboren buiten EU": 0.0591,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Ternat",
+      "Gemeente": "a55da2d35f0f5f8185f219aa67525e2b",
+      "Bevolking geboren buiten EU": 0.0586,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Hamont-Achel",
+      "Gemeente": "6d71eb8098487dcad0942a6eb922ac9f",
+      "Bevolking geboren buiten EU": 0.0584,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Landen",
+      "Gemeente": "309829a329cef5dda23bdaa6499f3c30",
+      "Bevolking geboren buiten EU": 0.0581,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Affligem",
+      "Gemeente": "d4ee505cadd43cb15584e6e44b7df232",
+      "Bevolking geboren buiten EU": 0.058,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Kasteelbrakel",
+      "Gemeente": "0cab36a786a5bc06f745ffd3f046efdc",
+      "Bevolking geboren buiten EU": 0.0577,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Quiévrain",
+      "Gemeente": "33d5704321ccb36083baa592104879aa",
+      "Bevolking geboren buiten EU": 0.0574,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Huldenberg",
+      "Gemeente": "e9f385e6c2f4ca59502ddf62b55dc5ba",
+      "Bevolking geboren buiten EU": 0.0569,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Hélécine",
+      "Gemeente": "0eb5ce72bf313a4be6378d5d0579e1bc",
+      "Bevolking geboren buiten EU": 0.0565,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Libramont-Chevigny",
+      "Gemeente": "ecdd838e16556392da1cd1d6eea38add",
+      "Bevolking geboren buiten EU": 0.0565,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Baarle-Hertog",
+      "Gemeente": "a9a18d766e12aafc660c79be227ac4dd",
+      "Bevolking geboren buiten EU": 0.0562,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Genepiën",
+      "Gemeente": "91e7e2aadc3a62ee4178f21a7e8373a6",
+      "Bevolking geboren buiten EU": 0.0559,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Borgworm",
+      "Gemeente": "2521b4b13b20fc7a291b73215543cff4",
+      "Bevolking geboren buiten EU": 0.0556,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Geldenaken",
+      "Gemeente": "f0d67031bb9e4c10c22cf2f123155a6d",
+      "Bevolking geboren buiten EU": 0.0556,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Andenne",
+      "Gemeente": "9ffc2d09b6f041fce5811224aa97f45c",
+      "Bevolking geboren buiten EU": 0.0553,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Bilzen",
+      "Gemeente": "e04849f17a48ecd120101f5b6abe1606",
+      "Bevolking geboren buiten EU": 0.0549,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Moeskroen",
+      "Gemeente": "cc669f4d13562da4a92fee163ee63eea",
+      "Bevolking geboren buiten EU": 0.0543,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Seneffe",
+      "Gemeente": "599fd82c14a2b75edb590c59e7949412",
+      "Bevolking geboren buiten EU": 0.0541,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Kontich",
+      "Gemeente": "51dcc8db85c4ca173824019eb9e7cbd2",
+      "Bevolking geboren buiten EU": 0.0536,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Bredene",
+      "Gemeente": "52678caf37fd2df016c6445f133829b4",
+      "Bevolking geboren buiten EU": 0.0534,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Doornik",
+      "Gemeente": "acf9bce0e0a5741d491b619c33915337",
+      "Bevolking geboren buiten EU": 0.0534,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Tielt",
+      "Gemeente": "08b0fd8716dca79976becb318ada8d80",
+      "Bevolking geboren buiten EU": 0.0533,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Essen",
+      "Gemeente": "f503215f35f61fb10a3e8bc7ff2f218d",
+      "Bevolking geboren buiten EU": 0.0533,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Courcelles",
+      "Gemeente": "ac14ffeb7a931b87cb2b0b45651330fa",
+      "Bevolking geboren buiten EU": 0.053,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Maaseik",
+      "Gemeente": "ca18b8b47c8a2462f2c123549aff2f30",
+      "Bevolking geboren buiten EU": 0.053,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Boechout",
+      "Gemeente": "d76ff52562653040983ddf1c514fdf7c",
+      "Bevolking geboren buiten EU": 0.0524,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Waregem",
+      "Gemeente": "ceb8a0607a626357f29d0347533e259f",
+      "Bevolking geboren buiten EU": 0.0523,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Hamme",
+      "Gemeente": "60b7dd39c93defd99bdf057f65bd554e",
+      "Bevolking geboren buiten EU": 0.0522,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Knokke-Heist",
+      "Gemeente": "b73941f0949eb8e529de011a213c6fad",
+      "Bevolking geboren buiten EU": 0.0521,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Pelt",
+      "Gemeente": "bc8c167a8d1139eca41fa356ee70931e",
+      "Bevolking geboren buiten EU": 0.052,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Colfontaine",
+      "Gemeente": "082a4a7927e8b2731fcded79946c4e2f",
+      "Bevolking geboren buiten EU": 0.0516,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Oudenaarde",
+      "Gemeente": "3d1952cd44307d54e5fbd89291cdb9ee",
+      "Bevolking geboren buiten EU": 0.0515,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Borgloon",
+      "Gemeente": "08af2a37525eecf85444cd2de5bdfe18",
+      "Bevolking geboren buiten EU": 0.0515,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Dilsen-Stokkem",
+      "Gemeente": "506cee7649e0a3fb01d1e23c432f22a2",
+      "Bevolking geboren buiten EU": 0.0514,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Oud-Heverlee",
+      "Gemeente": "2b8bc546f7a500972bf7ba835c99e2a8",
+      "Bevolking geboren buiten EU": 0.0513,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Lommel",
+      "Gemeente": "8bd89c2997c77234b90a125236208b0a",
+      "Bevolking geboren buiten EU": 0.0513,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Lubbeek",
+      "Gemeente": "e2338a39be41df76f72db7e145d50244",
+      "Bevolking geboren buiten EU": 0.0513,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Bevekom",
+      "Gemeente": "1eddb9f73beb5bb0970085a3f4a86061",
+      "Bevolking geboren buiten EU": 0.0513,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Frameries",
+      "Gemeente": "3d30b93e9430499c3ebd12325253bbd0",
+      "Bevolking geboren buiten EU": 0.0512,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Baelen",
+      "Gemeente": "a35860e14267eda536f16eda45e56793",
+      "Bevolking geboren buiten EU": 0.0509,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Fleurus",
+      "Gemeente": "12cf3ee6dffd6887278e0be2c2cb7965",
+      "Bevolking geboren buiten EU": 0.0506,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Juprelle",
+      "Gemeente": "7ad2d4cacbb6f0d059e203b2952afc88",
+      "Bevolking geboren buiten EU": 0.0501,
+      "categorie": 2,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Opwijk",
+      "Gemeente": "1fc732ba7719c3f89e0f1432d82e0e39",
+      "Bevolking geboren buiten EU": 0.0494,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Kruibeke",
+      "Gemeente": "38f3046bba5789bb188d42264fca3282",
+      "Bevolking geboren buiten EU": 0.0491,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Bierbeek",
+      "Gemeente": "1502265d193314133078ab86a8575a9d",
+      "Bevolking geboren buiten EU": 0.0491,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Kapellen",
+      "Gemeente": "864b83187a00fb062fc626caba9a64fe",
+      "Bevolking geboren buiten EU": 0.049,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Sankt Vith",
+      "Gemeente": "dc7e20907c9c7fea96a82c5a642a135e",
+      "Bevolking geboren buiten EU": 0.0489,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Boussu",
+      "Gemeente": "4e5946dbc0f5faa66501a05d5c7848ec",
+      "Bevolking geboren buiten EU": 0.0488,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Rebecq",
+      "Gemeente": "a579f9b2d1ea2ef65bb4731258da0214",
+      "Bevolking geboren buiten EU": 0.0484,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Walhain",
+      "Gemeente": "cd026e43713e23ba53f649aadb0dcf92",
+      "Bevolking geboren buiten EU": 0.0478,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Neufchâteau",
+      "Gemeente": "4c5e34463684f1dc690966347a6f4417",
+      "Bevolking geboren buiten EU": 0.0478,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Kampenhout",
+      "Gemeente": "c39f007e7975301ede15a7c745ccb99d",
+      "Bevolking geboren buiten EU": 0.0474,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Sint-Katelijne-Waver",
+      "Gemeente": "698a1c027205e882f89d08a7fe163a84",
+      "Bevolking geboren buiten EU": 0.0473,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Schilde",
+      "Gemeente": "5d1cbef5698f39ad7584d7aaed7c75f2",
+      "Bevolking geboren buiten EU": 0.0473,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Ieper",
+      "Gemeente": "357a6940342439cb71125404a23bbc1e",
+      "Bevolking geboren buiten EU": 0.0472,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Melle",
+      "Gemeente": "dc2cb25701244a4b923f815effe80e6a",
+      "Bevolking geboren buiten EU": 0.0467,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Beveren",
+      "Gemeente": "191524124f8d64683cd7c54f5dd6433d",
+      "Bevolking geboren buiten EU": 0.0467,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Incourt",
+      "Gemeente": "73508a21b8a2bead284c23dfb0504b83",
+      "Bevolking geboren buiten EU": 0.0465,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Duffel",
+      "Gemeente": "711e84c62765e95d83588ba8be9b4ca7",
+      "Bevolking geboren buiten EU": 0.0464,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Lennik",
+      "Gemeente": "431a557c7ea0fcca9f2f72eb39ab8e76",
+      "Bevolking geboren buiten EU": 0.046,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Lebbeke",
+      "Gemeente": "72e9101d9d7f959a8aea41f413190cee",
+      "Bevolking geboren buiten EU": 0.046,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Messancy",
+      "Gemeente": "d9b28aec283cfced4176c353c766f515",
+      "Bevolking geboren buiten EU": 0.0459,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Nieuwpoort",
+      "Gemeente": "f0deca56cde01cfc0d42c19ac0c7cef7",
+      "Bevolking geboren buiten EU": 0.0458,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Attert",
+      "Gemeente": "b3c8ac8004f272216391133f9700c219",
+      "Bevolking geboren buiten EU": 0.0458,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Rumst",
+      "Gemeente": "e9fe6f3101f37b8d7ec62b601eca62d9",
+      "Bevolking geboren buiten EU": 0.0458,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Waasmunster",
+      "Gemeente": "abf74c0bdfe8b51f65d26729a8bdea0c",
+      "Bevolking geboren buiten EU": 0.0456,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Vielsalm",
+      "Gemeente": "c72d4c472c38db1fbf70fd304c320c07",
+      "Bevolking geboren buiten EU": 0.0453,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Lessen",
+      "Gemeente": "043189b1373dcc146201389616f95001",
+      "Bevolking geboren buiten EU": 0.0453,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Wanze",
+      "Gemeente": "9804cad88f215694c3eea4c8c635b8e5",
+      "Bevolking geboren buiten EU": 0.0453,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Bertrix",
+      "Gemeente": "36a3180d88adc647ff4699446684b044",
+      "Bevolking geboren buiten EU": 0.0453,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Perwijs",
+      "Gemeente": "751f71bdc920f848a56b3d9f0dcd74d3",
+      "Bevolking geboren buiten EU": 0.0451,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Pepinster",
+      "Gemeente": "734cd065821a8c64bf369f271636af3f",
+      "Bevolking geboren buiten EU": 0.0449,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Fontaine-l'Evêque",
+      "Gemeente": "24ab938a4f501d17d2e858a67cd7490c",
+      "Bevolking geboren buiten EU": 0.0448,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Hannuit",
+      "Gemeente": "195c6221fb091975c14b61b1cfb1b4d3",
+      "Bevolking geboren buiten EU": 0.0448,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Londerzeel",
+      "Gemeente": "95a900b5c1c8601eda007f1631b003b3",
+      "Bevolking geboren buiten EU": 0.0443,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Montigny-le-Tilleul",
+      "Gemeente": "720ee9c171f4c7233fad4f52ce5bd989",
+      "Bevolking geboren buiten EU": 0.044,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Erpe-Mere",
+      "Gemeente": "529e069fa24242833b650b48dc4ea248",
+      "Bevolking geboren buiten EU": 0.044,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Bonheiden",
+      "Gemeente": "c38a1265247aed7c69de15d208fb6ef1",
+      "Bevolking geboren buiten EU": 0.0439,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Limburg",
+      "Gemeente": "f36b67d7c3487f867aea5ef263fb99e8",
+      "Bevolking geboren buiten EU": 0.0438,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Hoegaarden",
+      "Gemeente": "791ab66a0dd6a83cfd2fbace8658c8f5",
+      "Bevolking geboren buiten EU": 0.0437,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Esneux",
+      "Gemeente": "386561b78146361d42f13e94c36f43ec",
+      "Bevolking geboren buiten EU": 0.0433,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Alken",
+      "Gemeente": "e32613d5dfedc70dacc1a15c368ef31b",
+      "Bevolking geboren buiten EU": 0.043,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Plombières",
+      "Gemeente": "9bee700164a02a51ac6abe8e9fad16ba",
+      "Bevolking geboren buiten EU": 0.0428,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Aarschot",
+      "Gemeente": "af4c11126a0390c48f05d501909dc97d",
+      "Bevolking geboren buiten EU": 0.0428,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Retie",
+      "Gemeente": "b38f4d256f834f2540d2e4af318e61f6",
+      "Bevolking geboren buiten EU": 0.0426,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Awans",
+      "Gemeente": "a2dd4b8de62ed58fd8a5e9d3beb58b46",
+      "Bevolking geboren buiten EU": 0.0425,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Chapelle-lez-Herlaimont",
+      "Gemeente": "78e4e14840a46051422f1b892fc9ae43",
+      "Bevolking geboren buiten EU": 0.0425,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Tessenderlo",
+      "Gemeente": "80337cd9af806be7a6032c36f504464b",
+      "Bevolking geboren buiten EU": 0.0424,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Destelbergen",
+      "Gemeente": "0e279243d0f2e9ccd287b5714d3e9956",
+      "Bevolking geboren buiten EU": 0.0424,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Saint-Hubert",
+      "Gemeente": "03eb25eeea42f3360df9773f15bd6955",
+      "Bevolking geboren buiten EU": 0.0423,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Merelbeke",
+      "Gemeente": "da4fae5700c279f8a9bd0ed832ed699e",
+      "Bevolking geboren buiten EU": 0.042,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Trooz",
+      "Gemeente": "038af339d6928055241e6d6a0fbe7d9d",
+      "Bevolking geboren buiten EU": 0.042,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Yvoir",
+      "Gemeente": "e130e10b0c5fbe070ec8ffa4ee538d71",
+      "Bevolking geboren buiten EU": 0.0417,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Itter",
+      "Gemeente": "0ae650e09f77ba1c4fe0582c8fa46dca",
+      "Bevolking geboren buiten EU": 0.0417,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Boutersem",
+      "Gemeente": "a950ec4fa002c7aa372f1d250315428c",
+      "Bevolking geboren buiten EU": 0.0417,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Anderlues",
+      "Gemeente": "7509cf466c49214cf6e1290f90219e4e",
+      "Bevolking geboren buiten EU": 0.0417,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Puurs-Sint-Amands",
+      "Gemeente": "5170ed3b76b83219c938d6fa2b3ded51",
+      "Bevolking geboren buiten EU": 0.0416,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Sint-Gillis-Waas",
+      "Gemeente": "3c879a2822f2d00d61c944e572608b1d",
+      "Bevolking geboren buiten EU": 0.0416,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Saint-Ghislain",
+      "Gemeente": "fdc55e7d9c7a7b0f28d09901c203fb51",
+      "Bevolking geboren buiten EU": 0.0415,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Sint-Martens-Latem",
+      "Gemeente": "6da640814defe31fa2565b1e8ef74780",
+      "Bevolking geboren buiten EU": 0.0415,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Hechtel-Eksel",
+      "Gemeente": "ac33bb6359e9125a57792a5e758aac83",
+      "Bevolking geboren buiten EU": 0.0415,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Soumagne",
+      "Gemeente": "8b8ed675bc1cabad89fa662d4d9716e9",
+      "Bevolking geboren buiten EU": 0.0413,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Hotton",
+      "Gemeente": "4fe1cfc258ac499c21f3251143aa65f8",
+      "Bevolking geboren buiten EU": 0.0413,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Stabroek",
+      "Gemeente": "7ce34eb7d1830876f32e915288546cd0",
+      "Bevolking geboren buiten EU": 0.0412,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Villers-la-Ville",
+      "Gemeente": "d86129084c4607db964e9f54c0e93a79",
+      "Bevolking geboren buiten EU": 0.041,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Bever",
+      "Gemeente": "f56a6d74fab5fe218d46e8ee213912b4",
+      "Bevolking geboren buiten EU": 0.0409,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Houffalize",
+      "Gemeente": "73460a2b8aa39a18a6aec0ba422803c2",
+      "Bevolking geboren buiten EU": 0.0407,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Keerbergen",
+      "Gemeente": "a8f25930a66fe71a5925992675509d65",
+      "Bevolking geboren buiten EU": 0.0407,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Diepenbeek",
+      "Gemeente": "ad74500a0c17418ff3b7ce7e25e32879",
+      "Bevolking geboren buiten EU": 0.0406,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Malle",
+      "Gemeente": "6dd2a4d76765fef996ded4aa2f11d741",
+      "Bevolking geboren buiten EU": 0.0405,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Neupré",
+      "Gemeente": "1af9295ca1197c4041b1362a37e61410",
+      "Bevolking geboren buiten EU": 0.0405,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Durbuy",
+      "Gemeente": "23886a2bc00d4c73695cb53addf2c131",
+      "Bevolking geboren buiten EU": 0.0405,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Orp-Jauche",
+      "Gemeente": "41bba19aa987815313d9dd8de2da0124",
+      "Bevolking geboren buiten EU": 0.0403,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Izegem",
+      "Gemeente": "a0c1f5d4654119018552cce1515e92af",
+      "Bevolking geboren buiten EU": 0.0401,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Zottegem",
+      "Gemeente": "a4a00d4a9d0fd2d2fe80425a856248cd",
+      "Bevolking geboren buiten EU": 0.04,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Lint",
+      "Gemeente": "9cb27b4600fff478d2bd97aaa16fc4ce",
+      "Bevolking geboren buiten EU": 0.04,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Oud-Turnhout",
+      "Gemeente": "fd3470966cef8c5682e0492d00977642",
+      "Bevolking geboren buiten EU": 0.04,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Aat",
+      "Gemeente": "b19ad2dcd488ebfea7cc0ffef96c957c",
+      "Bevolking geboren buiten EU": 0.04,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Hoogstraten",
+      "Gemeente": "67db1c86f2ad638a3ce66eff72e6031e",
+      "Bevolking geboren buiten EU": 0.0399,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Pont-à-Celles",
+      "Gemeente": "d5e761daaffd61202dd7f5cdf63e85c3",
+      "Bevolking geboren buiten EU": 0.0399,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Ravels",
+      "Gemeente": "57f7d04d44ef47a4b227a29fc9bb33e7",
+      "Bevolking geboren buiten EU": 0.0398,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Koksijde",
+      "Gemeente": "c49d789dff7e74fe1fdc154fe4b122a7",
+      "Bevolking geboren buiten EU": 0.0396,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Wervik",
+      "Gemeente": "b4901f05616ac2a2faebe1f656a3ee75",
+      "Bevolking geboren buiten EU": 0.0395,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Boortmeerbeek",
+      "Gemeente": "d4daa5565084f3f92087497a16b97191",
+      "Bevolking geboren buiten EU": 0.0395,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Herbeumont",
+      "Gemeente": "c1d78cf44946f785be3fc676059c8833",
+      "Bevolking geboren buiten EU": 0.0393,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Zutendaal",
+      "Gemeente": "c1e7741639591368dc1de9b79c78e1ea",
+      "Bevolking geboren buiten EU": 0.0392,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Rochefort",
+      "Gemeente": "bdc7331743bac5fe4b654ca5bb2d898d",
+      "Bevolking geboren buiten EU": 0.0392,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Herve",
+      "Gemeente": "faa937e06dfcd03f03d8f9893062c48a",
+      "Bevolking geboren buiten EU": 0.0392,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Riemst",
+      "Gemeente": "018208fa30049eed0b2e518842f883e4",
+      "Bevolking geboren buiten EU": 0.0391,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Kapelle-op-den-Bos",
+      "Gemeente": "4d10634f465832f3b418fca27b0dabd9",
+      "Bevolking geboren buiten EU": 0.0391,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Arendonk",
+      "Gemeente": "440c36f104df3cbe20d2629335601c48",
+      "Bevolking geboren buiten EU": 0.0388,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Sambreville",
+      "Gemeente": "f0209501370cae813ed698a2f91e7193",
+      "Bevolking geboren buiten EU": 0.0387,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Dessel",
+      "Gemeente": "12effa30f5f752439c8282458fd85e3c",
+      "Bevolking geboren buiten EU": 0.0387,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Zemst",
+      "Gemeente": "c861da9f88c327249155d73b6afeb675",
+      "Bevolking geboren buiten EU": 0.0386,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Hove",
+      "Gemeente": "534f8c079d9a2406ce91ca0cfd430ec8",
+      "Bevolking geboren buiten EU": 0.0386,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Heers",
+      "Gemeente": "87b0d7d543788e59450d6121ed37b346",
+      "Bevolking geboren buiten EU": 0.0386,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Bocholt",
+      "Gemeente": "bbb813ab870d40a94e25f89c207cd02a",
+      "Bevolking geboren buiten EU": 0.0386,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Deinze",
+      "Gemeente": "6a6644af62daf3604e80d46d8fa02dce",
+      "Bevolking geboren buiten EU": 0.0385,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Trois-Ponts",
+      "Gemeente": "f457c885aa6fdde67c21c6e32e1fb563",
+      "Bevolking geboren buiten EU": 0.0384,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Ham",
+      "Gemeente": "44182b6ae3229773dfb3043add8b69d4",
+      "Bevolking geboren buiten EU": 0.0384,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Holsbeek",
+      "Gemeente": "4a9778ebca7484306cff1d83c2c0d198",
+      "Bevolking geboren buiten EU": 0.0384,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Bornem",
+      "Gemeente": "dd18152a516e7645e8e2175809ccf33d",
+      "Bevolking geboren buiten EU": 0.0384,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Oerle",
+      "Gemeente": "926da85d84a7b788a79600afa10a5321",
+      "Bevolking geboren buiten EU": 0.0383,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Aywaille",
+      "Gemeente": "f0baa740557a7463f21dccc25ce9b30e",
+      "Bevolking geboren buiten EU": 0.0382,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "De Pinte",
+      "Gemeente": "5d45f7722b44d301de7ea89fa3e0873e",
+      "Bevolking geboren buiten EU": 0.038,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Ciney",
+      "Gemeente": "9dc4d73d6829a3f6e1d860738625e1f7",
+      "Bevolking geboren buiten EU": 0.0378,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Wielsbeke",
+      "Gemeente": "af83aa08b8b6839d47930412e21142f4",
+      "Bevolking geboren buiten EU": 0.0376,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Le Roeulx",
+      "Gemeente": "dd7972318956707af2272bea5b97670d",
+      "Bevolking geboren buiten EU": 0.0374,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Blegny",
+      "Gemeente": "7c2251b816d3c99052bb921f9cc06200",
+      "Bevolking geboren buiten EU": 0.0374,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Gingelom",
+      "Gemeente": "ce60938f8f4dd8f2cd5faad45ba25e5e",
+      "Bevolking geboren buiten EU": 0.0374,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Schelle",
+      "Gemeente": "921bbb45f38e77f26c84b42edabd6f8b",
+      "Bevolking geboren buiten EU": 0.0373,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Lijsem",
+      "Gemeente": "edefc164601cc125e24640314555bc7d",
+      "Bevolking geboren buiten EU": 0.0371,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Aubel",
+      "Gemeente": "0f8d1d587bf0b357237c1841064d59f4",
+      "Bevolking geboren buiten EU": 0.037,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Amay",
+      "Gemeente": "24b4d901af15a8c6658e74cf674172ec",
+      "Bevolking geboren buiten EU": 0.037,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Vosselaar",
+      "Gemeente": "61a8ef478a717ba7f37bf60153ab9bf4",
+      "Bevolking geboren buiten EU": 0.0368,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Kalmthout",
+      "Gemeente": "b4f700ce8cd366acb8ce87f028c861b6",
+      "Bevolking geboren buiten EU": 0.0367,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Roosdaal",
+      "Gemeente": "9dba08372011be5299a4e4137d2d6607",
+      "Bevolking geboren buiten EU": 0.0366,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Saint-Léger",
+      "Gemeente": "8b3f8f3b376f510525fc0d50b24b48da",
+      "Bevolking geboren buiten EU": 0.0366,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Bree",
+      "Gemeente": "078e36e3afc079074bc695630d8ed821",
+      "Bevolking geboren buiten EU": 0.0366,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Zonhoven",
+      "Gemeente": "cd7caea3353da0846da1a26672160bb7",
+      "Bevolking geboren buiten EU": 0.0365,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Rouvroy",
+      "Gemeente": "5b39073960bda77e99f8ae112c517d52",
+      "Bevolking geboren buiten EU": 0.0365,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Meerhout",
+      "Gemeente": "0498ab4e82207f4fed097c0773bfe4d1",
+      "Bevolking geboren buiten EU": 0.0364,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Engis",
+      "Gemeente": "3315212da276fc5b375bbbd617fd841d",
+      "Bevolking geboren buiten EU": 0.0364,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Ecaussinnes",
+      "Gemeente": "9e2b129317686f55370077fde539792d",
+      "Bevolking geboren buiten EU": 0.0362,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Deerlijk",
+      "Gemeente": "b0c9d97b0a4602a37fee0acdf40f7884",
+      "Bevolking geboren buiten EU": 0.0361,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Rotselaar",
+      "Gemeente": "a5176b99ebc4f8be806b390d22d7ea8f",
+      "Bevolking geboren buiten EU": 0.0361,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Lede",
+      "Gemeente": "c64879a60a36f2956903dbb0ec743057",
+      "Bevolking geboren buiten EU": 0.036,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Berlaar",
+      "Gemeente": "129df36840cf53b3eb8c4d27280d9660",
+      "Bevolking geboren buiten EU": 0.036,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Wevelgem",
+      "Gemeente": "523b90d573bf482fc7641a26b9468f8f",
+      "Bevolking geboren buiten EU": 0.0359,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Ramillies",
+      "Gemeente": "cc7fa8133fd2a6f20686db8563301a18",
+      "Bevolking geboren buiten EU": 0.0358,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Haaltert",
+      "Gemeente": "4d1213a002fa3c91c7a0ca9aed0c69e4",
+      "Bevolking geboren buiten EU": 0.0358,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "As",
+      "Gemeente": "2543214dc76d89864d3c810a18f3ddb1",
+      "Bevolking geboren buiten EU": 0.0358,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Etalle",
+      "Gemeente": "6c987f5e266bc9aa7d6a266e0bca8379",
+      "Bevolking geboren buiten EU": 0.0356,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Berloz",
+      "Gemeente": "d9fa87a38b1d87d2749e276b140be0bc",
+      "Bevolking geboren buiten EU": 0.0355,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Gesves",
+      "Gemeente": "636336345bb5c15491b03f1f565c3632",
+      "Bevolking geboren buiten EU": 0.0355,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Nieuwerkerken",
+      "Gemeente": "eca523446b7f1bebcd05c1b94e32689d",
+      "Bevolking geboren buiten EU": 0.0354,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Tielt-Winge",
+      "Gemeente": "d3cbe93f43162ca297e6a388a904c5f8",
+      "Bevolking geboren buiten EU": 0.0351,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Habay",
+      "Gemeente": "dafbb54c19e4e067a33fcb9220375626",
+      "Bevolking geboren buiten EU": 0.0351,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Herk-de-Stad",
+      "Gemeente": "47a014ca61036ef7f573ec0377f94832",
+      "Bevolking geboren buiten EU": 0.035,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Vresse-sur-Semois",
+      "Gemeente": "bc4b553ea9019b9e13a784c9793abf39",
+      "Bevolking geboren buiten EU": 0.035,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Florenville",
+      "Gemeente": "90acfabfe45f281f1e2dff2cf2bfd98e",
+      "Bevolking geboren buiten EU": 0.0348,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Weismes",
+      "Gemeente": "4ee21de35ceed9dce82a0f85f88d3064",
+      "Bevolking geboren buiten EU": 0.0345,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Wachtebeke",
+      "Gemeente": "9159892f73a49c0251fb3af589b49216",
+      "Bevolking geboren buiten EU": 0.0344,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Profondeville",
+      "Gemeente": "2333988e7f516063700143ac95ad29ca",
+      "Bevolking geboren buiten EU": 0.0343,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Morlanwelz",
+      "Gemeente": "885870b6cfff9c8779fa56fef919e0f6",
+      "Bevolking geboren buiten EU": 0.0343,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Sombreffe",
+      "Gemeente": "1733f3c940bd86db940d774a1716ed3e",
+      "Bevolking geboren buiten EU": 0.0343,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Westerlo",
+      "Gemeente": "838c742167a464c9a1249b10668e7b78",
+      "Bevolking geboren buiten EU": 0.0342,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Stavelot",
+      "Gemeente": "199b60fb6b4ae898ea42aa154010c5d4",
+      "Bevolking geboren buiten EU": 0.0341,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "De Haan",
+      "Gemeente": "c4c5189236d36f3b0fa459e8ff7c083c",
+      "Bevolking geboren buiten EU": 0.0341,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Putte",
+      "Gemeente": "83f2c1d714fd92f157be5a17c4bea8d6",
+      "Bevolking geboren buiten EU": 0.0339,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Scherpenheuvel-Zichem",
+      "Gemeente": "c57617c261824f09bb232806f95d718d",
+      "Bevolking geboren buiten EU": 0.0339,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Zoutleeuw",
+      "Gemeente": "d314a96ca58a42ed76d83f1e9ed96873",
+      "Bevolking geboren buiten EU": 0.0338,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Hamoir",
+      "Gemeente": "ef4c4e9ab2ec7e25349107b90fb69005",
+      "Bevolking geboren buiten EU": 0.0337,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Saint-Georges-sur-Meuse",
+      "Gemeente": "51d29a19c389a5fe39b30f4a711e19a9",
+      "Bevolking geboren buiten EU": 0.0337,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Evergem",
+      "Gemeente": "87e9fdb17b6f5dfa7daf30ee9723efbb",
+      "Bevolking geboren buiten EU": 0.0337,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Gouvy",
+      "Gemeente": "3e50135294f29a722a90fb8bda5c3ae8",
+      "Bevolking geboren buiten EU": 0.0335,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Bouillon",
+      "Gemeente": "b8a85c5d69ef8b6124150aad57c6f8d1",
+      "Bevolking geboren buiten EU": 0.0334,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Halen",
+      "Gemeente": "a003ed7304b803642fb3e7078c50e0bb",
+      "Bevolking geboren buiten EU": 0.0334,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Herzele",
+      "Gemeente": "9b9ca0e17bab82c173c2c4f289b21df4",
+      "Bevolking geboren buiten EU": 0.0333,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Nazareth",
+      "Gemeente": "0450ff7961062baf715cb5f1c9e3b6c9",
+      "Bevolking geboren buiten EU": 0.0332,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Herne",
+      "Gemeente": "f42bacf2a2a228395b3f075f5dd703c3",
+      "Bevolking geboren buiten EU": 0.033,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Middelkerke",
+      "Gemeente": "e19f840a00c22f6ff6f80456deaba405",
+      "Bevolking geboren buiten EU": 0.033,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Zoersel",
+      "Gemeente": "f0b2688b9f32b70f55ffbc74e4371090",
+      "Bevolking geboren buiten EU": 0.0328,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Hoeselt",
+      "Gemeente": "546733db5d6e0cca7f4af1f0bf6d5be7",
+      "Bevolking geboren buiten EU": 0.0327,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Beerse",
+      "Gemeente": "e7d0cbad466c0916ae198ff9c77ed5d6",
+      "Bevolking geboren buiten EU": 0.0327,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Büllingen",
+      "Gemeente": "3e41a8927c4bbaf59d632edc960df9d1",
+      "Bevolking geboren buiten EU": 0.0326,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "La Roche-en-Ardenne",
+      "Gemeente": "aa2e66457a90edf5055fd36a1bec42f5",
+      "Bevolking geboren buiten EU": 0.0325,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Kasterlee",
+      "Gemeente": "667a0e60ec779c3048f9622686dd1a3c",
+      "Bevolking geboren buiten EU": 0.0325,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Comblain-au-Pont",
+      "Gemeente": "f55082a812f5363bb87565ffec1ea921",
+      "Bevolking geboren buiten EU": 0.0322,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Geer",
+      "Gemeente": "a263dccfc9c3f52b7cdb4fc37c29f151",
+      "Bevolking geboren buiten EU": 0.0321,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Hastière",
+      "Gemeente": "14cc269071e2e603d700bc5f410f46b7",
+      "Bevolking geboren buiten EU": 0.0321,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Haacht",
+      "Gemeente": "6e0511c292d7ba2a602c6d0e88798a66",
+      "Bevolking geboren buiten EU": 0.0319,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Buggenhout",
+      "Gemeente": "1d02c74ec24f94180c5e3a8e91f0f798",
+      "Bevolking geboren buiten EU": 0.0319,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Geetbets",
+      "Gemeente": "4e2c0c57995a96de2163ab412a78c8fb",
+      "Bevolking geboren buiten EU": 0.0317,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Silly",
+      "Gemeente": "41c894c3cbf81478d697cb55d14ab4d5",
+      "Bevolking geboren buiten EU": 0.0315,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Oudenburg",
+      "Gemeente": "9bca5e152c2992a20496af8439e5cb11",
+      "Bevolking geboren buiten EU": 0.0314,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Linter",
+      "Gemeente": "941cf8b1503c5391fe549fe77e24145f",
+      "Bevolking geboren buiten EU": 0.0314,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Bernissart",
+      "Gemeente": "475abd028ce7b1971874531168c1db91",
+      "Bevolking geboren buiten EU": 0.0313,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Binche",
+      "Gemeente": "43f03665265ab6e2798d147ed62871e1",
+      "Bevolking geboren buiten EU": 0.0312,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Bitsingen",
+      "Gemeente": "c3771cfd3a4749d67e9b0a217a634a7b",
+      "Bevolking geboren buiten EU": 0.0312,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Wasseiges",
+      "Gemeente": "b344e4d6c967ec3fd6492acc010efdb6",
+      "Bevolking geboren buiten EU": 0.031,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Beauraing",
+      "Gemeente": "2030eadd5ebb6c69465250f9df9dad28",
+      "Bevolking geboren buiten EU": 0.031,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Heist-op-den-Berg",
+      "Gemeente": "b9ce057724f680846bf74dba94793fac",
+      "Bevolking geboren buiten EU": 0.0309,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Tenneville",
+      "Gemeente": "81ca7ddd893d4a168331df0a80595a74",
+      "Bevolking geboren buiten EU": 0.0308,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Kortessem",
+      "Gemeente": "0d18259d4a6e370c0ae2de2622af7619",
+      "Bevolking geboren buiten EU": 0.0307,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Olen",
+      "Gemeente": "5b4601d4e431b67536e0d287bfff3b35",
+      "Bevolking geboren buiten EU": 0.0306,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Les Bons Villers",
+      "Gemeente": "b5ce7a2f2fc4cd9b79b881ade5c179da",
+      "Bevolking geboren buiten EU": 0.0305,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Dalhem",
+      "Gemeente": "77e3c02179b8ced6c8375dd0d84c82c1",
+      "Bevolking geboren buiten EU": 0.0304,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Kinrooi",
+      "Gemeente": "18326928b46907d966c0f88f6978fc7b",
+      "Bevolking geboren buiten EU": 0.0304,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Eghezée",
+      "Gemeente": "f0d1aa7126efa8d8fb9be51cbc3f9dfd",
+      "Bevolking geboren buiten EU": 0.0304,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Vloesberg",
+      "Gemeente": "43697fc409fbd42ca2013d5985000f01",
+      "Bevolking geboren buiten EU": 0.0303,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Musson",
+      "Gemeente": "8be7eb5ff84ae9a95fb621bca8c2d41d",
+      "Bevolking geboren buiten EU": 0.0303,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Stekene",
+      "Gemeente": "b0b1f922a2b6cbef8995a654e7e61bd3",
+      "Bevolking geboren buiten EU": 0.0302,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Balen",
+      "Gemeente": "1ed4b059ca782dc3adec429d4a12af8f",
+      "Bevolking geboren buiten EU": 0.0301,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Lummen",
+      "Gemeente": "c42a762fdb171c7d5c8594b7e5733118",
+      "Bevolking geboren buiten EU": 0.0298,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Gerpinnes",
+      "Gemeente": "5147a99258adbf6734c9ee4931b4b9ff",
+      "Bevolking geboren buiten EU": 0.0294,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Brecht",
+      "Gemeente": "317949c9e16ba7d731de944284ccb562",
+      "Bevolking geboren buiten EU": 0.0294,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Anhée",
+      "Gemeente": "d6f398d554b47ab8a7ff3a4b10c44359",
+      "Bevolking geboren buiten EU": 0.0293,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Sprimont",
+      "Gemeente": "b30f0fa88320343e05f176de8c79497a",
+      "Bevolking geboren buiten EU": 0.0292,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Fernelmont",
+      "Gemeente": "2046ed35ba53858e2d325864ff94e461",
+      "Bevolking geboren buiten EU": 0.0291,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Meulebeke",
+      "Gemeente": "25e21fc712d7683d85fa5d3ce56f762e",
+      "Bevolking geboren buiten EU": 0.0291,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Lievegem",
+      "Gemeente": "47276ff132d1d5f12b2fddb51f02cd55",
+      "Bevolking geboren buiten EU": 0.029,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Lochristi",
+      "Gemeente": "d35b94a1a9a7e5e8c2f23db85d5ea473",
+      "Bevolking geboren buiten EU": 0.029,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Stoumont",
+      "Gemeente": "2892b3751215b70d214ed67cf8ebcc92",
+      "Bevolking geboren buiten EU": 0.029,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Torhout",
+      "Gemeente": "72cf3b746275a51f902dd4518bc79895",
+      "Bevolking geboren buiten EU": 0.0289,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Libin",
+      "Gemeente": "64d0ba1c96bfd7be79468795865636ff",
+      "Bevolking geboren buiten EU": 0.0289,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Gooik",
+      "Gemeente": "5ebdd00942da19e3f6558333d7404bd0",
+      "Bevolking geboren buiten EU": 0.0288,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Sainte-Ode",
+      "Gemeente": "6cc37ca09ce22e101a725dbacd1ea647",
+      "Bevolking geboren buiten EU": 0.0286,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Villers-le-Bouillet",
+      "Gemeente": "46c5c09c9f8088795d93be3852543c43",
+      "Bevolking geboren buiten EU": 0.0284,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Zandhoven",
+      "Gemeente": "4379cdcd2d492303e14eca2b84b6f748",
+      "Bevolking geboren buiten EU": 0.0282,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Nassogne",
+      "Gemeente": "ee14b6207b51a6a1f0c3d14ea4bb6a72",
+      "Bevolking geboren buiten EU": 0.0281,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Leuze-en-Hainaut",
+      "Gemeente": "ba36c4ecd2e130e8455c8f4bbe5b802a",
+      "Bevolking geboren buiten EU": 0.0281,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Gistel",
+      "Gemeente": "00c2e4b3041474bd1f275c606beb658a",
+      "Bevolking geboren buiten EU": 0.0281,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Estinnes",
+      "Gemeente": "2652165155d0c9436ae07ae8516cdccf",
+      "Bevolking geboren buiten EU": 0.028,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Wuustwezel",
+      "Gemeente": "2d9a8ccf09a9cfc45ff47bdc46707b12",
+      "Bevolking geboren buiten EU": 0.0279,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Zulte",
+      "Gemeente": "5f56b06f8e9c8caa200fd92fd0b3a3a1",
+      "Bevolking geboren buiten EU": 0.0279,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Faimes",
+      "Gemeente": "de0ecc138cbccc570e8b4d2c36be3d95",
+      "Bevolking geboren buiten EU": 0.0279,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Bekkevoort",
+      "Gemeente": "825ba4206968a9a49acb1b2d3973bab5",
+      "Bevolking geboren buiten EU": 0.0279,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Chièvres",
+      "Gemeente": "abb3149c3209acaf154e2a15a7fc8efa",
+      "Bevolking geboren buiten EU": 0.0277,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Peer",
+      "Gemeente": "99f51fb18ad190f214561f1e98e237ff",
+      "Bevolking geboren buiten EU": 0.0276,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Remicourt",
+      "Gemeente": "fc1cad401b532864f87878555b393088",
+      "Bevolking geboren buiten EU": 0.0276,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Theux",
+      "Gemeente": "2f164455a9b30925c1df7f841fee1e47",
+      "Bevolking geboren buiten EU": 0.0276,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Crisnée",
+      "Gemeente": "ca0415121b058bf9fff80e3f60b06942",
+      "Bevolking geboren buiten EU": 0.0275,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Lierneux",
+      "Gemeente": "6a07907a81e2bb95896abc9ce08ddb29",
+      "Bevolking geboren buiten EU": 0.0272,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Nijlen",
+      "Gemeente": "e0973c747c74058f920cde8f44008a76",
+      "Bevolking geboren buiten EU": 0.0271,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Grobbendonk",
+      "Gemeente": "cf2c8566381f1db435447aee3b359da0",
+      "Bevolking geboren buiten EU": 0.0271,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Avelgem",
+      "Gemeente": "d73c424f81b82230ee314f48c912f238",
+      "Bevolking geboren buiten EU": 0.0271,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Wellin",
+      "Gemeente": "e0f93a46914770cc409eff9939d6f8a8",
+      "Bevolking geboren buiten EU": 0.027,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Tremelo",
+      "Gemeente": "1319ef337d7b6149b18343c1d52ae3d7",
+      "Bevolking geboren buiten EU": 0.0268,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Ingelmunster",
+      "Gemeente": "8eaf4ce3dbcecad8cde1ab46f7acaed6",
+      "Bevolking geboren buiten EU": 0.0268,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Herenthout",
+      "Gemeente": "3b009586c71cf4a4fd3bfa72ff18ed24",
+      "Bevolking geboren buiten EU": 0.0267,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Zwevegem",
+      "Gemeente": "52c330b1a257f9bd4838323bc72b9948",
+      "Bevolking geboren buiten EU": 0.0267,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Ferrières",
+      "Gemeente": "3633dc3d7a560e704c4b06ba21fd61bf",
+      "Bevolking geboren buiten EU": 0.0267,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Paliseul",
+      "Gemeente": "85b51e628f50a4230da7ba0bf1e7ee90",
+      "Bevolking geboren buiten EU": 0.0266,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Glabbeek",
+      "Gemeente": "df16663ab089218180195d8f0650e4be",
+      "Bevolking geboren buiten EU": 0.0266,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Berlare",
+      "Gemeente": "354636d0a546422273113a27422f22aa",
+      "Bevolking geboren buiten EU": 0.0266,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Floreffe",
+      "Gemeente": "654f4fd381004c9c63a1b8fce04e2ece",
+      "Bevolking geboren buiten EU": 0.0266,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Tintigny",
+      "Gemeente": "22610d0d70496b448b236f0c64241a4c",
+      "Bevolking geboren buiten EU": 0.0265,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Burdinne",
+      "Gemeente": "9145a3cb13648b8bfcffdc70a1ed5b41",
+      "Bevolking geboren buiten EU": 0.0264,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Couvin",
+      "Gemeente": "67da3776fa3e63b53d50da8c63ba50a8",
+      "Bevolking geboren buiten EU": 0.0264,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Wichelen",
+      "Gemeente": "46db29654e4d8bfb8cfa916f0f99a61b",
+      "Bevolking geboren buiten EU": 0.0263,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Péruwelz",
+      "Gemeente": "663f5bc7a6a32a15ee7b0586781f3924",
+      "Bevolking geboren buiten EU": 0.0262,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Voeren",
+      "Gemeente": "e415778ef79ee37e8dfc64920e875ae3",
+      "Bevolking geboren buiten EU": 0.0262,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Erezée",
+      "Gemeente": "ac7bfec85177f58a24b2fe181d77de50",
+      "Bevolking geboren buiten EU": 0.0262,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Assesse",
+      "Gemeente": "8bd3ad0d5312fd77a2efbe27e5bb36c3",
+      "Bevolking geboren buiten EU": 0.026,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "La Bruyère",
+      "Gemeente": "8ce368f419933a50ee1d23b979cfb00d",
+      "Bevolking geboren buiten EU": 0.0259,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Chiny",
+      "Gemeente": "9cc7f6ee4a34c241fc2f38fa28ba6921",
+      "Bevolking geboren buiten EU": 0.0259,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Thuin",
+      "Gemeente": "b52e133125f9f9807a12b1922ab1debb",
+      "Bevolking geboren buiten EU": 0.0257,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Jemeppe-sur-Sambre",
+      "Gemeente": "3dd05eefe7bc4ac9af3f44d816c9af88",
+      "Bevolking geboren buiten EU": 0.0255,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Nandrin",
+      "Gemeente": "cec6ce1a43e8edee7671a6c966fc2d4f",
+      "Bevolking geboren buiten EU": 0.0255,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Héron",
+      "Gemeente": "7c415cdf1ccd2a633e2d8acb306e9e01",
+      "Bevolking geboren buiten EU": 0.0254,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Anthisnes",
+      "Gemeente": "dfabc15ee06eb86e4f06126816533f33",
+      "Bevolking geboren buiten EU": 0.0253,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Meix-Devant-Virton",
+      "Gemeente": "d9592b1b01f77df49d11f307d09ed4d4",
+      "Bevolking geboren buiten EU": 0.0251,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Assenede",
+      "Gemeente": "ec206e923667de0db5db9133154b393f",
+      "Bevolking geboren buiten EU": 0.025,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Modave",
+      "Gemeente": "033f6535581b2f52b81bd7113c7553b9",
+      "Bevolking geboren buiten EU": 0.0249,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Jalhay",
+      "Gemeente": "cc64edbf1cd904a84c9fcdf65fe5a657",
+      "Bevolking geboren buiten EU": 0.0248,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Fosses-la-Ville",
+      "Gemeente": "03ee18d71b359bb7447bdf4697d25c7c",
+      "Bevolking geboren buiten EU": 0.0248,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Braives",
+      "Gemeente": "53cac9040bafb7fcc4db6639af8bef5c",
+      "Bevolking geboren buiten EU": 0.0247,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Dour",
+      "Gemeente": "11c90fb969e0a01a41f83b5ff9f2ac56",
+      "Bevolking geboren buiten EU": 0.0246,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Quévy",
+      "Gemeente": "599837a694585d9608679501eb088ccb",
+      "Bevolking geboren buiten EU": 0.0244,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Léglise",
+      "Gemeente": "639c275d9c62f9af9a9c802f32e3e857",
+      "Bevolking geboren buiten EU": 0.0244,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Manhay",
+      "Gemeente": "cf5db6b777106c128e3e48b7c2e25bff",
+      "Bevolking geboren buiten EU": 0.0244,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Hulshout",
+      "Gemeente": "082f196ef96c4dd8147b646aaf3361e4",
+      "Bevolking geboren buiten EU": 0.0242,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Gavere",
+      "Gemeente": "a0a16f119a6cf7d166fd5a4394f2158a",
+      "Bevolking geboren buiten EU": 0.0241,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Ham-sur-Heure-Nalinnes",
+      "Gemeente": "08122e8b0d32af68301a666a092f92e3",
+      "Bevolking geboren buiten EU": 0.0241,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Staden",
+      "Gemeente": "82ee4928aba1745afd821a3239470efd",
+      "Bevolking geboren buiten EU": 0.024,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Diksmuide",
+      "Gemeente": "73e406096ad257928e34b477ea39913c",
+      "Bevolking geboren buiten EU": 0.024,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Florennes",
+      "Gemeente": "e8fd3259511cd8c7922a05e7fc709fae",
+      "Bevolking geboren buiten EU": 0.024,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Oostrozebeke",
+      "Gemeente": "675eb44363b7124528d5f2ff6aef364c",
+      "Bevolking geboren buiten EU": 0.0239,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Galmaarden",
+      "Gemeente": "06f7b5333798dcd51e9b51cc611af24f",
+      "Bevolking geboren buiten EU": 0.0239,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Somme-Leuze",
+      "Gemeente": "0fa66869ce7f266b59d04872552a0abc",
+      "Bevolking geboren buiten EU": 0.0238,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Aalter",
+      "Gemeente": "fdfbc204fc8238e5cd7ed4afd9924cc1",
+      "Bevolking geboren buiten EU": 0.0238,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Ranst",
+      "Gemeente": "bea4bc43b02815651718df6f16b119b8",
+      "Bevolking geboren buiten EU": 0.0238,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Ardooie",
+      "Gemeente": "7d5f23637422233e41f48ce45afe203e",
+      "Bevolking geboren buiten EU": 0.0237,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Beaumont",
+      "Gemeente": "0327b09d6bda17f80ee4dd954d7beedf",
+      "Bevolking geboren buiten EU": 0.0237,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Ouffet",
+      "Gemeente": "2b310622d78c0ef61f20eff46e9be801",
+      "Bevolking geboren buiten EU": 0.0236,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Oudsbergen",
+      "Gemeente": "4ae55b69468b2c9536bb981b97ef8a06",
+      "Bevolking geboren buiten EU": 0.0236,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Maldegem",
+      "Gemeente": "c78665208da9515ddd5fe0bb27c1167a",
+      "Bevolking geboren buiten EU": 0.0236,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Laakdal",
+      "Gemeente": "ff0a561194ef4dfd970f03e95d06c46c",
+      "Bevolking geboren buiten EU": 0.0235,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Chimay",
+      "Gemeente": "f436441029274f72989dd815eee7d21d",
+      "Bevolking geboren buiten EU": 0.0235,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Moorslede",
+      "Gemeente": "8f3f01d02dd30714d75fab3c8a27545c",
+      "Bevolking geboren buiten EU": 0.0234,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Bütgenbach",
+      "Gemeente": "8413d5f2f9e65eb36086d995ffc5af23",
+      "Bevolking geboren buiten EU": 0.0234,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Komen-Waasten",
+      "Gemeente": "cb7f4b27e52de8048cba5a5189437ea8",
+      "Bevolking geboren buiten EU": 0.0234,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Tinlot",
+      "Gemeente": "00d32405a2cba4ad456091c7c53d87ab",
+      "Bevolking geboren buiten EU": 0.0232,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Herselt",
+      "Gemeente": "9353f41bf0e7b7c449eed18e8db95de1",
+      "Bevolking geboren buiten EU": 0.0231,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Olne",
+      "Gemeente": "3b1d9107c1a3bab32fd3a7ce006f732b",
+      "Bevolking geboren buiten EU": 0.023,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Rendeux",
+      "Gemeente": "1557cb0781f928ae3efe79c4d74ce1fb",
+      "Bevolking geboren buiten EU": 0.023,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Beloeil",
+      "Gemeente": "ede51ef4eb8aa06b4953b92a6db1d89a",
+      "Bevolking geboren buiten EU": 0.023,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Philippeville",
+      "Gemeente": "54468ef7543e2ddddc3417627001fda8",
+      "Bevolking geboren buiten EU": 0.023,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Damme",
+      "Gemeente": "1a97face50a2adb911f6cbff9e789e02",
+      "Bevolking geboren buiten EU": 0.023,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Verlaine",
+      "Gemeente": "8e1dc314494fc7476bbe5b78346cbdaa",
+      "Bevolking geboren buiten EU": 0.0229,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Fexhe-le-Haut-Clocher",
+      "Gemeente": "d11374850309dcd4e811396e0b510f45",
+      "Bevolking geboren buiten EU": 0.0229,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Oostkamp",
+      "Gemeente": "7d6f13f3947d169fe33e0dee1ddd3f7c",
+      "Bevolking geboren buiten EU": 0.0228,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Sint-Lievens-Houtem",
+      "Gemeente": "50ae9e022764d4da6b91eacf307eda45",
+      "Bevolking geboren buiten EU": 0.0227,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Vaux-sur-Sûre",
+      "Gemeente": "843e8f570a8cc8c243cdad1ca2a9cf56",
+      "Bevolking geboren buiten EU": 0.0227,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Kluisbergen",
+      "Gemeente": "ab315edb48ec5a22f3968adf343e98ab",
+      "Bevolking geboren buiten EU": 0.0226,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Ledegem",
+      "Gemeente": "a9fe38b42c5af754f5c894f9d02d6f1b",
+      "Bevolking geboren buiten EU": 0.0226,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Brakel",
+      "Gemeente": "3614ea7e1151ef971fe29633e31bfcd3",
+      "Bevolking geboren buiten EU": 0.0226,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Merksplas",
+      "Gemeente": "948e94f979b4514a4cbf08d9767a57c5",
+      "Bevolking geboren buiten EU": 0.0225,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Burg-Reuland",
+      "Gemeente": "cdbae38255d3d95d6917cd20b2c4d617",
+      "Bevolking geboren buiten EU": 0.0225,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Marchin",
+      "Gemeente": "08a17004e33b13fe7a53405e172737dd",
+      "Bevolking geboren buiten EU": 0.0224,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Viroinval",
+      "Gemeente": "66eb8525d27f1011e8a551ae144a8d5a",
+      "Bevolking geboren buiten EU": 0.0224,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Veurne",
+      "Gemeente": "51d45a1ab0abea97ddd6c49cb09b9a8e",
+      "Bevolking geboren buiten EU": 0.0222,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Beernem",
+      "Gemeente": "d2061a5c8b51c2b62640ac106a632296",
+      "Bevolking geboren buiten EU": 0.0221,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Wellen",
+      "Gemeente": "b1fa932269a061272773819ce3123d44",
+      "Bevolking geboren buiten EU": 0.022,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Tellin",
+      "Gemeente": "fb2c4fa35c51e860c73e09b4583fc678",
+      "Bevolking geboren buiten EU": 0.0219,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Houyet",
+      "Gemeente": "6a8a226cc699cfd10e2ca5a685c026fd",
+      "Bevolking geboren buiten EU": 0.0219,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Begijnendijk",
+      "Gemeente": "ec316ad8f555ce799ae021eee387bedf",
+      "Bevolking geboren buiten EU": 0.0219,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Fauvillers",
+      "Gemeente": "a0ea68c6a4f98fff44332d97c9da2f0f",
+      "Bevolking geboren buiten EU": 0.0218,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Vorselaar",
+      "Gemeente": "b46f71fb8b6192385a6e00e9cc4f3886",
+      "Bevolking geboren buiten EU": 0.0214,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Jabbeke",
+      "Gemeente": "e15b9e5d45bd7f97dc77d4599742606e",
+      "Bevolking geboren buiten EU": 0.0214,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Doische",
+      "Gemeente": "6ce04cc21937e0afd034bcd3de5065e2",
+      "Bevolking geboren buiten EU": 0.0213,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Lendelede",
+      "Gemeente": "f7c7379ffa9df9d5d09c83ce281bb5f8",
+      "Bevolking geboren buiten EU": 0.0212,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Spiere-Helkijn",
+      "Gemeente": "aab727c6b7b436a5f2cdfde27c4bf65b",
+      "Bevolking geboren buiten EU": 0.0212,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Ohey",
+      "Gemeente": "8a8ac6185d6ceabee7d889be3b4d2671",
+      "Bevolking geboren buiten EU": 0.0212,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Havelange",
+      "Gemeente": "6f2a9ffd809dfcabe1a017b7458c490b",
+      "Bevolking geboren buiten EU": 0.0212,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Lobbes",
+      "Gemeente": "3d82ededa5a85a54dacd156cdf364b25",
+      "Bevolking geboren buiten EU": 0.0212,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Walcourt",
+      "Gemeente": "d3caa7278a997e6c8d7ae2d8400fb287",
+      "Bevolking geboren buiten EU": 0.0211,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Lille",
+      "Gemeente": "91fa3f4be4175c22312b95ed7c9532f4",
+      "Bevolking geboren buiten EU": 0.0209,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Hamois",
+      "Gemeente": "6346d739cb727e0960d0b76071e35939",
+      "Bevolking geboren buiten EU": 0.0209,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Thimister-Clermont",
+      "Gemeente": "280abf1f9c8c2a058c13bee597f31c90",
+      "Bevolking geboren buiten EU": 0.0206,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Pittem",
+      "Gemeente": "6abd8d31ebb6cf6bf5fe30ed259ec4b1",
+      "Bevolking geboren buiten EU": 0.0205,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Rijkevorsel",
+      "Gemeente": "b0ad872b941707a038eca4e09fa59993",
+      "Bevolking geboren buiten EU": 0.0202,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Froidchapelle",
+      "Gemeente": "c9e6dbeec09ee8c5413e8c0b5597d570",
+      "Bevolking geboren buiten EU": 0.0202,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Pepingen",
+      "Gemeente": "39fd055445ff117b639228e9503d9830",
+      "Bevolking geboren buiten EU": 0.0202,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Erquelinnes",
+      "Gemeente": "431e26074dbb2c549c55170660e3b94e",
+      "Bevolking geboren buiten EU": 0.0202,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Moerbeke",
+      "Gemeente": "3aa1fe8b4e8992f98544d9b43ec0cd4f",
+      "Bevolking geboren buiten EU": 0.0201,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Ruiselede",
+      "Gemeente": "ad83264d12a41241819a8ca0fe8c49b9",
+      "Bevolking geboren buiten EU": 0.0201,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Gedinne",
+      "Gemeente": "f49aaad9a215a02b6f4882969da44d2c",
+      "Bevolking geboren buiten EU": 0.02,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Onhaye",
+      "Gemeente": "3dc39e27f489603a22d8d95967714e2a",
+      "Bevolking geboren buiten EU": 0.02,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Laarne",
+      "Gemeente": "f92fd47b6b703af4ccc540dd6a46dcd3",
+      "Bevolking geboren buiten EU": 0.02,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Mesen",
+      "Gemeente": "ab6096c8e507bca5744f73a0ae24c3ab",
+      "Bevolking geboren buiten EU": 0.02,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Elzele",
+      "Gemeente": "9d4bbe676721a919aa62047192cdb0d1",
+      "Bevolking geboren buiten EU": 0.0198,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Lierde",
+      "Gemeente": "0f21cafd02ca58717f3f584320c7a9da",
+      "Bevolking geboren buiten EU": 0.0195,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Lichtervelde",
+      "Gemeente": "461e2b56160c8252d944c3fb39efb194",
+      "Bevolking geboren buiten EU": 0.0191,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Antoing",
+      "Gemeente": "eac41ea724ca73496fa629d50d79f761",
+      "Bevolking geboren buiten EU": 0.0191,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Donceel",
+      "Gemeente": "93be2ce43c733d3481563e447b47d233",
+      "Bevolking geboren buiten EU": 0.019,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Amel",
+      "Gemeente": "9603a79c1db3e6c9b936e93e69d2d472",
+      "Bevolking geboren buiten EU": 0.019,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Frasnes-lez-Anvaing",
+      "Gemeente": "03e1384bfe3c571aa6dc4060e6bf9b8c",
+      "Bevolking geboren buiten EU": 0.0189,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Poperinge",
+      "Gemeente": "7ed9aafef1ea18f42faecece322bfa19",
+      "Bevolking geboren buiten EU": 0.0186,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Zuienkerke",
+      "Gemeente": "ad4a73c509818cf5d979b15b0375aac0",
+      "Bevolking geboren buiten EU": 0.0185,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Mettet",
+      "Gemeente": "b2e51cf238b285690c811804051521cf",
+      "Bevolking geboren buiten EU": 0.0185,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Daverdisse",
+      "Gemeente": "de80d90549e063ab28a50b25cb61123a",
+      "Bevolking geboren buiten EU": 0.0184,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Wortegem-Petegem",
+      "Gemeente": "ba4159db239fd80867d03e709959a7ac",
+      "Bevolking geboren buiten EU": 0.0183,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Dentergem",
+      "Gemeente": "2b5d31785cf71400ca340e7a4c9ae698",
+      "Bevolking geboren buiten EU": 0.0182,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Hooglede",
+      "Gemeente": "dea551d68a1430d2e95429f9f24546d2",
+      "Bevolking geboren buiten EU": 0.0181,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Merbes-le-Château",
+      "Gemeente": "28292605c8f2f96ded509d5d4c99cc00",
+      "Bevolking geboren buiten EU": 0.018,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Anzegem",
+      "Gemeente": "5e69755c5a5023956b6c5c68480e9d6c",
+      "Bevolking geboren buiten EU": 0.0179,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Kruisem",
+      "Gemeente": "60001b1b67554afcb91bc66a9554a9c0",
+      "Bevolking geboren buiten EU": 0.0178,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Zedelgem",
+      "Gemeente": "c65735cbdb42364766513a40c97306ff",
+      "Bevolking geboren buiten EU": 0.0177,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Mont-de-l'Enclus",
+      "Gemeente": "529c3befd51e7ff89d06fc643340538e",
+      "Bevolking geboren buiten EU": 0.0177,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Oosterzele",
+      "Gemeente": "df4ecc8dfd2537f2c894a3e627ba795c",
+      "Bevolking geboren buiten EU": 0.0174,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Pecq",
+      "Gemeente": "c994a438aff4cc52a0e9c4f774bfba16",
+      "Bevolking geboren buiten EU": 0.0172,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Bertogne",
+      "Gemeente": "953ae97c63231468d1877b95369dafc4",
+      "Bevolking geboren buiten EU": 0.0168,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Estaimpuis",
+      "Gemeente": "c92129ad2c4bb66d27443d359938db3e",
+      "Bevolking geboren buiten EU": 0.0166,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Langemark-Poelkapelle",
+      "Gemeente": "104bb2606c88367c9ac1a7880b397d17",
+      "Bevolking geboren buiten EU": 0.0166,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Maarkedal",
+      "Gemeente": "08ffd1b397bb78a8191bedbb8250832d",
+      "Bevolking geboren buiten EU": 0.0165,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Bièvre",
+      "Gemeente": "7dd49fc3348b6579e55a7187f284aa72",
+      "Bevolking geboren buiten EU": 0.0165,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Sint-Laureins",
+      "Gemeente": "2e57d2cf087b09ee2ebb547a0a766faa",
+      "Bevolking geboren buiten EU": 0.0163,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Alveringem",
+      "Gemeente": "c4112ed6db7424a0766d407b6d2132b1",
+      "Bevolking geboren buiten EU": 0.0163,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Cerfontaine",
+      "Gemeente": "5979239cdcd78805d4555b7753aed7c1",
+      "Bevolking geboren buiten EU": 0.016,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Ichtegem",
+      "Gemeente": "6893be790fd10f7bd86e9e4f03d89657",
+      "Bevolking geboren buiten EU": 0.0159,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Kortenaken",
+      "Gemeente": "ea7aed033a994ad3dc6d57eaec825622",
+      "Bevolking geboren buiten EU": 0.0155,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Clavier",
+      "Gemeente": "d29a982b907b9b44261a22c3c489fe21",
+      "Bevolking geboren buiten EU": 0.0152,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Vleteren",
+      "Gemeente": "5e385a4be2cc691cc83ac46717a1b7c8",
+      "Bevolking geboren buiten EU": 0.0151,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Kortemark",
+      "Gemeente": "ce7cf04b56effa1255ae8523dcf91c54",
+      "Bevolking geboren buiten EU": 0.0147,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Celles",
+      "Gemeente": "41a5e96bad7fd28aeadea12b209a8a77",
+      "Bevolking geboren buiten EU": 0.0146,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Zonnebeke",
+      "Gemeente": "e26d733d82fa2b0381156b391d054497",
+      "Bevolking geboren buiten EU": 0.0145,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Kaprijke",
+      "Gemeente": "7854aa92e735cbaa3573749f7025c163",
+      "Bevolking geboren buiten EU": 0.0144,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Sivry-Rance",
+      "Gemeente": "289793c7b09bb36fd714826a4135581d",
+      "Bevolking geboren buiten EU": 0.0142,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Brunehaut",
+      "Gemeente": "c273133654bf5bf990005095e09f893e",
+      "Bevolking geboren buiten EU": 0.0141,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Heuvelland",
+      "Gemeente": "6581de35cad8f9b29c229eb9a205d776",
+      "Bevolking geboren buiten EU": 0.0139,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Momignies",
+      "Gemeente": "d35b8a38ed0e9dd0e40880d0613776ab",
+      "Bevolking geboren buiten EU": 0.0139,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Herstappe",
+      "Gemeente": "0df0543d7c0276b9778f09841b44ad05",
+      "Bevolking geboren buiten EU": 0.0128,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Houthulst",
+      "Gemeente": "7ae62fbd6388c36c91c2bba84d8ad2a3",
+      "Bevolking geboren buiten EU": 0.0127,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Wingene",
+      "Gemeente": "aefed8ed3beaf249f700056baba7526e",
+      "Bevolking geboren buiten EU": 0.0125,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Zwalm",
+      "Gemeente": "92b687ef538fa313e812523eb7af9df8",
+      "Bevolking geboren buiten EU": 0.0125,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Lo-Reninge",
+      "Gemeente": "2fc45e5f18f9bfe463f0f2a1cd581d7a",
+      "Bevolking geboren buiten EU": 0.012,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Koekelare",
+      "Gemeente": "a5695ccf8fadcc3f9ebb408dda78f76f",
+      "Bevolking geboren buiten EU": 0.0118,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Rumes",
+      "Gemeente": "533e9644e696743a35d3adba7baffe64",
+      "Bevolking geboren buiten EU": 0.0113,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Honnelles",
+      "Gemeente": "8784a787d20dcefb43a92b0d2f94677f",
+      "Bevolking geboren buiten EU": 0.0111,
+      "categorie": 1,
+      "land": "Belgie"
+    },
+    {
+      "Naam": "Horebeke",
+      "Gemeente": "9b24b118f8168e3963a263092b67b0f8",
+      "Bevolking geboren buiten EU": 0.007,
+      "categorie": 1,
+      "land": "Belgie"
+    }
+  ]
