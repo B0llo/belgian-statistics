@@ -34,8 +34,8 @@ async function setFarRightWithImigrationFilter(cities, description) {
 async function setFarRight(cities, description) {
   description.innerHTML = farRightDescription;
   const electionData = await getMultipleData([
-    "../data/elections/nva.json",
-    "../data/elections/vlaamsbelang.json",
+    "https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/data/elections/nva.json",
+    "https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/data/elections/vlaamsbelang.json",
   ]);
 
   cities.forEach((city) => {
@@ -53,8 +53,8 @@ async function setFarRight(cities, description) {
 
 async function setMostPopularParty(cities) {
   description.innerHTML = farRightDescription;
-  const electionData = await getData("../data/elections/kamer.json");
-  const colourData = await getData("../data/elections/mapColours.json");
+  const electionData = await getData("https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/data/elections/kamer.json");
+  const colourData = await getData("https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/data/elections/mapColours.json");
   cities.forEach((city) => {
     const kantonId = city.dataset.kanton.substring(1);
     const kantonWinner = electionData.results[kantonId].current[0];
@@ -79,7 +79,7 @@ async function setMostPopularPartyWithImigrationFilter(cities) {
         (el) => (migrationPercentage += el["Bevolking geboren buiten EU"])
       );
 
-    city.style.filter = `saturate(${migrationPercentage})`;
+    city.style.filter = `opacity(${migrationPercentage / 40 * 100})`;
     city.innerHTML = `<title>${city.dataset.name} ~ ${kantonWinner.name} ~ non EU27 members: ${migrationPercentage}%`;
   });
 }
