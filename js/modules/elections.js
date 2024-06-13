@@ -53,8 +53,8 @@ async function setFarRight(cities, description) {
 
 async function setMostPopularParty(cities) {
   description.innerHTML = farRightDescription;
-  const electionData = await getData("https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/data/elections/kamer.json");
-  const colourData = await getData("https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/data/elections/mapColours.json");
+  const electionData = await getData("https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/elections/kamer.json");
+  const colourData = await getData("https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/elections/mapColours.json");
   cities.forEach((city) => {
     const kantonId = city.dataset.kanton.substring(1);
     const kantonWinner = electionData.results[kantonId].current[0];
