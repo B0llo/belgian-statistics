@@ -1,0 +1,5657 @@
+{
+  "lastUpdate": "2024-06-10T15:14:08+0000",
+  "election": "CHAMBER",
+  "electionLabel": "Kamer",
+  "labelCurrent": "2024",
+  "labelPrevious": "2019",
+  "mapping": {
+    "43010": { "name": "Eeklo", "resultNisCode": 43005 },
+    "44034": { "name": "Lochristi", "resultNisCode": 44034 },
+    "45059": { "name": "Brakel", "resultNisCode": 45059 },
+    "91141": { "name": "Dinant", "resultNisCode": 91034 },
+    "45060": { "name": "Ronse", "resultNisCode": 45041 },
+    "45061": { "name": "Oudenaarde", "resultNisCode": 45035 },
+    "43014": { "name": "Eeklo", "resultNisCode": 43005 },
+    "45062": { "name": "Horebeke", "resultNisCode": 45062 },
+    "91143": { "name": "Gedinne", "resultNisCode": 91054 },
+    "91142": { "name": "Dinant", "resultNisCode": 91034 },
+    "45063": { "name": "Brakel", "resultNisCode": 45059 },
+    "45064": { "name": "Oudenaarde", "resultNisCode": 45035 },
+    "44040": { "name": "Merelbeke", "resultNisCode": 44043 },
+    "45065": { "name": "Horebeke", "resultNisCode": 45062 },
+    "43018": { "name": "Assenede", "resultNisCode": 43002 },
+    "44043": { "name": "Merelbeke", "resultNisCode": 44043 },
+    "45068": { "name": "Kruisem", "resultNisCode": 45068 },
+    "44045": { "name": "Lochristi", "resultNisCode": 44034 },
+    "85007": { "name": "Florenville", "resultNisCode": 85011 },
+    "44048": { "name": "Nazareth", "resultNisCode": 44048 },
+    "85009": { "name": "Étalle", "resultNisCode": 85009 },
+    "85011": { "name": "Florenville", "resultNisCode": 85011 },
+    "42003": { "name": "Zele", "resultNisCode": 42028 },
+    "42004": { "name": "Dendermonde", "resultNisCode": 42006 },
+    "44052": { "name": "Merelbeke", "resultNisCode": 44043 },
+    "42006": { "name": "Dendermonde", "resultNisCode": 42006 },
+    "42008": { "name": "Hamme", "resultNisCode": 42008 },
+    "42010": { "name": "Wetteren", "resultNisCode": 42025 },
+    "42011": { "name": "Dendermonde", "resultNisCode": 42006 },
+    "44064": { "name": "Nazareth", "resultNisCode": 44048 },
+    "85024": { "name": "Virton", "resultNisCode": 85045 },
+    "85026": { "name": "Virton", "resultNisCode": 85045 },
+    "40998": { "name": "E5-Kieskring Oost-Vlaanderen", "resultNisCode": 40998 },
+    "42023": { "name": "Hamme", "resultNisCode": 42008 },
+    "84009": { "name": "Paliseul", "resultNisCode": 84050 },
+    "42025": { "name": "Wetteren", "resultNisCode": 42025 },
+    "44073": { "name": "Lochristi", "resultNisCode": 44034 },
+    "41002": { "name": "Aalst", "resultNisCode": 41002 },
+    "42026": { "name": "Wetteren", "resultNisCode": 42025 },
+    "84010": { "name": "Bouillon", "resultNisCode": 84010 },
+    "85034": { "name": "Virton", "resultNisCode": 85045 },
+    "42028": { "name": "Zele", "resultNisCode": 42028 },
+    "85039": { "name": "Étalle", "resultNisCode": 85009 },
+    "44081": { "name": "Deinze", "resultNisCode": 44083 },
+    "84016": { "name": "Wellin", "resultNisCode": 84075 },
+    "41011": { "name": "Ninove", "resultNisCode": 41048 },
+    "44083": { "name": "Deinze", "resultNisCode": 44083 },
+    "44084": { "name": "Aalter", "resultNisCode": 44084 },
+    "85045": { "name": "Virton", "resultNisCode": 85045 },
+    "44085": { "name": "Lievegem", "resultNisCode": 44085 },
+    "85047": { "name": "Virton", "resultNisCode": 85045 },
+    "85046": { "name": "Étalle", "resultNisCode": 85009 },
+    "41018": { "name": "Geraardsbergen", "resultNisCode": 41018 },
+    "84029": { "name": "Paliseul", "resultNisCode": 84050 },
+    "41024": { "name": "Herzele", "resultNisCode": 41027 },
+    "84033": { "name": "Neufchâteau", "resultNisCode": 84043 },
+    "84035": { "name": "Saint-Hubert", "resultNisCode": 84059 },
+    "41027": { "name": "Herzele", "resultNisCode": 41027 },
+    "83013": { "name": "Erezée", "resultNisCode": 83013 },
+    "83012": { "name": "Durbuy", "resultNisCode": 83012 },
+    "84043": { "name": "Neufchâteau", "resultNisCode": 84043 },
+    "41034": { "name": "Aalst", "resultNisCode": 41002 },
+    "82003": { "name": "Bastenaken", "resultNisCode": 82003 },
+    "84050": { "name": "Paliseul", "resultNisCode": 84050 },
+    "82005": { "name": "Bastenaken", "resultNisCode": 82003 },
+    "83028": { "name": "Marche-en-Famenne", "resultNisCode": 83034 },
+    "83031": { "name": "La Roche-en-Ardenne", "resultNisCode": 83031 },
+    "41048": { "name": "Ninove", "resultNisCode": 41048 },
+    "82009": { "name": "Fauvillers", "resultNisCode": 82009 },
+    "84059": { "name": "Saint-Hubert", "resultNisCode": 84059 },
+    "83034": { "name": "Marche-en-Famenne", "resultNisCode": 83034 },
+    "82014": { "name": "Houffalize", "resultNisCode": 82014 },
+    "83040": { "name": "Nassogne", "resultNisCode": 83040 },
+    "83044": { "name": "La Roche-en-Ardenne", "resultNisCode": 83031 },
+    "84068": { "name": "Wellin", "resultNisCode": 84075 },
+    "41063": { "name": "Herzele", "resultNisCode": 41027 },
+    "80998": { "name": "E5-Kieskring Luxemburg", "resultNisCode": 80998 },
+    "81001": { "name": "Aarlen", "resultNisCode": 81001 },
+    "83049": { "name": "La Roche-en-Ardenne", "resultNisCode": 83031 },
+    "81003": { "name": "Aarlen", "resultNisCode": 81001 },
+    "84075": { "name": "Wellin", "resultNisCode": 84075 },
+    "84077": { "name": "Neufchâteau", "resultNisCode": 84043 },
+    "81004": { "name": "Messancy", "resultNisCode": 81015 },
+    "83055": { "name": "Erezée", "resultNisCode": 83013 },
+    "82032": { "name": "Vielsalm", "resultNisCode": 82032 },
+    "38002": { "name": "Veurne", "resultNisCode": 38025 },
+    "81013": { "name": "Aarlen", "resultNisCode": 81001 },
+    "82037": { "name": "Vielsalm", "resultNisCode": 82032 },
+    "82036": { "name": "Sainte-Ode", "resultNisCode": 82038 },
+    "81015": { "name": "Messancy", "resultNisCode": 81015 },
+    "82038": { "name": "Sainte-Ode", "resultNisCode": 82038 },
+    "38008": { "name": "Veurne", "resultNisCode": 38025 },
+    "41081": { "name": "Zottegem", "resultNisCode": 41081 },
+    "41082": { "name": "Aalst", "resultNisCode": 41002 },
+    "38014": { "name": "Veurne", "resultNisCode": 38025 },
+    "38016": { "name": "Nieuwpoort", "resultNisCode": 38016 },
+    "38025": { "name": "Veurne", "resultNisCode": 38025 },
+    "37002": { "name": "Meulebeke", "resultNisCode": 37007 },
+    "37007": { "name": "Meulebeke", "resultNisCode": 37007 },
+    "37010": { "name": "Oostrozebeke", "resultNisCode": 37010 },
+    "37011": { "name": "Tielt", "resultNisCode": 37015 },
+    "37012": { "name": "Ruiselede", "resultNisCode": 37012 },
+    "37015": { "name": "Tielt", "resultNisCode": 37015 },
+    "37017": { "name": "Oostrozebeke", "resultNisCode": 37010 },
+    "37018": { "name": "Ruiselede", "resultNisCode": 37012 },
+    "37020": { "name": "Tielt", "resultNisCode": 37015 },
+    "36006": { "name": "Hooglede", "resultNisCode": 36006 },
+    "36007": { "name": "Izegem", "resultNisCode": 36008 },
+    "36008": { "name": "Izegem", "resultNisCode": 36008 },
+    "36010": { "name": "Roeselare", "resultNisCode": 36015 },
+    "36011": { "name": "Hooglede", "resultNisCode": 36006 },
+    "36012": { "name": "Roeselare", "resultNisCode": 36015 },
+    "36015": { "name": "Roeselare", "resultNisCode": 36015 },
+    "36019": { "name": "Hooglede", "resultNisCode": 36006 },
+    "35002": { "name": "Oostende", "resultNisCode": 35013 },
+    "35005": { "name": "Gistel", "resultNisCode": 35005 },
+    "35006": { "name": "Gistel", "resultNisCode": 35005 },
+    "35011": { "name": "Oostende", "resultNisCode": 35013 },
+    "35013": { "name": "Oostende", "resultNisCode": 35013 },
+    "35014": { "name": "Gistel", "resultNisCode": 35005 },
+    "34002": { "name": "Kortrijk", "resultNisCode": 34022 },
+    "34003": { "name": "Avelgem", "resultNisCode": 34003 },
+    "35029": { "name": "Oostende", "resultNisCode": 35013 },
+    "34009": { "name": "Waregem", "resultNisCode": 34040 },
+    "34013": { "name": "Waregem", "resultNisCode": 34040 },
+    "34022": { "name": "Kortrijk", "resultNisCode": 34022 },
+    "34023": { "name": "Kortrijk", "resultNisCode": 34022 },
+    "34025": { "name": "Kortrijk", "resultNisCode": 34022 },
+    "34027": { "name": "Menen", "resultNisCode": 34027 },
+    "33011": { "name": "Ieper", "resultNisCode": 33011 },
+    "33016": { "name": "Heuvelland", "resultNisCode": 33039 },
+    "34040": { "name": "Waregem", "resultNisCode": 34040 },
+    "34041": { "name": "Menen", "resultNisCode": 34027 },
+    "34042": { "name": "Kortrijk", "resultNisCode": 34022 },
+    "34043": { "name": "Avelgem", "resultNisCode": 34003 },
+    "33021": { "name": "Poperinge", "resultNisCode": 33021 },
+    "32003": { "name": "Diksmuide", "resultNisCode": 32003 },
+    "33029": { "name": "Wervik", "resultNisCode": 33029 },
+    "32006": { "name": "Diksmuide", "resultNisCode": 32003 },
+    "32010": { "name": "Diksmuide", "resultNisCode": 32003 },
+    "32011": { "name": "Diksmuide", "resultNisCode": 32003 },
+    "33037": { "name": "Ieper", "resultNisCode": 33011 },
+    "33039": { "name": "Heuvelland", "resultNisCode": 33039 },
+    "33040": { "name": "Ieper", "resultNisCode": 33011 },
+    "33041": { "name": "Vleteren", "resultNisCode": 33041 },
+    "30998": { "name": "E5-Kieskring West-Vlaanderen", "resultNisCode": 30998 },
+    "31003": { "name": "Brugge", "resultNisCode": 31005 },
+    "31004": { "name": "Brugge", "resultNisCode": 31005 },
+    "31005": { "name": "Brugge", "resultNisCode": 31005 },
+    "31006": { "name": "Brugge", "resultNisCode": 31005 },
+    "32030": { "name": "Diksmuide", "resultNisCode": 32003 },
+    "31012": { "name": "Brugge", "resultNisCode": 31005 },
+    "73001": { "name": "Borgloon", "resultNisCode": 73009 },
+    "31022": { "name": "Brugge", "resultNisCode": 31005 },
+    "73006": { "name": "Bilzen", "resultNisCode": 73006 },
+    "73009": { "name": "Borgloon", "resultNisCode": 73009 },
+    "31033": { "name": "Torhout", "resultNisCode": 31033 },
+    "73022": { "name": "Borgloon", "resultNisCode": 73009 },
+    "31040": { "name": "Brugge", "resultNisCode": 31005 },
+    "31042": { "name": "Brugge", "resultNisCode": 31005 },
+    "72003": { "name": "Bree", "resultNisCode": 72004 },
+    "31043": { "name": "Brugge", "resultNisCode": 31005 },
+    "72004": { "name": "Bree", "resultNisCode": 72004 },
+    "73028": { "name": "Tongeren", "resultNisCode": 73083 },
+    "73032": { "name": "Bilzen", "resultNisCode": 73006 },
+    "73040": { "name": "Borgloon", "resultNisCode": 73009 },
+    "73042": { "name": "Maasmechelen", "resultNisCode": 73107 },
+    "72018": { "name": "Maaseik", "resultNisCode": 72021 },
+    "72021": { "name": "Maaseik", "resultNisCode": 72021 },
+    "72020": { "name": "Pelt", "resultNisCode": 72043 },
+    "70998": { "name": "E5-Kieskring Limburg", "resultNisCode": 70998 },
+    "71002": { "name": "Genk", "resultNisCode": 71016 },
+    "71004": { "name": "Beringen", "resultNisCode": 71004 },
+    "72030": { "name": "Peer", "resultNisCode": 72030 },
+    "71011": { "name": "Hasselt", "resultNisCode": 71022 },
+    "72037": { "name": "Pelt", "resultNisCode": 72043 },
+    "72039": { "name": "Peer", "resultNisCode": 72030 },
+    "72038": { "name": "Peer", "resultNisCode": 72030 },
+    "72041": { "name": "Maaseik", "resultNisCode": 72021 },
+    "71017": { "name": "Sint-Truiden", "resultNisCode": 71053 },
+    "71016": { "name": "Genk", "resultNisCode": 71016 },
+    "72043": { "name": "Pelt", "resultNisCode": 72043 },
+    "72042": { "name": "Bree", "resultNisCode": 72004 },
+    "73066": { "name": "Riemst", "resultNisCode": 73066 },
+    "71020": { "name": "Herk-de-Stad", "resultNisCode": 71024 },
+    "71022": { "name": "Hasselt", "resultNisCode": 71022 },
+    "71024": { "name": "Herk-de-Stad", "resultNisCode": 71024 },
+    "73083": { "name": "Tongeren", "resultNisCode": 73083 },
+    "71034": { "name": "Beringen", "resultNisCode": 71004 },
+    "71037": { "name": "Herk-de-Stad", "resultNisCode": 71024 },
+    "71045": { "name": "Sint-Truiden", "resultNisCode": 71053 },
+    "73098": { "name": "Borgloon", "resultNisCode": 73009 },
+    "71053": { "name": "Sint-Truiden", "resultNisCode": 71053 },
+    "25998": { "name": "E5-Kieskring Waals-Brabant", "resultNisCode": 25998 },
+    "71057": { "name": "Beringen", "resultNisCode": 71004 },
+    "73107": { "name": "Maasmechelen", "resultNisCode": 73107 },
+    "73109": { "name": "Voeren", "resultNisCode": 73109 },
+    "71067": { "name": "Genk", "resultNisCode": 71016 },
+    "71066": { "name": "Hasselt", "resultNisCode": 71022 },
+    "71069": { "name": "Beringen", "resultNisCode": 71004 },
+    "71070": { "name": "Beringen", "resultNisCode": 71004 },
+    "24998": { "name": "E5-Kieskring Vlaams-Brabant", "resultNisCode": 24998 },
+    "25005": { "name": "Geldenaken", "resultNisCode": 25048 },
+    "25014": { "name": "Nijvel", "resultNisCode": 25072 },
+    "25015": { "name": "Nijvel", "resultNisCode": 25072 },
+    "25018": { "name": "Waver", "resultNisCode": 25112 },
+    "25023": { "name": "Waver", "resultNisCode": 25112 },
+    "24001": { "name": "Aarschot", "resultNisCode": 24001 },
+    "24007": { "name": "Aarschot", "resultNisCode": 24001 },
+    "25031": { "name": "Genepiën", "resultNisCode": 25031 },
+    "24008": { "name": "Diest", "resultNisCode": 24020 },
+    "24009": { "name": "Leuven", "resultNisCode": 24062 },
+    "24011": { "name": "Leuven", "resultNisCode": 24062 },
+    "25037": { "name": "Waver", "resultNisCode": 25112 },
+    "24014": { "name": "Haacht", "resultNisCode": 24033 },
+    "24016": { "name": "Tienen", "resultNisCode": 24107 },
+    "25043": { "name": "Geldenaken", "resultNisCode": 25048 },
+    "24020": { "name": "Diest", "resultNisCode": 24020 },
+    "25044": { "name": "Nijvel", "resultNisCode": 25072 },
+    "25048": { "name": "Geldenaken", "resultNisCode": 25048 },
+    "23002": { "name": "Asse", "resultNisCode": 23002 },
+    "25050": { "name": "Waver", "resultNisCode": 25112 },
+    "23003": { "name": "Halle", "resultNisCode": 23027 },
+    "24028": { "name": "Zoutleeuw", "resultNisCode": 24130 },
+    "23009": { "name": "Lennik", "resultNisCode": 23104 },
+    "24033": { "name": "Haacht", "resultNisCode": 24033 },
+    "24038": { "name": "Leuven", "resultNisCode": 24062 },
+    "23016": { "name": "Asse", "resultNisCode": 23002 },
+    "24041": { "name": "Tienen", "resultNisCode": 24107 },
+    "24043": { "name": "Haacht", "resultNisCode": 24033 },
+    "25068": { "name": "Perwijs", "resultNisCode": 25084 },
+    "24045": { "name": "Leuven", "resultNisCode": 24062 },
+    "21998": { "name": "Brussel (E5)", "resultNisCode": 21998 },
+    "23023": { "name": "Lennik", "resultNisCode": 23104 },
+    "23024": { "name": "Lennik", "resultNisCode": 23104 },
+    "24048": { "name": "Haacht", "resultNisCode": 24033 },
+    "25072": { "name": "Nijvel", "resultNisCode": 25072 },
+    "23025": { "name": "Meise", "resultNisCode": 23050 },
+    "23027": { "name": "Halle", "resultNisCode": 23027 },
+    "24054": { "name": "Diest", "resultNisCode": 24020 },
+    "24055": { "name": "Leuven", "resultNisCode": 24062 },
+    "23032": { "name": "Lennik", "resultNisCode": 23104 },
+    "23033": { "name": "Zaventem", "resultNisCode": 23094 },
+    "24059": { "name": "Landen", "resultNisCode": 24059 },
+    "25084": { "name": "Perwijs", "resultNisCode": 25084 },
+    "23038": { "name": "Vilvoorde", "resultNisCode": 23088 },
+    "24062": { "name": "Leuven", "resultNisCode": 24062 },
+    "23039": { "name": "Meise", "resultNisCode": 23050 },
+    "24066": { "name": "Glabbeek", "resultNisCode": 24137 },
+    "25091": { "name": "Waver", "resultNisCode": 25112 },
+    "23044": { "name": "Asse", "resultNisCode": 23002 },
+    "23045": { "name": "Meise", "resultNisCode": 23050 },
+    "23047": { "name": "Vilvoorde", "resultNisCode": 23088 },
+    "64008": { "name": "Borgworm", "resultNisCode": 64074 },
+    "21001": { "name": "Anderlecht", "resultNisCode": 21001 },
+    "21002": { "name": "Elsene", "resultNisCode": 21009 },
+    "23050": { "name": "Meise", "resultNisCode": 23050 },
+    "21003": { "name": "Anderlecht", "resultNisCode": 21001 },
+    "21004": { "name": "Brussel", "resultNisCode": 21004 },
+    "23052": { "name": "Asse", "resultNisCode": 23002 },
+    "21005": { "name": "Sint-Joost-ten-Node", "resultNisCode": 21014 },
+    "21006": { "name": "Schaarbeek", "resultNisCode": 21015 },
+    "21007": { "name": "Ukkel", "resultNisCode": 21016 },
+    "64015": { "name": "Hannuit", "resultNisCode": 64034 },
+    "21008": { "name": "Sint-Jans-Molenbeek", "resultNisCode": 21012 },
+    "21009": { "name": "Elsene", "resultNisCode": 21009 },
+    "25105": { "name": "Nijvel", "resultNisCode": 25072 },
+    "21010": { "name": "Sint-Jans-Molenbeek", "resultNisCode": 21012 },
+    "25107": { "name": "Genepiën", "resultNisCode": 25031 },
+    "21011": { "name": "Sint-Jans-Molenbeek", "resultNisCode": 21012 },
+    "21012": { "name": "Sint-Jans-Molenbeek", "resultNisCode": 21012 },
+    "23060": { "name": "Asse", "resultNisCode": 23002 },
+    "21013": { "name": "Sint-Gillis", "resultNisCode": 21013 },
+    "64021": { "name": "Borgworm", "resultNisCode": 64074 },
+    "23062": { "name": "Zaventem", "resultNisCode": 23094 },
+    "24086": { "name": "Leuven", "resultNisCode": 24062 },
+    "25110": { "name": "Nijvel", "resultNisCode": 25072 },
+    "21014": { "name": "Sint-Joost-ten-Node", "resultNisCode": 21014 },
+    "21015": { "name": "Schaarbeek", "resultNisCode": 21015 },
+    "64023": { "name": "Borgworm", "resultNisCode": 64074 },
+    "21016": { "name": "Ukkel", "resultNisCode": 21016 },
+    "23064": { "name": "Halle", "resultNisCode": 23027 },
+    "25112": { "name": "Waver", "resultNisCode": 25112 },
+    "21017": { "name": "Elsene", "resultNisCode": 21009 },
+    "63001": { "name": "Sankt-Vith", "resultNisCode": 63067 },
+    "64025": { "name": "Borgworm", "resultNisCode": 64074 },
+    "21018": { "name": "Sint-Joost-ten-Node", "resultNisCode": 21014 },
+    "21019": { "name": "Sint-Joost-ten-Node", "resultNisCode": 21014 },
+    "63003": { "name": "Aubel", "resultNisCode": 63003 },
+    "63004": { "name": "Limburg", "resultNisCode": 63046 },
+    "25117": { "name": "Perwijs", "resultNisCode": 25084 },
+    "64029": { "name": "Borgworm", "resultNisCode": 64074 },
+    "24094": { "name": "Haacht", "resultNisCode": 24033 },
+    "25118": { "name": "Geldenaken", "resultNisCode": 25048 },
+    "25119": { "name": "Waver", "resultNisCode": 25112 },
+    "25120": { "name": "Geldenaken", "resultNisCode": 25048 },
+    "25121": { "name": "Waver", "resultNisCode": 25112 },
+    "25122": { "name": "Geldenaken", "resultNisCode": 25048 },
+    "64034": { "name": "Hannuit", "resultNisCode": 64034 },
+    "25123": { "name": "Nijvel", "resultNisCode": 25072 },
+    "25124": { "name": "Perwijs", "resultNisCode": 25084 },
+    "63012": { "name": "Sankt-Vith", "resultNisCode": 63067 },
+    "23077": { "name": "Halle", "resultNisCode": 23027 },
+    "63013": { "name": "Sankt-Vith", "resultNisCode": 63067 },
+    "24104": { "name": "Leuven", "resultNisCode": 24062 },
+    "23081": { "name": "Zaventem", "resultNisCode": 23094 },
+    "24107": { "name": "Tienen", "resultNisCode": 24107 },
+    "63020": { "name": "Dison", "resultNisCode": 63020 },
+    "24109": { "name": "Haacht", "resultNisCode": 24033 },
+    "23086": { "name": "Asse", "resultNisCode": 23002 },
+    "63023": { "name": "Eupen", "resultNisCode": 63023 },
+    "64047": { "name": "Hannuit", "resultNisCode": 64034 },
+    "23088": { "name": "Vilvoorde", "resultNisCode": 23088 },
+    "62003": { "name": "Saint-Nicolas", "resultNisCode": 62093 },
+    "23094": { "name": "Zaventem", "resultNisCode": 23094 },
+    "62006": { "name": "Grâce-Hollogne", "resultNisCode": 62118 },
+    "23096": { "name": "Vilvoorde", "resultNisCode": 23088 },
+    "64056": { "name": "Borgworm", "resultNisCode": 64074 },
+    "23097": { "name": "Lennik", "resultNisCode": 23104 },
+    "62009": { "name": "Aywaille", "resultNisCode": 62009 },
+    "23098": { "name": "Sint-Genesius-Rode", "resultNisCode": 23101 },
+    "23099": { "name": "Sint-Genesius-Rode", "resultNisCode": 23101 },
+    "62011": { "name": "Bitsingen", "resultNisCode": 62011 },
+    "63035": { "name": "Herve", "resultNisCode": 63035 },
+    "23100": { "name": "Sint-Genesius-Rode", "resultNisCode": 23101 },
+    "23101": { "name": "Sint-Genesius-Rode", "resultNisCode": 23101 },
+    "23102": { "name": "Sint-Genesius-Rode", "resultNisCode": 23101 },
+    "63038": { "name": "Limburg", "resultNisCode": 63046 },
+    "62015": { "name": "Fléron", "resultNisCode": 62038 },
+    "64063": { "name": "Borgworm", "resultNisCode": 64074 },
+    "23103": { "name": "Sint-Genesius-Rode", "resultNisCode": 23101 },
+    "23104": { "name": "Lennik", "resultNisCode": 23104 },
+    "63040": { "name": "Eupen", "resultNisCode": 63023 },
+    "23105": { "name": "Asse", "resultNisCode": 23002 },
+    "64065": { "name": "Borgworm", "resultNisCode": 64074 },
+    "24130": { "name": "Zoutleeuw", "resultNisCode": 24130 },
+    "24133": { "name": "Zoutleeuw", "resultNisCode": 24130 },
+    "63045": { "name": "Stavelot", "resultNisCode": 63073 },
+    "24134": { "name": "Diest", "resultNisCode": 24020 },
+    "60998": { "name": "E5-Kieskring Luik", "resultNisCode": 60998 },
+    "62022": { "name": "Fléron", "resultNisCode": 62038 },
+    "63046": { "name": "Limburg", "resultNisCode": 63046 },
+    "24135": { "name": "Aarschot", "resultNisCode": 24001 },
+    "63048": { "name": "Eupen", "resultNisCode": 63023 },
+    "24137": { "name": "Glabbeek", "resultNisCode": 24137 },
+    "63049": { "name": "Malmedy", "resultNisCode": 63049 },
+    "62026": { "name": "Aywaille", "resultNisCode": 62009 },
+    "64074": { "name": "Borgworm", "resultNisCode": 64074 },
+    "61003": { "name": "Hoei", "resultNisCode": 61031 },
+    "62027": { "name": "Wezet", "resultNisCode": 62108 },
+    "64075": { "name": "Hannuit", "resultNisCode": 64034 },
+    "64076": { "name": "Borgworm", "resultNisCode": 64074 },
+    "62032": { "name": "Aywaille", "resultNisCode": 62009 },
+    "63057": { "name": "Verviers", "resultNisCode": 63079 },
+    "63058": { "name": "Spa", "resultNisCode": 63072 },
+    "61010": { "name": "Héron", "resultNisCode": 61028 },
+    "61012": { "name": "Nandrin", "resultNisCode": 61043 },
+    "63061": { "name": "Eupen", "resultNisCode": 63023 },
+    "62038": { "name": "Fléron", "resultNisCode": 62038 },
+    "61019": { "name": "Ferrières", "resultNisCode": 61019 },
+    "63067": { "name": "Sankt-Vith", "resultNisCode": 63067 },
+    "63072": { "name": "Spa", "resultNisCode": 63072 },
+    "61024": { "name": "Nandrin", "resultNisCode": 61043 },
+    "63073": { "name": "Stavelot", "resultNisCode": 63073 },
+    "63075": { "name": "Stavelot", "resultNisCode": 63073 },
+    "62051": { "name": "Herstal", "resultNisCode": 62051 },
+    "61028": { "name": "Héron", "resultNisCode": 61028 },
+    "63076": { "name": "Spa", "resultNisCode": 63072 },
+    "61031": { "name": "Hoei", "resultNisCode": 61031 },
+    "63079": { "name": "Verviers", "resultNisCode": 63079 },
+    "63080": { "name": "Malmedy", "resultNisCode": 63049 },
+    "21098": {
+      "name": "Stemmen Uitgebracht In het Kanton Sint-Genesius-Rode",
+      "resultNisCode": 21101
+    },
+    "21099": {
+      "name": "Stemmen Uitgebracht In het Kanton Sint-Genesius-Rode",
+      "resultNisCode": 21101
+    },
+    "21100": {
+      "name": "Stemmen Uitgebracht In het Kanton Sint-Genesius-Rode",
+      "resultNisCode": 21101
+    },
+    "63084": { "name": "Limburg", "resultNisCode": 63046 },
+    "62060": { "name": "Bitsingen", "resultNisCode": 62011 },
+    "21101": {
+      "name": "Stemmen Uitgebracht In het Kanton Sint-Genesius-Rode",
+      "resultNisCode": 21101
+    },
+    "21102": {
+      "name": "Stemmen Uitgebracht In het Kanton Sint-Genesius-Rode",
+      "resultNisCode": 21101
+    },
+    "63086": { "name": "Stavelot", "resultNisCode": 63073 },
+    "61039": { "name": "Hoei", "resultNisCode": 61031 },
+    "62063": { "name": "Luik", "resultNisCode": 62063 },
+    "63087": { "name": "Sankt-Vith", "resultNisCode": 63067 },
+    "21103": {
+      "name": "Stemmen Uitgebracht In het Kanton Sint-Genesius-Rode",
+      "resultNisCode": 21101
+    },
+    "63088": { "name": "Aubel", "resultNisCode": 63003 },
+    "61041": { "name": "Nandrin", "resultNisCode": 61043 },
+    "63089": { "name": "Herve", "resultNisCode": 63035 },
+    "61043": { "name": "Nandrin", "resultNisCode": 61043 },
+    "61048": { "name": "Nandrin", "resultNisCode": 61043 },
+    "62079": { "name": "Bitsingen", "resultNisCode": 62011 },
+    "61063": { "name": "Verlaine", "resultNisCode": 61063 },
+    "61068": { "name": "Verlaine", "resultNisCode": 61063 },
+    "62093": { "name": "Saint-Nicolas", "resultNisCode": 62093 },
+    "61072": { "name": "Hoei", "resultNisCode": 61031 },
+    "62096": { "name": "Seraing", "resultNisCode": 62096 },
+    "58001": { "name": "La Louvière", "resultNisCode": 58001 },
+    "58002": { "name": "Binche", "resultNisCode": 58002 },
+    "58003": { "name": "Binche", "resultNisCode": 58002 },
+    "62099": { "name": "Fléron", "resultNisCode": 62038 },
+    "58004": { "name": "Binche", "resultNisCode": 58002 },
+    "62100": { "name": "Aywaille", "resultNisCode": 62009 },
+    "61079": { "name": "Nandrin", "resultNisCode": 61043 },
+    "61080": { "name": "Nandrin", "resultNisCode": 61043 },
+    "61081": { "name": "Nandrin", "resultNisCode": 61043 },
+    "62108": { "name": "Wezet", "resultNisCode": 62108 },
+    "62118": { "name": "Grâce-Hollogne", "resultNisCode": 62118 },
+    "62119": { "name": "Fléron", "resultNisCode": 62038 },
+    "62120": { "name": "Grâce-Hollogne", "resultNisCode": 62118 },
+    "62121": { "name": "Seraing", "resultNisCode": 62096 },
+    "62122": { "name": "Fléron", "resultNisCode": 62038 },
+    "57003": { "name": "Antoing", "resultNisCode": 57003 },
+    "57018": { "name": "Celles", "resultNisCode": 57018 },
+    "56001": { "name": "Anderlues", "resultNisCode": 56001 },
+    "57027": { "name": "Estaimpuis", "resultNisCode": 57027 },
+    "56005": { "name": "Beaumont", "resultNisCode": 56005 },
+    "13001": { "name": "Arendonk", "resultNisCode": 13001 },
+    "13002": { "name": "Hoogstraten", "resultNisCode": 13014 },
+    "13003": { "name": "Mol", "resultNisCode": 13025 },
+    "13004": { "name": "Turnhout", "resultNisCode": 13040 },
+    "13006": { "name": "Arendonk", "resultNisCode": 13001 },
+    "56016": { "name": "Chimay", "resultNisCode": 56016 },
+    "13008": { "name": "Mol", "resultNisCode": 13025 },
+    "13010": { "name": "Herentals", "resultNisCode": 13011 },
+    "13011": { "name": "Herentals", "resultNisCode": 13011 },
+    "13012": { "name": "Herentals", "resultNisCode": 13011 },
+    "13013": { "name": "Westerlo", "resultNisCode": 13049 },
+    "56022": { "name": "Merbes-le-Château", "resultNisCode": 56049 },
+    "13014": { "name": "Hoogstraten", "resultNisCode": 13014 },
+    "13016": { "name": "Westerlo", "resultNisCode": 13049 },
+    "13017": { "name": "Herentals", "resultNisCode": 13011 },
+    "13019": { "name": "Herentals", "resultNisCode": 13011 },
+    "55004": { "name": "Zinnik", "resultNisCode": 55040 },
+    "13021": { "name": "Mol", "resultNisCode": 13025 },
+    "56029": { "name": "Beaumont", "resultNisCode": 56005 },
+    "13023": { "name": "Hoogstraten", "resultNisCode": 13014 },
+    "13025": { "name": "Mol", "resultNisCode": 13025 },
+    "12002": { "name": "Lier", "resultNisCode": 12021 },
+    "12005": { "name": "Duffel", "resultNisCode": 12009 },
+    "13029": { "name": "Herentals", "resultNisCode": 13011 },
+    "57062": { "name": "Estaimpuis", "resultNisCode": 57027 },
+    "12007": { "name": "Puurs-Sint-Amands", "resultNisCode": 12041 },
+    "13031": { "name": "Turnhout", "resultNisCode": 13040 },
+    "57064": { "name": "Péruwelz", "resultNisCode": 57064 },
+    "12009": { "name": "Duffel", "resultNisCode": 12009 },
+    "13035": { "name": "Arendonk", "resultNisCode": 13001 },
+    "13036": { "name": "Arendonk", "resultNisCode": 13001 },
+    "56044": { "name": "Thuin", "resultNisCode": 56078 },
+    "13037": { "name": "Hoogstraten", "resultNisCode": 13014 },
+    "12014": { "name": "Heist-op-den-Berg", "resultNisCode": 12014 },
+    "13040": { "name": "Turnhout", "resultNisCode": 13040 },
+    "57072": { "name": "Antoing", "resultNisCode": 57003 },
+    "56049": { "name": "Merbes-le-Château", "resultNisCode": 56049 },
+    "56051": { "name": "Chimay", "resultNisCode": 56016 },
+    "13044": { "name": "Herentals", "resultNisCode": 13011 },
+    "12021": { "name": "Lier", "resultNisCode": 12021 },
+    "10998": { "name": "E5-Kieskring Antwerpen", "resultNisCode": 10998 },
+    "13046": { "name": "Turnhout", "resultNisCode": 13040 },
+    "11001": { "name": "Kontich", "resultNisCode": 11024 },
+    "12025": { "name": "Mechelen", "resultNisCode": 12025 },
+    "13049": { "name": "Westerlo", "resultNisCode": 13049 },
+    "57081": { "name": "Doornik", "resultNisCode": 57081 },
+    "12026": { "name": "Heist-op-den-Berg", "resultNisCode": 12014 },
+    "11002": { "name": "Antwerpen", "resultNisCode": 11002 },
+    "55035": { "name": "Le Roeulx", "resultNisCode": 55035 },
+    "11004": { "name": "Kontich", "resultNisCode": 11024 },
+    "11005": { "name": "Boom", "resultNisCode": 11005 },
+    "12029": { "name": "Heist-op-den-Berg", "resultNisCode": 12014 },
+    "13053": { "name": "Westerlo", "resultNisCode": 13049 },
+    "11007": { "name": "Kontich", "resultNisCode": 11024 },
+    "11008": { "name": "Kapellen", "resultNisCode": 11023 },
+    "55040": { "name": "Zinnik", "resultNisCode": 55040 },
+    "11009": { "name": "Brecht", "resultNisCode": 11009 },
+    "12035": { "name": "Duffel", "resultNisCode": 12009 },
+    "11013": { "name": "Kontich", "resultNisCode": 11024 },
+    "57093": { "name": "Antoing", "resultNisCode": 57003 },
+    "57094": { "name": "Leuze-en-Hainaut", "resultNisCode": 57094 },
+    "57095": { "name": "Celles", "resultNisCode": 57018 },
+    "11016": { "name": "Brecht", "resultNisCode": 11009 },
+    "12040": { "name": "Mechelen", "resultNisCode": 12025 },
+    "57096": { "name": "Moeskroen", "resultNisCode": 57096 },
+    "57097": { "name": "Komen-Waasten", "resultNisCode": 57097 },
+    "12041": { "name": "Puurs-Sint-Amands", "resultNisCode": 12041 },
+    "55050": { "name": "Zinnik", "resultNisCode": 55040 },
+    "11018": { "name": "Boom", "resultNisCode": 11005 },
+    "11021": { "name": "Kontich", "resultNisCode": 11024 },
+    "11022": { "name": "Brecht", "resultNisCode": 11009 },
+    "56078": { "name": "Thuin", "resultNisCode": 56078 },
+    "11023": { "name": "Kapellen", "resultNisCode": 11023 },
+    "11024": { "name": "Kontich", "resultNisCode": 11024 },
+    "11025": { "name": "Kontich", "resultNisCode": 11024 },
+    "11029": { "name": "Kontich", "resultNisCode": 11024 },
+    "11030": { "name": "Boom", "resultNisCode": 11005 },
+    "56086": { "name": "Thuin", "resultNisCode": 56078 },
+    "53014": { "name": "Boussu", "resultNisCode": 53014 },
+    "56088": { "name": "Beaumont", "resultNisCode": 56005 },
+    "11035": { "name": "Zandhoven", "resultNisCode": 11054 },
+    "53020": { "name": "Dour", "resultNisCode": 53020 },
+    "11037": { "name": "Boom", "resultNisCode": 11005 },
+    "11038": { "name": "Boom", "resultNisCode": 11005 },
+    "11039": { "name": "Zandhoven", "resultNisCode": 11054 },
+    "11040": { "name": "Kapellen", "resultNisCode": 11023 },
+    "53028": { "name": "Frameries", "resultNisCode": 53028 },
+    "11044": { "name": "Kapellen", "resultNisCode": 11023 },
+    "52010": { "name": "Fontaine-l'Evêque", "resultNisCode": 52022 },
+    "11050": { "name": "Zandhoven", "resultNisCode": 11054 },
+    "52011": { "name": "Charleroi", "resultNisCode": 52011 },
+    "11052": { "name": "Zandhoven", "resultNisCode": 11054 },
+    "52012": { "name": "Châtelet", "resultNisCode": 52012 },
+    "11053": { "name": "Brecht", "resultNisCode": 11009 },
+    "55085": { "name": "Seneffe", "resultNisCode": 55085 },
+    "55086": { "name": "Seneffe", "resultNisCode": 55085 },
+    "11054": { "name": "Zandhoven", "resultNisCode": 11054 },
+    "11055": { "name": "Zandhoven", "resultNisCode": 11054 },
+    "52015": { "name": "Fontaine-l'Evêque", "resultNisCode": 52022 },
+    "53039": { "name": "Boussu", "resultNisCode": 53014 },
+    "11056": { "name": "Antwerpen", "resultNisCode": 11002 },
+    "11057": { "name": "Brecht", "resultNisCode": 11009 },
+    "52018": { "name": "Châtelet", "resultNisCode": 52012 },
+    "53044": { "name": "Lens", "resultNisCode": 53046 },
+    "52021": { "name": "Châtelet", "resultNisCode": 52012 },
+    "50998": { "name": "E5-Kieskring Henegouwen", "resultNisCode": 50998 },
+    "52022": { "name": "Fontaine-l'Evêque", "resultNisCode": 52022 },
+    "53046": { "name": "Lens", "resultNisCode": 53046 },
+    "52025": { "name": "Châtelet", "resultNisCode": 52012 },
+    "51004": { "name": "Aat", "resultNisCode": 51004 },
+    "53053": { "name": "Bergen", "resultNisCode": 53053 },
+    "51008": { "name": "Beloeil", "resultNisCode": 51008 },
+    "51009": { "name": "Beloeil", "resultNisCode": 51008 },
+    "51012": { "name": "Chièvres", "resultNisCode": 51014 },
+    "51014": { "name": "Chièvres", "resultNisCode": 51014 },
+    "51017": { "name": "Vloesberg", "resultNisCode": 51019 },
+    "53065": { "name": "Boussu", "resultNisCode": 53014 },
+    "51019": { "name": "Vloesberg", "resultNisCode": 51019 },
+    "53068": { "name": "Dour", "resultNisCode": 53020 },
+    "53070": { "name": "Boussu", "resultNisCode": 53014 },
+    "52048": { "name": "Fontaine-l'Evêque", "resultNisCode": 52022 },
+    "93010": { "name": "Philippeville", "resultNisCode": 93056 },
+    "52055": { "name": "Pont-à-Celles", "resultNisCode": 52055 },
+    "93014": { "name": "Couvin", "resultNisCode": 93014 },
+    "53082": { "name": "Dour", "resultNisCode": 53020 },
+    "53083": { "name": "Dour", "resultNisCode": 53020 },
+    "93018": { "name": "Philippeville", "resultNisCode": 93056 },
+    "53084": { "name": "Frameries", "resultNisCode": 53028 },
+    "93022": { "name": "Florennes", "resultNisCode": 93022 },
+    "92003": { "name": "Andenne", "resultNisCode": 92003 },
+    "92006": { "name": "Namen", "resultNisCode": 92094 },
+    "52074": { "name": "Châtelet", "resultNisCode": 52012 },
+    "52075": { "name": "Pont-à-Celles", "resultNisCode": 52055 },
+    "90998": { "name": "E5-Kieskring Namen", "resultNisCode": 90998 },
+    "51065": { "name": "Frasnes-lez-Anvaing", "resultNisCode": 51065 },
+    "51067": { "name": "Edingen", "resultNisCode": 51067 },
+    "51068": { "name": "Edingen", "resultNisCode": 51067 },
+    "91005": { "name": "Dinant", "resultNisCode": 91034 },
+    "51069": { "name": "Lessen", "resultNisCode": 51069 },
+    "93056": { "name": "Philippeville", "resultNisCode": 93056 },
+    "92035": { "name": "Eghezée", "resultNisCode": 92035 },
+    "91013": { "name": "Beauraing", "resultNisCode": 91013 },
+    "91015": { "name": "Gedinne", "resultNisCode": 91054 },
+    "92045": { "name": "Fosses-la-Ville", "resultNisCode": 92048 },
+    "92048": { "name": "Fosses-la-Ville", "resultNisCode": 92048 },
+    "91030": { "name": "Ciney", "resultNisCode": 91030 },
+    "92054": { "name": "Andenne", "resultNisCode": 92003 },
+    "91034": { "name": "Dinant", "resultNisCode": 91034 },
+    "93088": { "name": "Walcourt", "resultNisCode": 93088 },
+    "93090": { "name": "Couvin", "resultNisCode": 93014 },
+    "91054": { "name": "Gedinne", "resultNisCode": 91054 },
+    "91059": { "name": "Ciney", "resultNisCode": 91030 },
+    "46003": { "name": "Beveren", "resultNisCode": 46003 },
+    "92087": { "name": "Fosses-la-Ville", "resultNisCode": 92048 },
+    "91064": { "name": "Ciney", "resultNisCode": 91030 },
+    "46013": { "name": "Temse", "resultNisCode": 46025 },
+    "46014": { "name": "Lokeren", "resultNisCode": 46014 },
+    "92094": { "name": "Namen", "resultNisCode": 92094 },
+    "92097": { "name": "Andenne", "resultNisCode": 92003 },
+    "91072": { "name": "Beauraing", "resultNisCode": 91013 },
+    "46020": { "name": "Sint-Gillis-Waas", "resultNisCode": 46020 },
+    "92101": { "name": "Fosses-la-Ville", "resultNisCode": 92048 },
+    "46021": { "name": "Sint-Niklaas", "resultNisCode": 46021 },
+    "46024": { "name": "Sint-Gillis-Waas", "resultNisCode": 46020 },
+    "46025": { "name": "Temse", "resultNisCode": 46025 },
+    "92114": { "name": "Gembloux", "resultNisCode": 92142 },
+    "91103": { "name": "Dinant", "resultNisCode": 91034 },
+    "92137": { "name": "Gembloux", "resultNisCode": 92142 },
+    "45035": { "name": "Oudenaarde", "resultNisCode": 45035 },
+    "91114": { "name": "Rochefort", "resultNisCode": 91114 },
+    "92138": { "name": "Eghezée", "resultNisCode": 92035 },
+    "44012": { "name": "Nazareth", "resultNisCode": 44048 },
+    "92141": { "name": "Eghezée", "resultNisCode": 92035 },
+    "44013": { "name": "Destelbergen", "resultNisCode": 44013 },
+    "92140": { "name": "Gembloux", "resultNisCode": 92142 },
+    "92142": { "name": "Gembloux", "resultNisCode": 92142 },
+    "45041": { "name": "Ronse", "resultNisCode": 45041 },
+    "91120": { "name": "Ciney", "resultNisCode": 91030 },
+    "44019": { "name": "Evergem", "resultNisCode": 44019 },
+    "44020": { "name": "Merelbeke", "resultNisCode": 44043 },
+    "44021": { "name": "Gent", "resultNisCode": 44021 },
+    "43002": { "name": "Assenede", "resultNisCode": 43002 },
+    "43005": { "name": "Eeklo", "resultNisCode": 43005 },
+    "43007": { "name": "Kaprijke", "resultNisCode": 43007 }
+  },
+  "results": {
+    "44034": {
+      "towns": [
+        { "nisCode": 44034, "name": "Lochristi" },
+        { "nisCode": 44045, "name": "Moerbeke" },
+        { "nisCode": 44073, "name": "Wachtebeke" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 23.74
+        }
+      ],
+      "previous": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 22.0 }
+      ],
+      "name": "Kanton Lochristi",
+      "shortName": "Lochristi",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/lochristi"
+    },
+    "45059": {
+      "towns": [
+        { "nisCode": 45059, "name": "Brakel" },
+        { "nisCode": 45063, "name": "Lierde" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 16.76
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 15.26
+        }
+      ],
+      "name": "Kanton Brakel",
+      "shortName": "Brakel",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/brakel"
+    },
+    "45062": {
+      "towns": [
+        { "nisCode": 45065, "name": "Zwalm" },
+        { "nisCode": 45062, "name": "Horebeke" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 21.56
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 19.32
+        }
+      ],
+      "name": "Kanton Horebeke",
+      "shortName": "Horebeke",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/horebeke"
+    },
+    "21001": {
+      "towns": [
+        { "nisCode": 21001, "name": "Anderlecht" },
+        { "nisCode": 21003, "name": "Sint-Agatha-Berchem" }
+      ],
+      "current": [
+        {
+          "language": "MULTIPLE",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 3.15
+        }
+      ],
+      "previous": [
+        {
+          "language": "MULTIPLE",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 4.38
+        }
+      ],
+      "name": "Kanton Anderlecht",
+      "shortName": "Anderlecht",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/anderlecht"
+    },
+    "23050": {
+      "towns": [
+        { "nisCode": 23025, "name": "Grimbergen" },
+        { "nisCode": 23039, "name": "Kapelle-op-den-Bos" },
+        { "nisCode": 23045, "name": "Londerzeel" },
+        { "nisCode": 23050, "name": "Meise" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 28.39
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 31.61
+        }
+      ],
+      "name": "Kanton Meise",
+      "shortName": "Meise",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/meise"
+    },
+    "44043": {
+      "towns": [
+        { "nisCode": 44020, "name": "Gavere" },
+        { "nisCode": 44043, "name": "Merelbeke" },
+        { "nisCode": 44052, "name": "Oosterzele" },
+        { "nisCode": 44040, "name": "Melle" }
+      ],
+      "current": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 23.1 }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 20.83
+        }
+      ],
+      "name": "Kanton Merelbeke",
+      "shortName": "Merelbeke",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/merelbeke"
+    },
+    "21004": {
+      "towns": [{ "nisCode": 21004, "name": "Brussel" }],
+      "current": [
+        {
+          "language": "MULTIPLE",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 3.52
+        }
+      ],
+      "previous": [
+        {
+          "language": "MULTIPLE",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 4.07
+        }
+      ],
+      "name": "Kanton Brussel",
+      "shortName": "Brussel",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/brussel"
+    },
+    "45068": {
+      "towns": [{ "nisCode": 45068, "name": "Kruisem" }],
+      "current": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 22.4 }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 20.07
+        }
+      ],
+      "name": "Kanton Kruisem",
+      "shortName": "Kruisem",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/kruisem"
+    },
+    "44048": {
+      "towns": [
+        { "nisCode": 44012, "name": "De Pinte" },
+        { "nisCode": 44048, "name": "Nazareth" },
+        { "nisCode": 44064, "name": "Sint-Martens-Latem" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 27.96
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 26.86
+        }
+      ],
+      "name": "Kanton Nazareth",
+      "shortName": "Nazareth",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/nazareth"
+    },
+    "85009": {
+      "towns": [
+        { "nisCode": 85009, "name": "Etalle" },
+        { "nisCode": 85039, "name": "Tintigny" },
+        { "nisCode": 85046, "name": "Habay" }
+      ],
+      "current": [
+        { "language": "FRENCH", "name": "N-VA", "color": "yellow1", "pct": 2.0 }
+      ],
+      "previous": [],
+      "name": "Kanton Étalle",
+      "shortName": "Étalle",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/etalle"
+    },
+    "21009": {
+      "towns": [
+        { "nisCode": 21002, "name": "Oudergem" },
+        { "nisCode": 21009, "name": "Elsene" },
+        { "nisCode": 21017, "name": "Watermaal-Bosvoorde" }
+      ],
+      "current": [
+        {
+          "language": "MULTIPLE",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.38
+        }
+      ],
+      "previous": [
+        {
+          "language": "MULTIPLE",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.44
+        }
+      ],
+      "name": "Kanton Elsene",
+      "shortName": "Elsene",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/elsene"
+    },
+    "85011": {
+      "towns": [
+        { "nisCode": 85007, "name": "Chiny" },
+        { "nisCode": 85011, "name": "Florenville" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.85
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Florenville",
+      "shortName": "Florenville",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/florenville"
+    },
+    "21012": {
+      "towns": [
+        { "nisCode": 21008, "name": "Ganshoren" },
+        { "nisCode": 21010, "name": "Jette" },
+        { "nisCode": 21012, "name": "Sint-Jans-Molenbeek" },
+        { "nisCode": 21011, "name": "Koekelberg" }
+      ],
+      "current": [
+        {
+          "language": "MULTIPLE",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 3.08
+        }
+      ],
+      "previous": [
+        {
+          "language": "MULTIPLE",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 4.2
+        }
+      ],
+      "name": "Kanton Sint-Jans-Molenbeek",
+      "shortName": "Sint-Jans-Molenbeek",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/sintjansmolenbeek"
+    },
+    "21013": {
+      "towns": [{ "nisCode": 21013, "name": "Sint-Gillis" }],
+      "current": [
+        {
+          "language": "MULTIPLE",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.31
+        }
+      ],
+      "previous": [
+        {
+          "language": "MULTIPLE",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.21
+        }
+      ],
+      "name": "Kanton Sint-Gillis",
+      "shortName": "Sint-Gillis",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/sintgillis"
+    },
+    "42006": {
+      "towns": [
+        { "nisCode": 42004, "name": "Buggenhout" },
+        { "nisCode": 42011, "name": "Lebbeke" },
+        { "nisCode": 42006, "name": "Dendermonde" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 24.29
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 24.56
+        }
+      ],
+      "name": "Kanton Dendermonde",
+      "shortName": "Dendermonde",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/dendermonde"
+    },
+    "21014": {
+      "towns": [
+        { "nisCode": 21005, "name": "Etterbeek" },
+        { "nisCode": 21018, "name": "Sint-Lambrechts-Woluwe" },
+        { "nisCode": 21019, "name": "Sint-Pieters-Woluwe" },
+        { "nisCode": 21014, "name": "Sint-Joost-ten-Node" }
+      ],
+      "current": [
+        {
+          "language": "MULTIPLE",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.43
+        }
+      ],
+      "previous": [
+        {
+          "language": "MULTIPLE",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.63
+        }
+      ],
+      "name": "Kanton Sint-Joost-ten-Node",
+      "shortName": "Sint-Joost-ten-Node",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/sintjoosttennode"
+    },
+    "21015": {
+      "towns": [
+        { "nisCode": 21006, "name": "Evere" },
+        { "nisCode": 21015, "name": "Schaarbeek" }
+      ],
+      "current": [
+        {
+          "language": "MULTIPLE",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.54
+        }
+      ],
+      "previous": [
+        {
+          "language": "MULTIPLE",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.85
+        }
+      ],
+      "name": "Kanton Schaarbeek",
+      "shortName": "Schaarbeek",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/schaarbeek"
+    },
+    "25112": {
+      "towns": [
+        { "nisCode": 25023, "name": "Court-Saint-Etienne" },
+        { "nisCode": 25037, "name": "Graven" },
+        { "nisCode": 25050, "name": "Terhulpen" },
+        { "nisCode": 25091, "name": "Rixensart" },
+        { "nisCode": 25112, "name": "Waver" },
+        { "nisCode": 25119, "name": "Lasne" },
+        { "nisCode": 25018, "name": "Chaumont-Gistoux" },
+        { "nisCode": 25121, "name": "Ottignies-Louvain-la-Neuve" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.05
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Waver",
+      "shortName": "Waver",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/waver"
+    },
+    "42008": {
+      "towns": [
+        { "nisCode": 42008, "name": "Hamme" },
+        { "nisCode": 42023, "name": "Waasmunster" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 26.78
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 25.34
+        }
+      ],
+      "name": "Kanton Hamme",
+      "shortName": "Hamme",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/hamme"
+    },
+    "21016": {
+      "towns": [
+        { "nisCode": 21007, "name": "Vorst" },
+        { "nisCode": 21016, "name": "Ukkel" }
+      ],
+      "current": [
+        {
+          "language": "MULTIPLE",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.19
+        }
+      ],
+      "previous": [
+        {
+          "language": "MULTIPLE",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.29
+        }
+      ],
+      "name": "Kanton Ukkel",
+      "shortName": "Ukkel",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/ukkel"
+    },
+    "63003": {
+      "towns": [
+        { "nisCode": 63003, "name": "Aubel" },
+        { "nisCode": 63088, "name": "Plombières" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.97
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Aubel",
+      "shortName": "Aubel",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/aubel"
+    },
+    "64034": {
+      "towns": [
+        { "nisCode": 64015, "name": "Braives" },
+        { "nisCode": 64047, "name": "Lijsem" },
+        { "nisCode": 64075, "name": "Wasseiges" },
+        { "nisCode": 64034, "name": "Hannuit" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.11
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Hannuit",
+      "shortName": "Hannuit",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/hannuit"
+    },
+    "40998": {
+      "towns": [{ "nisCode": 40998, "name": "Gent (E5)" }],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 14.46
+        }
+      ],
+      "previous": [],
+      "name": "Kanton E5-Kieskring Oost-Vlaanderen",
+      "shortName": "E5-Kieskring Oost-Vlaanderen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/e5kieskring_oostvlaanderen"
+    },
+    "40999": {
+      "towns": [],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 19.18
+        }
+      ],
+      "previous": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 19.3 }
+      ],
+      "name": "Speciaal Kanton: Buza Oost-Vlaanderen",
+      "shortName": "Speciaal Kanton: Buza Oost-Vlaanderen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/speciaal_kanton_buza_oostvlaanderen"
+    },
+    "42025": {
+      "towns": [
+        { "nisCode": 42010, "name": "Laarne" },
+        { "nisCode": 42025, "name": "Wetteren" },
+        { "nisCode": 42026, "name": "Wichelen" }
+      ],
+      "current": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 23.5 }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 22.47
+        }
+      ],
+      "name": "Kanton Wetteren",
+      "shortName": "Wetteren",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/wetteren"
+    },
+    "41002": {
+      "towns": [
+        { "nisCode": 41002, "name": "Aalst" },
+        { "nisCode": 41082, "name": "Erpe-Mere" },
+        { "nisCode": 41034, "name": "Lede" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 24.62
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 26.31
+        }
+      ],
+      "name": "Kanton Aalst",
+      "shortName": "Aalst",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/aalst"
+    },
+    "84010": {
+      "towns": [{ "nisCode": 84010, "name": "Bouillon" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.81
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Bouillon",
+      "shortName": "Bouillon",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/bouillon"
+    },
+    "24107": {
+      "towns": [
+        { "nisCode": 24016, "name": "Boutersem" },
+        { "nisCode": 24107, "name": "Tienen" },
+        { "nisCode": 24041, "name": "Hoegaarden" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 24.37
+        }
+      ],
+      "previous": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 27.2 }
+      ],
+      "name": "Kanton Tienen",
+      "shortName": "Tienen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/tienen"
+    },
+    "42028": {
+      "towns": [
+        { "nisCode": 42003, "name": "Berlare" },
+        { "nisCode": 42028, "name": "Zele" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 22.38
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 21.37
+        }
+      ],
+      "name": "Kanton Zele",
+      "shortName": "Zele",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/zele"
+    },
+    "63020": {
+      "towns": [{ "nisCode": 63020, "name": "Dison" }],
+      "current": [
+        { "language": "FRENCH", "name": "N-VA", "color": "yellow1", "pct": 1.8 }
+      ],
+      "previous": [],
+      "name": "Kanton Dison",
+      "shortName": "Dison",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/dison"
+    },
+    "63023": {
+      "towns": [
+        { "nisCode": 63023, "name": "Eupen" },
+        { "nisCode": 63040, "name": "Kelmis" },
+        { "nisCode": 63048, "name": "Lontzen" },
+        { "nisCode": 63061, "name": "Raeren" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 3.42
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Eupen",
+      "shortName": "Eupen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/eupen"
+    },
+    "23088": {
+      "towns": [
+        { "nisCode": 23038, "name": "Kampenhout" },
+        { "nisCode": 23088, "name": "Vilvoorde" },
+        { "nisCode": 23096, "name": "Zemst" },
+        { "nisCode": 23047, "name": "Machelen" }
+      ],
+      "current": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 22.5 }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 25.18
+        }
+      ],
+      "name": "Kanton Vilvoorde",
+      "shortName": "Vilvoorde",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/vilvoorde"
+    },
+    "44083": {
+      "towns": [
+        { "nisCode": 44081, "name": "Zulte" },
+        { "nisCode": 44083, "name": "Deinze" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 25.22
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 22.52
+        }
+      ],
+      "name": "Kanton Deinze",
+      "shortName": "Deinze",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/deinze"
+    },
+    "85045": {
+      "towns": [
+        { "nisCode": 85024, "name": "Meix-Devant-Virton" },
+        { "nisCode": 85026, "name": "Musson" },
+        { "nisCode": 85034, "name": "Saint-Léger" },
+        { "nisCode": 85045, "name": "Virton" },
+        { "nisCode": 85047, "name": "Rouvroy" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.89
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Virton",
+      "shortName": "Virton",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/virton"
+    },
+    "44084": {
+      "towns": [{ "nisCode": 44084, "name": "Aalter" }],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 25.04
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 21.87
+        }
+      ],
+      "name": "Kanton Aalter",
+      "shortName": "Aalter",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/aalter"
+    },
+    "44085": {
+      "towns": [{ "nisCode": 44085, "name": "Lievegem" }],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 23.01
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 22.55
+        }
+      ],
+      "name": "Kanton Lievegem",
+      "shortName": "Lievegem",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/lievegem"
+    },
+    "23094": {
+      "towns": [
+        { "nisCode": 23033, "name": "Hoeilaart" },
+        { "nisCode": 23062, "name": "Overijse" },
+        { "nisCode": 23081, "name": "Steenokkerzeel" },
+        { "nisCode": 23094, "name": "Zaventem" }
+      ],
+      "current": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 24.4 }
+      ],
+      "previous": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 25.9 }
+      ],
+      "name": "Kanton Zaventem",
+      "shortName": "Zaventem",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/zaventem"
+    },
+    "62009": {
+      "towns": [
+        { "nisCode": 62009, "name": "Aywaille" },
+        { "nisCode": 62026, "name": "Comblain-au-Pont" },
+        { "nisCode": 62032, "name": "Esneux" },
+        { "nisCode": 62100, "name": "Sprimont" }
+      ],
+      "current": [
+        { "language": "FRENCH", "name": "N-VA", "color": "yellow1", "pct": 1.3 }
+      ],
+      "previous": [],
+      "name": "Kanton Aywaille",
+      "shortName": "Aywaille",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/aywaille"
+    },
+    "41018": {
+      "towns": [{ "nisCode": 41018, "name": "Geraardsbergen" }],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 18.28
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 18.21
+        }
+      ],
+      "name": "Kanton Geraardsbergen",
+      "shortName": "Geraardsbergen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/geraardsbergen"
+    },
+    "63035": {
+      "towns": [
+        { "nisCode": 63035, "name": "Herve" },
+        { "nisCode": 63089, "name": "Thimister-Clermont" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.17
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Herve",
+      "shortName": "Herve",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/herve"
+    },
+    "62011": {
+      "towns": [
+        { "nisCode": 62011, "name": "Bitsingen" },
+        { "nisCode": 62079, "name": "Oupeye" },
+        { "nisCode": 62060, "name": "Juprelle" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.96
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Bitsingen",
+      "shortName": "Bitsingen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/bitsingen"
+    },
+    "23101": {
+      "towns": [
+        { "nisCode": 23099, "name": "Kraainem" },
+        { "nisCode": 23100, "name": "Linkebeek" },
+        { "nisCode": 23101, "name": "Sint-Genesius-Rode" },
+        { "nisCode": 23102, "name": "Wemmel" },
+        { "nisCode": 23098, "name": "Drogenbos" },
+        { "nisCode": 23103, "name": "Wezembeek-Oppem" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 24.98
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 28.93
+        }
+      ],
+      "name": "Kanton Sint-Genesius-Rode",
+      "shortName": "Sint-Genesius-Rode",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/sintgenesiusrode"
+    },
+    "23104": {
+      "towns": [
+        { "nisCode": 23009, "name": "Bever" },
+        { "nisCode": 23023, "name": "Galmaarden" },
+        { "nisCode": 23024, "name": "Gooik" },
+        { "nisCode": 23032, "name": "Herne" },
+        { "nisCode": 23097, "name": "Roosdaal" },
+        { "nisCode": 23104, "name": "Lennik" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 27.22
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 30.49
+        }
+      ],
+      "name": "Kanton Lennik",
+      "shortName": "Lennik",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/lennik"
+    },
+    "24130": {
+      "towns": [
+        { "nisCode": 24028, "name": "Geetbets" },
+        { "nisCode": 24130, "name": "Zoutleeuw" },
+        { "nisCode": 24133, "name": "Linter" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 22.63
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 25.47
+        }
+      ],
+      "name": "Kanton Zoutleeuw",
+      "shortName": "Zoutleeuw",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/zoutleeuw"
+    },
+    "41027": {
+      "towns": [
+        { "nisCode": 41024, "name": "Haaltert" },
+        { "nisCode": 41027, "name": "Herzele" },
+        { "nisCode": 41063, "name": "Sint-Lievens-Houtem" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 22.16
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 22.66
+        }
+      ],
+      "name": "Kanton Herzele",
+      "shortName": "Herzele",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/herzele"
+    },
+    "83013": {
+      "towns": [
+        { "nisCode": 83013, "name": "Erezée" },
+        { "nisCode": 83055, "name": "Manhay" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.98
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Erezée",
+      "shortName": "Erezée",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/erezee"
+    },
+    "83012": {
+      "towns": [{ "nisCode": 83012, "name": "Durbuy" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.56
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Durbuy",
+      "shortName": "Durbuy",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/durbuy"
+    },
+    "60998": {
+      "towns": [{ "nisCode": 60998, "name": "Luik (E5)" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.91
+        }
+      ],
+      "previous": [],
+      "name": "Kanton E5-Kieskring Luik",
+      "shortName": "E5-Kieskring Luik",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/e5kieskring_luik"
+    },
+    "63046": {
+      "towns": [
+        { "nisCode": 63004, "name": "Baelen" },
+        { "nisCode": 63046, "name": "Limburg" },
+        { "nisCode": 63084, "name": "Welkenraedt" },
+        { "nisCode": 63038, "name": "Jalhay" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.88
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Limburg",
+      "shortName": "Limburg",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/limburg"
+    },
+    "60999": {
+      "towns": [],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.46
+        }
+      ],
+      "previous": [],
+      "name": "Speciaal Kanton: Buza Luik",
+      "shortName": "Speciaal Kanton: Buza Luik",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/speciaal_kanton_buza_luik"
+    },
+    "24137": {
+      "towns": [
+        { "nisCode": 24066, "name": "Lubbeek" },
+        { "nisCode": 24137, "name": "Glabbeek" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 32.42
+        }
+      ],
+      "previous": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 38.0 }
+      ],
+      "name": "Kanton Glabbeek",
+      "shortName": "Glabbeek",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/glabbeek"
+    },
+    "63049": {
+      "towns": [
+        { "nisCode": 63049, "name": "Malmedy" },
+        { "nisCode": 63080, "name": "Weismes" }
+      ],
+      "current": [
+        { "language": "FRENCH", "name": "N-VA", "color": "yellow1", "pct": 1.7 }
+      ],
+      "previous": [],
+      "name": "Kanton Malmedy",
+      "shortName": "Malmedy",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/malmedy"
+    },
+    "64074": {
+      "towns": [
+        { "nisCode": 64008, "name": "Berloz" },
+        { "nisCode": 64021, "name": "Crisnée" },
+        { "nisCode": 64023, "name": "Donceel" },
+        { "nisCode": 64029, "name": "Geer" },
+        { "nisCode": 64056, "name": "Oerle" },
+        { "nisCode": 64063, "name": "Remicourt" },
+        { "nisCode": 64065, "name": "Saint-Georges-sur-Meuse" },
+        { "nisCode": 64074, "name": "Borgworm" },
+        { "nisCode": 64076, "name": "Faimes" },
+        { "nisCode": 64025, "name": "Fexhe-le-Haut-Clocher" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.68
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Borgworm",
+      "shortName": "Borgworm",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/borgworm"
+    },
+    "84043": {
+      "towns": [
+        { "nisCode": 84033, "name": "Léglise" },
+        { "nisCode": 84043, "name": "Neufchâteau" },
+        { "nisCode": 84077, "name": "Libramont-Chevigny" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.17
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Neufchâteau",
+      "shortName": "Neufchâteau",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/neufchateau"
+    },
+    "82003": {
+      "towns": [
+        { "nisCode": 82003, "name": "Bastenaken" },
+        { "nisCode": 82005, "name": "Bertogne" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.97
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Bastenaken",
+      "shortName": "Bastenaken",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/bastenaken"
+    },
+    "84050": {
+      "towns": [
+        { "nisCode": 84009, "name": "Bertrix" },
+        { "nisCode": 84029, "name": "Herbeumont" },
+        { "nisCode": 84050, "name": "Paliseul" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.39
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Paliseul",
+      "shortName": "Paliseul",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/paliseul"
+    },
+    "83031": {
+      "towns": [
+        { "nisCode": 83044, "name": "Rendeux" },
+        { "nisCode": 83049, "name": "Tenneville" },
+        { "nisCode": 83031, "name": "La Roche-en-Ardenne" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.86
+        }
+      ],
+      "previous": [],
+      "name": "Kanton La Roche-en-Ardenne",
+      "shortName": "La Roche-en-Ardenne",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/la_rocheenardenne"
+    },
+    "62038": {
+      "towns": [
+        { "nisCode": 62015, "name": "Beyne-Heusay" },
+        { "nisCode": 62022, "name": "Chaudfontaine" },
+        { "nisCode": 62038, "name": "Fléron" },
+        { "nisCode": 62099, "name": "Soumagne" },
+        { "nisCode": 62119, "name": "Blegny" },
+        { "nisCode": 62122, "name": "Trooz" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.52
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Fléron",
+      "shortName": "Fléron",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/fleron"
+    },
+    "41048": {
+      "towns": [
+        { "nisCode": 41011, "name": "Denderleeuw" },
+        { "nisCode": 41048, "name": "Ninove" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 18.11
+        }
+      ],
+      "previous": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 17.5 }
+      ],
+      "name": "Kanton Ninove",
+      "shortName": "Ninove",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/ninove"
+    },
+    "82009": {
+      "towns": [{ "nisCode": 82009, "name": "Fauvillers" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.49
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Fauvillers",
+      "shortName": "Fauvillers",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/fauvillers"
+    },
+    "84059": {
+      "towns": [
+        { "nisCode": 84035, "name": "Libin" },
+        { "nisCode": 84059, "name": "Saint-Hubert" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.86
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Saint-Hubert",
+      "shortName": "Saint-Hubert",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/sainthubert"
+    },
+    "61019": {
+      "towns": [{ "nisCode": 61019, "name": "Ferrières" }],
+      "current": [
+        { "language": "FRENCH", "name": "N-VA", "color": "yellow1", "pct": 1.5 }
+      ],
+      "previous": [],
+      "name": "Kanton Ferrières",
+      "shortName": "Ferrières",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/ferrieres"
+    },
+    "83034": {
+      "towns": [
+        { "nisCode": 83028, "name": "Hotton" },
+        { "nisCode": 83034, "name": "Marche-en-Famenne" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.32
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Marche-en-Famenne",
+      "shortName": "Marche-en-Famenne",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/marcheenfamenne"
+    },
+    "63067": {
+      "towns": [
+        { "nisCode": 63001, "name": "Amel" },
+        { "nisCode": 63013, "name": "Bütgenbach" },
+        { "nisCode": 63067, "name": "Sankt Vith" },
+        { "nisCode": 63087, "name": "Burg-Reuland" },
+        { "nisCode": 63012, "name": "Büllingen" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 3.97
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Sankt-Vith",
+      "shortName": "Sankt-Vith",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/sanktvith"
+    },
+    "82014": {
+      "towns": [{ "nisCode": 82014, "name": "Houffalize" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 3.09
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Houffalize",
+      "shortName": "Houffalize",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/houffalize"
+    },
+    "63072": {
+      "towns": [
+        { "nisCode": 63058, "name": "Pepinster" },
+        { "nisCode": 63072, "name": "Spa" },
+        { "nisCode": 63076, "name": "Theux" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.52
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Spa",
+      "shortName": "Spa",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/spa"
+    },
+    "63073": {
+      "towns": [
+        { "nisCode": 63073, "name": "Stavelot" },
+        { "nisCode": 63075, "name": "Stoumont" },
+        { "nisCode": 63086, "name": "Trois-Ponts" },
+        { "nisCode": 63045, "name": "Lierneux" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.59
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Stavelot",
+      "shortName": "Stavelot",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/stavelot"
+    },
+    "83040": {
+      "towns": [{ "nisCode": 83040, "name": "Nassogne" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.42
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Nassogne",
+      "shortName": "Nassogne",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/nassogne"
+    },
+    "62051": {
+      "towns": [{ "nisCode": 62051, "name": "Herstal" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.43
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Herstal",
+      "shortName": "Herstal",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/herstal"
+    },
+    "61028": {
+      "towns": [
+        { "nisCode": 61028, "name": "Héron" },
+        { "nisCode": 61010, "name": "Burdinne" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.51
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Héron",
+      "shortName": "Héron",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/heron"
+    },
+    "80999": {
+      "towns": [],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.58
+        }
+      ],
+      "previous": [],
+      "name": "Speciaal Kanton: Buza Luxemburg",
+      "shortName": "Speciaal Kanton: Buza Luxemburg",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/speciaal_kanton_buza_luxemburg"
+    },
+    "63079": {
+      "towns": [
+        { "nisCode": 63079, "name": "Verviers" },
+        { "nisCode": 63057, "name": "Olne" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.38
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Verviers",
+      "shortName": "Verviers",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/verviers"
+    },
+    "80998": {
+      "towns": [{ "nisCode": 80998, "name": "Arlon (E5)" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 3.39
+        }
+      ],
+      "previous": [],
+      "name": "Kanton E5-Kieskring Luxemburg",
+      "shortName": "E5-Kieskring Luxemburg",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/e5kieskring_luxemburg"
+    },
+    "61031": {
+      "towns": [
+        { "nisCode": 61003, "name": "Amay" },
+        { "nisCode": 61031, "name": "Hoei" },
+        { "nisCode": 61039, "name": "Marchin" },
+        { "nisCode": 61072, "name": "Wanze" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.66
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Hoei",
+      "shortName": "Hoei",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/hoei"
+    },
+    "81001": {
+      "towns": [
+        { "nisCode": 81001, "name": "Aarlen" },
+        { "nisCode": 81003, "name": "Attert" },
+        { "nisCode": 81013, "name": "Martelange" }
+      ],
+      "current": [
+        { "language": "FRENCH", "name": "N-VA", "color": "yellow1", "pct": 2.7 }
+      ],
+      "previous": [],
+      "name": "Kanton Aarlen",
+      "shortName": "Aarlen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/aarlen"
+    },
+    "84075": {
+      "towns": [
+        { "nisCode": 84016, "name": "Daverdisse" },
+        { "nisCode": 84068, "name": "Tellin" },
+        { "nisCode": 84075, "name": "Wellin" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.28
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Wellin",
+      "shortName": "Wellin",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/wellin"
+    },
+    "21101": {
+      "towns": [
+        {
+          "nisCode": 21098,
+          "name": "Stemming Uitgebracht in de Gemeente Drogenbos"
+        },
+        {
+          "nisCode": 21100,
+          "name": "Stemming Uitgebracht in de Gemeente Linkebeek"
+        },
+        {
+          "nisCode": 21102,
+          "name": "Stemming Uitgebracht in de Gemeente Wemmel"
+        },
+        {
+          "nisCode": 21099,
+          "name": "Stemming Uitgebracht in de Gemeente Kraainem"
+        },
+        {
+          "nisCode": 21101,
+          "name": "Stemming Uitgebracht in de Gemeente Sint-Genesius-Rode"
+        },
+        {
+          "nisCode": 21103,
+          "name": "Stemming Uitgebracht in de Gemeente Wezembeek-Oppem"
+        }
+      ],
+      "current": [
+        {
+          "language": "MULTIPLE",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.07
+        }
+      ],
+      "previous": [
+        {
+          "language": "MULTIPLE",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.82
+        }
+      ],
+      "name": "Stemmen Uitgebracht In het Kanton Sint-Genesius-Rode",
+      "shortName": "Stemmen Uitgebracht In het Kanton Sint-Genesius-Rode",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/stemmen_uitgebracht_in_het_kanton_sintgenesiusrode"
+    },
+    "62063": {
+      "towns": [{ "nisCode": 62063, "name": "Luik" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.31
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Luik",
+      "shortName": "Luik",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/luik"
+    },
+    "82032": {
+      "towns": [
+        { "nisCode": 82032, "name": "Vielsalm" },
+        { "nisCode": 82037, "name": "Gouvy" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.75
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Vielsalm",
+      "shortName": "Vielsalm",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/vielsalm"
+    },
+    "61043": {
+      "towns": [
+        { "nisCode": 61012, "name": "Clavier" },
+        { "nisCode": 61041, "name": "Modave" },
+        { "nisCode": 61043, "name": "Nandrin" },
+        { "nisCode": 61048, "name": "Ouffet" },
+        { "nisCode": 61079, "name": "Anthisnes" },
+        { "nisCode": 61080, "name": "Engis" },
+        { "nisCode": 61081, "name": "Tinlot" },
+        { "nisCode": 61024, "name": "Hamoir" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.69
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Nandrin",
+      "shortName": "Nandrin",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/nandrin"
+    },
+    "81015": {
+      "towns": [
+        { "nisCode": 81004, "name": "Aubange" },
+        { "nisCode": 81015, "name": "Messancy" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.97
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Messancy",
+      "shortName": "Messancy",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/messancy"
+    },
+    "82038": {
+      "towns": [
+        { "nisCode": 82036, "name": "Vaux-sur-Sûre" },
+        { "nisCode": 82038, "name": "Sainte-Ode" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.71
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Sainte-Ode",
+      "shortName": "Sainte-Ode",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/sainteode"
+    },
+    "41081": {
+      "towns": [{ "nisCode": 41081, "name": "Zottegem" }],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 23.13
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 21.71
+        }
+      ],
+      "name": "Kanton Zottegem",
+      "shortName": "Zottegem",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/zottegem"
+    },
+    "38016": {
+      "towns": [{ "nisCode": 38016, "name": "Nieuwpoort" }],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 29.28
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 29.73
+        }
+      ],
+      "name": "Kanton Nieuwpoort",
+      "shortName": "Nieuwpoort",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/nieuwpoort"
+    },
+    "61063": {
+      "towns": [
+        { "nisCode": 61068, "name": "Villers-le-Bouillet" },
+        { "nisCode": 61063, "name": "Verlaine" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.47
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Verlaine",
+      "shortName": "Verlaine",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/verlaine"
+    },
+    "38025": {
+      "towns": [
+        { "nisCode": 38008, "name": "De Panne" },
+        { "nisCode": 38014, "name": "Koksijde" },
+        { "nisCode": 38025, "name": "Veurne" },
+        { "nisCode": 38002, "name": "Alveringem" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 30.16
+        }
+      ],
+      "previous": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 32.0 }
+      ],
+      "name": "Kanton Veurne",
+      "shortName": "Veurne",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/veurne"
+    },
+    "62093": {
+      "towns": [
+        { "nisCode": 62003, "name": "Ans" },
+        { "nisCode": 62093, "name": "Saint-Nicolas (Liège)" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.61
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Saint-Nicolas",
+      "shortName": "Saint-Nicolas",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/saintnicolas"
+    },
+    "37007": {
+      "towns": [
+        { "nisCode": 37002, "name": "Dentergem" },
+        { "nisCode": 37007, "name": "Meulebeke" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 24.28
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 26.99
+        }
+      ],
+      "name": "Kanton Meulebeke",
+      "shortName": "Meulebeke",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/meulebeke"
+    },
+    "62096": {
+      "towns": [
+        { "nisCode": 62096, "name": "Seraing" },
+        { "nisCode": 62121, "name": "Neupré" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.59
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Seraing",
+      "shortName": "Seraing",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/seraing"
+    },
+    "58001": {
+      "towns": [{ "nisCode": 58001, "name": "La Louvière" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.99
+        }
+      ],
+      "previous": [],
+      "name": "Kanton La Louvière",
+      "shortName": "La Louvière",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/la_louviere"
+    },
+    "37010": {
+      "towns": [
+        { "nisCode": 37010, "name": "Oostrozebeke" },
+        { "nisCode": 37017, "name": "Wielsbeke" }
+      ],
+      "current": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 25.5 }
+      ],
+      "previous": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 22.8 }
+      ],
+      "name": "Kanton Oostrozebeke",
+      "shortName": "Oostrozebeke",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/oostrozebeke"
+    },
+    "58002": {
+      "towns": [
+        { "nisCode": 58004, "name": "Morlanwelz" },
+        { "nisCode": 58002, "name": "Binche" },
+        { "nisCode": 58003, "name": "Estinnes" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.69
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Binche",
+      "shortName": "Binche",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/binche"
+    },
+    "37012": {
+      "towns": [
+        { "nisCode": 37012, "name": "Ruiselede" },
+        { "nisCode": 37018, "name": "Wingene" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 22.61
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 20.72
+        }
+      ],
+      "name": "Kanton Ruiselede",
+      "shortName": "Ruiselede",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/ruiselede"
+    },
+    "37015": {
+      "towns": [
+        { "nisCode": 37011, "name": "Pittem" },
+        { "nisCode": 37015, "name": "Tielt" },
+        { "nisCode": 37020, "name": "Ardooie" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 20.29
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 19.33
+        }
+      ],
+      "name": "Kanton Tielt",
+      "shortName": "Tielt",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/tielt"
+    },
+    "62108": {
+      "towns": [
+        { "nisCode": 62027, "name": "Dalhem" },
+        { "nisCode": 62108, "name": "Wezet" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.49
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Wezet",
+      "shortName": "Wezet",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/wezet"
+    },
+    "36006": {
+      "towns": [
+        { "nisCode": 36006, "name": "Hooglede" },
+        { "nisCode": 36011, "name": "Lichtervelde" },
+        { "nisCode": 36019, "name": "Staden" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 20.94
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 18.64
+        }
+      ],
+      "name": "Kanton Hooglede",
+      "shortName": "Hooglede",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/hooglede"
+    },
+    "62118": {
+      "towns": [
+        { "nisCode": 62006, "name": "Awans" },
+        { "nisCode": 62118, "name": "Grâce-Hollogne" },
+        { "nisCode": 62120, "name": "Flémalle" }
+      ],
+      "current": [
+        { "language": "FRENCH", "name": "N-VA", "color": "yellow1", "pct": 1.9 }
+      ],
+      "previous": [],
+      "name": "Kanton Grâce-Hollogne",
+      "shortName": "Grâce-Hollogne",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/gracehollogne"
+    },
+    "36008": {
+      "towns": [
+        { "nisCode": 36007, "name": "Ingelmunster" },
+        { "nisCode": 36008, "name": "Izegem" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 23.85
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 23.47
+        }
+      ],
+      "name": "Kanton Izegem",
+      "shortName": "Izegem",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/izegem"
+    },
+    "57003": {
+      "towns": [
+        { "nisCode": 57003, "name": "Antoing" },
+        { "nisCode": 57072, "name": "Rumes" },
+        { "nisCode": 57093, "name": "Brunehaut" }
+      ],
+      "current": [
+        { "language": "FRENCH", "name": "N-VA", "color": "yellow1", "pct": 1.8 }
+      ],
+      "previous": [],
+      "name": "Kanton Antoing",
+      "shortName": "Antoing",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/antoing"
+    },
+    "36015": {
+      "towns": [
+        { "nisCode": 36012, "name": "Moorslede" },
+        { "nisCode": 36015, "name": "Roeselare" },
+        { "nisCode": 36010, "name": "Ledegem" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 22.86
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 21.54
+        }
+      ],
+      "name": "Kanton Roeselare",
+      "shortName": "Roeselare",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/roeselare"
+    },
+    "57018": {
+      "towns": [
+        { "nisCode": 57018, "name": "Celles (lez-Tournai)" },
+        { "nisCode": 57095, "name": "Mont-de-l'Enclus" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 4.13
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Celles",
+      "shortName": "Celles",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/celles"
+    },
+    "35005": {
+      "towns": [
+        { "nisCode": 35005, "name": "Gistel" },
+        { "nisCode": 35006, "name": "Ichtegem" },
+        { "nisCode": 35014, "name": "Oudenburg" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 20.48
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 15.99
+        }
+      ],
+      "name": "Kanton Gistel",
+      "shortName": "Gistel",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/gistel"
+    },
+    "56001": {
+      "towns": [{ "nisCode": 56001, "name": "Anderlues" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.25
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Anderlues",
+      "shortName": "Anderlues",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/anderlues"
+    },
+    "57027": {
+      "towns": [
+        { "nisCode": 57027, "name": "Estaimpuis" },
+        { "nisCode": 57062, "name": "Pecq" }
+      ],
+      "current": [
+        { "language": "FRENCH", "name": "N-VA", "color": "yellow1", "pct": 2.2 }
+      ],
+      "previous": [],
+      "name": "Kanton Estaimpuis",
+      "shortName": "Estaimpuis",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/estaimpuis"
+    },
+    "35013": {
+      "towns": [
+        { "nisCode": 35002, "name": "Bredene" },
+        { "nisCode": 35013, "name": "Oostende" },
+        { "nisCode": 35029, "name": "De Haan" },
+        { "nisCode": 35011, "name": "Middelkerke" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 24.49
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 23.79
+        }
+      ],
+      "name": "Kanton Oostende",
+      "shortName": "Oostende",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/oostende"
+    },
+    "56005": {
+      "towns": [
+        { "nisCode": 56005, "name": "Beaumont" },
+        { "nisCode": 56029, "name": "Froidchapelle" },
+        { "nisCode": 56088, "name": "Sivry-Rance" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.72
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Beaumont",
+      "shortName": "Beaumont",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/beaumont"
+    },
+    "13001": {
+      "towns": [
+        { "nisCode": 13001, "name": "Arendonk" },
+        { "nisCode": 13006, "name": "Dessel" },
+        { "nisCode": 13035, "name": "Ravels" },
+        { "nisCode": 13036, "name": "Retie" }
+      ],
+      "current": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 29.1 }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 32.18
+        }
+      ],
+      "name": "Kanton Arendonk",
+      "shortName": "Arendonk",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/arendonk"
+    },
+    "56016": {
+      "towns": [
+        { "nisCode": 56016, "name": "Chimay" },
+        { "nisCode": 56051, "name": "Momignies" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.37
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Chimay",
+      "shortName": "Chimay",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/chimay"
+    },
+    "34003": {
+      "towns": [
+        { "nisCode": 34003, "name": "Avelgem" },
+        { "nisCode": 34043, "name": "Spiere-Helkijn" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 18.81
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 14.03
+        }
+      ],
+      "name": "Kanton Avelgem",
+      "shortName": "Avelgem",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/avelgem"
+    },
+    "13011": {
+      "towns": [
+        { "nisCode": 13010, "name": "Grobbendonk" },
+        { "nisCode": 13011, "name": "Herentals" },
+        { "nisCode": 13012, "name": "Herenthout" },
+        { "nisCode": 13017, "name": "Kasterlee" },
+        { "nisCode": 13019, "name": "Lille" },
+        { "nisCode": 13029, "name": "Olen" },
+        { "nisCode": 13044, "name": "Vorselaar" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 30.23
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 28.97
+        }
+      ],
+      "name": "Kanton Herentals",
+      "shortName": "Herentals",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/herentals"
+    },
+    "13014": {
+      "towns": [
+        { "nisCode": 13037, "name": "Rijkevorsel" },
+        { "nisCode": 13002, "name": "Baarle-Hertog" },
+        { "nisCode": 13014, "name": "Hoogstraten" },
+        { "nisCode": 13023, "name": "Merksplas" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 30.44
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 30.89
+        }
+      ],
+      "name": "Kanton Hoogstraten",
+      "shortName": "Hoogstraten",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/hoogstraten"
+    },
+    "13025": {
+      "towns": [
+        { "nisCode": 13003, "name": "Balen" },
+        { "nisCode": 13021, "name": "Meerhout" },
+        { "nisCode": 13025, "name": "Mol" },
+        { "nisCode": 13008, "name": "Geel" }
+      ],
+      "current": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 28.9 }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 28.62
+        }
+      ],
+      "name": "Kanton Mol",
+      "shortName": "Mol",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/mol"
+    },
+    "34022": {
+      "towns": [
+        { "nisCode": 34022, "name": "Kortrijk" },
+        { "nisCode": 34023, "name": "Kuurne" },
+        { "nisCode": 34025, "name": "Lendelede" },
+        { "nisCode": 34042, "name": "Zwevegem" },
+        { "nisCode": 34002, "name": "Anzegem" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 24.39
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 20.57
+        }
+      ],
+      "name": "Kanton Kortrijk",
+      "shortName": "Kortrijk",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/kortrijk"
+    },
+    "57064": {
+      "towns": [{ "nisCode": 57064, "name": "Péruwelz" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.88
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Péruwelz",
+      "shortName": "Péruwelz",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/peruwelz"
+    },
+    "12009": {
+      "towns": [
+        { "nisCode": 12005, "name": "Bonheiden" },
+        { "nisCode": 12009, "name": "Duffel" },
+        { "nisCode": 12035, "name": "Sint-Katelijne-Waver" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 33.46
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 32.84
+        }
+      ],
+      "name": "Kanton Duffel",
+      "shortName": "Duffel",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/duffel"
+    },
+    "34027": {
+      "towns": [
+        { "nisCode": 34027, "name": "Menen" },
+        { "nisCode": 34041, "name": "Wevelgem" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 20.73
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 16.93
+        }
+      ],
+      "name": "Kanton Menen",
+      "shortName": "Menen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/menen"
+    },
+    "12014": {
+      "towns": [
+        { "nisCode": 12026, "name": "Nijlen" },
+        { "nisCode": 12029, "name": "Putte" },
+        { "nisCode": 12014, "name": "Heist-op-den-Berg" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 31.18
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 29.06
+        }
+      ],
+      "name": "Kanton Heist-op-den-Berg",
+      "shortName": "Heist-op-den-Berg",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/heistopdenberg"
+    },
+    "13040": {
+      "towns": [
+        { "nisCode": 13004, "name": "Beerse" },
+        { "nisCode": 13031, "name": "Oud-Turnhout" },
+        { "nisCode": 13040, "name": "Turnhout" },
+        { "nisCode": 13046, "name": "Vosselaar" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 28.29
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 28.12
+        }
+      ],
+      "name": "Kanton Turnhout",
+      "shortName": "Turnhout",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/turnhout"
+    },
+    "56049": {
+      "towns": [
+        { "nisCode": 56022, "name": "Erquelinnes" },
+        { "nisCode": 56049, "name": "Merbes-le-Château" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.09
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Merbes-le-Château",
+      "shortName": "Merbes-le-Château",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/merbeslechateau"
+    },
+    "33011": {
+      "towns": [
+        { "nisCode": 33011, "name": "Ieper" },
+        { "nisCode": 33037, "name": "Zonnebeke" },
+        { "nisCode": 33040, "name": "Langemark-Poelkapelle" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 19.66
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 18.25
+        }
+      ],
+      "name": "Kanton Ieper",
+      "shortName": "Ieper",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/ieper"
+    },
+    "12021": {
+      "towns": [
+        { "nisCode": 12002, "name": "Berlaar" },
+        { "nisCode": 12021, "name": "Lier" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 32.24
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 29.58
+        }
+      ],
+      "name": "Kanton Lier",
+      "shortName": "Lier",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/lier"
+    },
+    "10998": {
+      "towns": [{ "nisCode": 10998, "name": "Antwerpen (E5)" }],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 24.53
+        }
+      ],
+      "previous": [],
+      "name": "Kanton E5-Kieskring Antwerpen",
+      "shortName": "E5-Kieskring Antwerpen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/e5kieskring_antwerpen"
+    },
+    "10999": {
+      "towns": [],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 32.25
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 25.77
+        }
+      ],
+      "name": "Speciaal Kanton: Buza Antwerpen",
+      "shortName": "Speciaal Kanton: Buza Antwerpen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/speciaal_kanton_buza_antwerpen"
+    },
+    "34040": {
+      "towns": [
+        { "nisCode": 34013, "name": "Harelbeke" },
+        { "nisCode": 34040, "name": "Waregem" },
+        { "nisCode": 34009, "name": "Deerlijk" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 24.27
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 21.02
+        }
+      ],
+      "name": "Kanton Waregem",
+      "shortName": "Waregem",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/waregem"
+    },
+    "12025": {
+      "towns": [
+        { "nisCode": 12025, "name": "Mechelen" },
+        { "nisCode": 12040, "name": "Willebroek" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 24.13
+        }
+      ],
+      "previous": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 24.2 }
+      ],
+      "name": "Kanton Mechelen",
+      "shortName": "Mechelen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/mechelen"
+    },
+    "57081": {
+      "towns": [{ "nisCode": 57081, "name": "Doornik" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.61
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Doornik",
+      "shortName": "Doornik",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/doornik"
+    },
+    "13049": {
+      "towns": [
+        { "nisCode": 13013, "name": "Herselt" },
+        { "nisCode": 13016, "name": "Hulshout" },
+        { "nisCode": 13049, "name": "Westerlo" },
+        { "nisCode": 13053, "name": "Laakdal" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 28.15
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 27.95
+        }
+      ],
+      "name": "Kanton Westerlo",
+      "shortName": "Westerlo",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/westerlo"
+    },
+    "11002": {
+      "towns": [
+        { "nisCode": 11056, "name": "Zwijndrecht" },
+        { "nisCode": 11002, "name": "Antwerpen" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 27.99
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 28.48
+        }
+      ],
+      "name": "Kanton Antwerpen",
+      "shortName": "Antwerpen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/antwerpen"
+    },
+    "55035": {
+      "towns": [{ "nisCode": 55035, "name": "Le Roeulx" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.65
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Le Roeulx",
+      "shortName": "Le Roeulx",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/le_roeulx"
+    },
+    "11005": {
+      "towns": [
+        { "nisCode": 11005, "name": "Boom" },
+        { "nisCode": 11018, "name": "Hemiksem" },
+        { "nisCode": 11030, "name": "Niel" },
+        { "nisCode": 11037, "name": "Rumst" },
+        { "nisCode": 11038, "name": "Schelle" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 28.77
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 30.04
+        }
+      ],
+      "name": "Kanton Boom",
+      "shortName": "Boom",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/boom"
+    },
+    "33021": {
+      "towns": [{ "nisCode": 33021, "name": "Poperinge" }],
+      "current": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 17.1 }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 16.02
+        }
+      ],
+      "name": "Kanton Poperinge",
+      "shortName": "Poperinge",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/poperinge"
+    },
+    "55040": {
+      "towns": [
+        { "nisCode": 55050, "name": "Ecaussinnes" },
+        { "nisCode": 55004, "name": "s Gravenbrakel" },
+        { "nisCode": 55040, "name": "Zinnik" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.72
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Zinnik",
+      "shortName": "Zinnik",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/zinnik"
+    },
+    "11009": {
+      "towns": [
+        { "nisCode": 11009, "name": "Brecht" },
+        { "nisCode": 11016, "name": "Essen" },
+        { "nisCode": 11022, "name": "Kalmthout" },
+        { "nisCode": 11053, "name": "Wuustwezel" },
+        { "nisCode": 11057, "name": "Malle" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 34.02
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 35.81
+        }
+      ],
+      "name": "Kanton Brecht",
+      "shortName": "Brecht",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/brecht"
+    },
+    "32003": {
+      "towns": [
+        { "nisCode": 32003, "name": "Diksmuide" },
+        { "nisCode": 32010, "name": "Koekelare" },
+        { "nisCode": 32011, "name": "Kortemark" },
+        { "nisCode": 32030, "name": "Lo-Reninge" },
+        { "nisCode": 32006, "name": "Houthulst" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 19.17
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 18.85
+        }
+      ],
+      "name": "Kanton Diksmuide",
+      "shortName": "Diksmuide",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/diksmuide"
+    },
+    "33029": {
+      "towns": [{ "nisCode": 33029, "name": "Wervik" }],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 18.21
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 14.92
+        }
+      ],
+      "name": "Kanton Wervik",
+      "shortName": "Wervik",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/wervik"
+    },
+    "57094": {
+      "towns": [{ "nisCode": 57094, "name": "Leuze-en-Hainaut" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.63
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Leuze-en-Hainaut",
+      "shortName": "Leuze-en-Hainaut",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/leuzeenhainaut"
+    },
+    "57096": {
+      "towns": [{ "nisCode": 57096, "name": "Moeskroen" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.61
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Moeskroen",
+      "shortName": "Moeskroen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/moeskroen"
+    },
+    "12041": {
+      "towns": [
+        { "nisCode": 12007, "name": "Bornem" },
+        { "nisCode": 12041, "name": "Puurs-Sint-Amands" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 28.49
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 27.55
+        }
+      ],
+      "name": "Kanton Puurs-Sint-Amands",
+      "shortName": "Puurs-Sint-Amands",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/puurssintamands"
+    },
+    "57097": {
+      "towns": [{ "nisCode": 57097, "name": "Komen-Waasten" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.76
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Komen-Waasten",
+      "shortName": "Komen-Waasten",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/komenwaasten"
+    },
+    "56078": {
+      "towns": [
+        { "nisCode": 56086, "name": "Ham-sur-Heure-Nalinnes" },
+        { "nisCode": 56044, "name": "Lobbes" },
+        { "nisCode": 56078, "name": "Thuin" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.45
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Thuin",
+      "shortName": "Thuin",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/thuin"
+    },
+    "11023": {
+      "towns": [
+        { "nisCode": 11008, "name": "Brasschaat" },
+        { "nisCode": 11023, "name": "Kapellen" },
+        { "nisCode": 11040, "name": "Schoten" },
+        { "nisCode": 11044, "name": "Stabroek" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 37.91
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 39.25
+        }
+      ],
+      "name": "Kanton Kapellen",
+      "shortName": "Kapellen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/kapellen"
+    },
+    "33039": {
+      "towns": [
+        { "nisCode": 33016, "name": "Mesen" },
+        { "nisCode": 33039, "name": "Heuvelland" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 16.44
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 16.85
+        }
+      ],
+      "name": "Kanton Heuvelland",
+      "shortName": "Heuvelland",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/heuvelland"
+    },
+    "11024": {
+      "towns": [
+        { "nisCode": 11001, "name": "Aartselaar" },
+        { "nisCode": 11004, "name": "Boechout" },
+        { "nisCode": 11007, "name": "Borsbeek" },
+        { "nisCode": 11013, "name": "Edegem" },
+        { "nisCode": 11021, "name": "Hove" },
+        { "nisCode": 11024, "name": "Kontich" },
+        { "nisCode": 11029, "name": "Mortsel" },
+        { "nisCode": 11025, "name": "Lint" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 38.05
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 38.81
+        }
+      ],
+      "name": "Kanton Kontich",
+      "shortName": "Kontich",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/kontich"
+    },
+    "33041": {
+      "towns": [{ "nisCode": 33041, "name": "Vleteren" }],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 14.81
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 19.42
+        }
+      ],
+      "name": "Kanton Vleteren",
+      "shortName": "Vleteren",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/vleteren"
+    },
+    "30998": {
+      "towns": [{ "nisCode": 30998, "name": "Brugge (E5)" }],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 17.23
+        }
+      ],
+      "previous": [],
+      "name": "Kanton E5-Kieskring West-Vlaanderen",
+      "shortName": "E5-Kieskring West-Vlaanderen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/e5kieskring_westvlaanderen"
+    },
+    "53014": {
+      "towns": [
+        { "nisCode": 53014, "name": "Boussu" },
+        { "nisCode": 53039, "name": "Hensies" },
+        { "nisCode": 53065, "name": "Quaregnon" },
+        { "nisCode": 53070, "name": "Saint-Ghislain" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.62
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Boussu",
+      "shortName": "Boussu",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/boussu"
+    },
+    "30999": {
+      "towns": [],
+      "current": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 20.7 }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 21.29
+        }
+      ],
+      "name": "Speciaal Kanton: Buza West-Vlaanderen",
+      "shortName": "Speciaal Kanton: Buza West-Vlaanderen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/speciaal_kanton_buza_westvlaanderen"
+    },
+    "53020": {
+      "towns": [
+        { "nisCode": 53020, "name": "Dour" },
+        { "nisCode": 53068, "name": "Quiévrain" },
+        { "nisCode": 53082, "name": "Colfontaine" },
+        { "nisCode": 53083, "name": "Honnelles" }
+      ],
+      "current": [
+        { "language": "FRENCH", "name": "N-VA", "color": "yellow1", "pct": 1.7 }
+      ],
+      "previous": [],
+      "name": "Kanton Dour",
+      "shortName": "Dour",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/dour"
+    },
+    "31005": {
+      "towns": [
+        { "nisCode": 31003, "name": "Beernem" },
+        { "nisCode": 31004, "name": "Blankenberge" },
+        { "nisCode": 31006, "name": "Damme" },
+        { "nisCode": 31012, "name": "Jabbeke" },
+        { "nisCode": 31022, "name": "Oostkamp" },
+        { "nisCode": 31040, "name": "Zedelgem" },
+        { "nisCode": 31042, "name": "Zuienkerke" },
+        { "nisCode": 31043, "name": "Knokke-Heist" },
+        { "nisCode": 31005, "name": "Brugge" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 24.85
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 22.76
+        }
+      ],
+      "name": "Kanton Brugge",
+      "shortName": "Brugge",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/brugge"
+    },
+    "53028": {
+      "towns": [
+        { "nisCode": 53084, "name": "Quévy" },
+        { "nisCode": 53028, "name": "Frameries" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.61
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Frameries",
+      "shortName": "Frameries",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/frameries"
+    },
+    "52011": {
+      "towns": [{ "nisCode": 52011, "name": "Charleroi" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.95
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Charleroi",
+      "shortName": "Charleroi",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/charleroi"
+    },
+    "52012": {
+      "towns": [
+        { "nisCode": 52012, "name": "Châtelet" },
+        { "nisCode": 52018, "name": "Farciennes" },
+        { "nisCode": 52021, "name": "Fleurus" },
+        { "nisCode": 52025, "name": "Gerpinnes" },
+        { "nisCode": 52074, "name": "Aiseau-Presles" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.86
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Châtelet",
+      "shortName": "Châtelet",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/chatelet"
+    },
+    "55085": {
+      "towns": [
+        { "nisCode": 55085, "name": "Seneffe" },
+        { "nisCode": 55086, "name": "Manage" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.89
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Seneffe",
+      "shortName": "Seneffe",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/seneffe"
+    },
+    "11054": {
+      "towns": [
+        { "nisCode": 11035, "name": "Ranst" },
+        { "nisCode": 11039, "name": "Schilde" },
+        { "nisCode": 11050, "name": "Wijnegem" },
+        { "nisCode": 11052, "name": "Wommelgem" },
+        { "nisCode": 11055, "name": "Zoersel" },
+        { "nisCode": 11054, "name": "Zandhoven" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 40.55
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 41.64
+        }
+      ],
+      "name": "Kanton Zandhoven",
+      "shortName": "Zandhoven",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/zandhoven"
+    },
+    "73006": {
+      "towns": [
+        { "nisCode": 73032, "name": "Hoeselt" },
+        { "nisCode": 73006, "name": "Bilzen" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 26.28
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 23.57
+        }
+      ],
+      "name": "Kanton Bilzen",
+      "shortName": "Bilzen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/bilzen"
+    },
+    "73009": {
+      "towns": [
+        { "nisCode": 73001, "name": "Alken" },
+        { "nisCode": 73009, "name": "Borgloon" },
+        { "nisCode": 73022, "name": "Heers" },
+        { "nisCode": 73040, "name": "Kortessem" },
+        { "nisCode": 73098, "name": "Wellen" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 24.15
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 21.56
+        }
+      ],
+      "name": "Kanton Borgloon",
+      "shortName": "Borgloon",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/borgloon"
+    },
+    "50998": {
+      "towns": [{ "nisCode": 50998, "name": "Bergen (E5)" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.86
+        }
+      ],
+      "previous": [],
+      "name": "Kanton E5-Kieskring Henegouwen",
+      "shortName": "E5-Kieskring Henegouwen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/e5kieskring_henegouwen"
+    },
+    "52022": {
+      "towns": [
+        { "nisCode": 52010, "name": "Chapelle-lez-Herlaimont" },
+        { "nisCode": 52015, "name": "Courcelles" },
+        { "nisCode": 52022, "name": "Fontaine-l'Evêque" },
+        { "nisCode": 52048, "name": "Montigny-le-Tilleul" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.73
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Fontaine-l'Evêque",
+      "shortName": "Fontaine-l'Evêque",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/fontaineleveque"
+    },
+    "53046": {
+      "towns": [
+        { "nisCode": 53044, "name": "Jurbeke" },
+        { "nisCode": 53046, "name": "Lens" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.43
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Lens",
+      "shortName": "Lens",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/lens"
+    },
+    "50999": {
+      "towns": [],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.42
+        }
+      ],
+      "previous": [],
+      "name": "Speciaal Kanton: Buza Henegouwen",
+      "shortName": "Speciaal Kanton: Buza Henegouwen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/speciaal_kanton_buza_henegouwen"
+    },
+    "31033": {
+      "towns": [{ "nisCode": 31033, "name": "Torhout" }],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 21.07
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 18.91
+        }
+      ],
+      "name": "Kanton Torhout",
+      "shortName": "Torhout",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/torhout"
+    },
+    "51004": {
+      "towns": [{ "nisCode": 51004, "name": "Aat" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.52
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Aat",
+      "shortName": "Aat",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/aat"
+    },
+    "53053": {
+      "towns": [{ "nisCode": 53053, "name": "Bergen" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.39
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Bergen",
+      "shortName": "Bergen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/bergen"
+    },
+    "51008": {
+      "towns": [
+        { "nisCode": 51008, "name": "Beloeil" },
+        { "nisCode": 51009, "name": "Bernissart" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.96
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Beloeil",
+      "shortName": "Beloeil",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/beloeil"
+    },
+    "72004": {
+      "towns": [
+        { "nisCode": 72003, "name": "Bocholt" },
+        { "nisCode": 72004, "name": "Bree" },
+        { "nisCode": 72042, "name": "Oudsbergen" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 26.63
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 24.36
+        }
+      ],
+      "name": "Kanton Bree",
+      "shortName": "Bree",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/bree"
+    },
+    "51014": {
+      "towns": [
+        { "nisCode": 51012, "name": "Brugelette" },
+        { "nisCode": 51014, "name": "Chièvres" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.88
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Chièvres",
+      "shortName": "Chièvres",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/chievres"
+    },
+    "51019": {
+      "towns": [
+        { "nisCode": 51017, "name": "Elzele" },
+        { "nisCode": 51019, "name": "Vloesberg" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 4.77
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Vloesberg",
+      "shortName": "Vloesberg",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/vloesberg"
+    },
+    "72021": {
+      "towns": [
+        { "nisCode": 72021, "name": "Maaseik" },
+        { "nisCode": 72041, "name": "Dilsen-Stokkem" },
+        { "nisCode": 72018, "name": "Kinrooi" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 20.27
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 20.08
+        }
+      ],
+      "name": "Kanton Maaseik",
+      "shortName": "Maaseik",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/maaseik"
+    },
+    "70999": {
+      "towns": [],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 19.88
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 17.46
+        }
+      ],
+      "name": "Speciaal Kanton: Buza Limburg",
+      "shortName": "Speciaal Kanton: Buza Limburg",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/speciaal_kanton_buza_limburg"
+    },
+    "52055": {
+      "towns": [
+        { "nisCode": 52075, "name": "Les Bons Villers" },
+        { "nisCode": 52055, "name": "Pont-à-Celles" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.81
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Pont-à-Celles",
+      "shortName": "Pont-à-Celles",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/pontacelles"
+    },
+    "70998": {
+      "towns": [{ "nisCode": 70998, "name": "Hasselt (E5)" }],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 16.55
+        }
+      ],
+      "previous": [],
+      "name": "Kanton E5-Kieskring Limburg",
+      "shortName": "E5-Kieskring Limburg",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/e5kieskring_limburg"
+    },
+    "93014": {
+      "towns": [
+        { "nisCode": 93014, "name": "Couvin" },
+        { "nisCode": 93090, "name": "Viroinval" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.16
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Couvin",
+      "shortName": "Couvin",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/couvin"
+    },
+    "71004": {
+      "towns": [
+        { "nisCode": 71034, "name": "Leopoldsburg" },
+        { "nisCode": 71057, "name": "Tessenderlo" },
+        { "nisCode": 71069, "name": "Ham" },
+        { "nisCode": 71070, "name": "Heusden-Zolder" },
+        { "nisCode": 71004, "name": "Beringen" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 23.41
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 23.05
+        }
+      ],
+      "name": "Kanton Beringen",
+      "shortName": "Beringen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/beringen"
+    },
+    "72030": {
+      "towns": [
+        { "nisCode": 72030, "name": "Peer" },
+        { "nisCode": 72038, "name": "Hechtel-Eksel" },
+        { "nisCode": 72039, "name": "Houthalen-Helchteren" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 21.59
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 20.16
+        }
+      ],
+      "name": "Kanton Peer",
+      "shortName": "Peer",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/peer"
+    },
+    "93022": {
+      "towns": [{ "nisCode": 93022, "name": "Florennes" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.94
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Florennes",
+      "shortName": "Florennes",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/florennes"
+    },
+    "92003": {
+      "towns": [
+        { "nisCode": 92003, "name": "Andenne" },
+        { "nisCode": 92054, "name": "Gesves" },
+        { "nisCode": 92097, "name": "Ohey" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.78
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Andenne",
+      "shortName": "Andenne",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/andenne"
+    },
+    "71016": {
+      "towns": [
+        { "nisCode": 71002, "name": "As" },
+        { "nisCode": 71016, "name": "Genk" },
+        { "nisCode": 71067, "name": "Zutendaal" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 23.64
+        }
+      ],
+      "previous": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 23.8 }
+      ],
+      "name": "Kanton Genk",
+      "shortName": "Genk",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/genk"
+    },
+    "72043": {
+      "towns": [
+        { "nisCode": 72020, "name": "Lommel" },
+        { "nisCode": 72037, "name": "Hamont-Achel" },
+        { "nisCode": 72043, "name": "Pelt" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 24.07
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 23.24
+        }
+      ],
+      "name": "Kanton Pelt",
+      "shortName": "Pelt",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/pelt"
+    },
+    "73066": {
+      "towns": [{ "nisCode": 73066, "name": "Riemst" }],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 20.84
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 21.43
+        }
+      ],
+      "name": "Kanton Riemst",
+      "shortName": "Riemst",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/riemst"
+    },
+    "71022": {
+      "towns": [
+        { "nisCode": 71011, "name": "Diepenbeek" },
+        { "nisCode": 71022, "name": "Hasselt" },
+        { "nisCode": 71066, "name": "Zonhoven" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 27.26
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 26.08
+        }
+      ],
+      "name": "Kanton Hasselt",
+      "shortName": "Hasselt",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/hasselt"
+    },
+    "71024": {
+      "towns": [
+        { "nisCode": 71020, "name": "Halen" },
+        { "nisCode": 71024, "name": "Herk-de-Stad" },
+        { "nisCode": 71037, "name": "Lummen" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 26.18
+        }
+      ],
+      "previous": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 23.5 }
+      ],
+      "name": "Kanton Herk-de-Stad",
+      "shortName": "Herk-de-Stad",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/herkdestad"
+    },
+    "90999": {
+      "towns": [],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 3.06
+        }
+      ],
+      "previous": [],
+      "name": "Speciaal Kanton: Buza Namen",
+      "shortName": "Speciaal Kanton: Buza Namen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/speciaal_kanton_buza_namen"
+    },
+    "90998": {
+      "towns": [{ "nisCode": 90998, "name": "Namen (E5)" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 3.07
+        }
+      ],
+      "previous": [],
+      "name": "Kanton E5-Kieskring Namen",
+      "shortName": "E5-Kieskring Namen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/e5kieskring_namen"
+    },
+    "51065": {
+      "towns": [{ "nisCode": 51065, "name": "Frasnes-lez-Anvaing" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.82
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Frasnes-lez-Anvaing",
+      "shortName": "Frasnes-lez-Anvaing",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/frasneslezanvaing"
+    },
+    "73083": {
+      "towns": [
+        { "nisCode": 73028, "name": "Herstappe" },
+        { "nisCode": 73083, "name": "Tongeren" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 19.77
+        }
+      ],
+      "previous": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 16.6 }
+      ],
+      "name": "Kanton Tongeren",
+      "shortName": "Tongeren",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/tongeren"
+    },
+    "51067": {
+      "towns": [
+        { "nisCode": 51067, "name": "Edingen" },
+        { "nisCode": 51068, "name": "Silly" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 3.03
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Edingen",
+      "shortName": "Edingen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/edingen"
+    },
+    "51069": {
+      "towns": [{ "nisCode": 51069, "name": "Lessen" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 3.96
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Lessen",
+      "shortName": "Lessen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/lessen"
+    },
+    "93056": {
+      "towns": [
+        { "nisCode": 93010, "name": "Cerfontaine" },
+        { "nisCode": 93018, "name": "Doische" },
+        { "nisCode": 93056, "name": "Philippeville" }
+      ],
+      "current": [
+        { "language": "FRENCH", "name": "N-VA", "color": "yellow1", "pct": 2.2 }
+      ],
+      "previous": [],
+      "name": "Kanton Philippeville",
+      "shortName": "Philippeville",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/philippeville"
+    },
+    "92035": {
+      "towns": [
+        { "nisCode": 92035, "name": "Eghezée" },
+        { "nisCode": 92138, "name": "Fernelmont" },
+        { "nisCode": 92141, "name": "La Bruyère" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.42
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Eghezée",
+      "shortName": "Eghezée",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/eghezee"
+    },
+    "91013": {
+      "towns": [
+        { "nisCode": 91013, "name": "Beauraing" },
+        { "nisCode": 91072, "name": "Houyet" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.69
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Beauraing",
+      "shortName": "Beauraing",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/beauraing"
+    },
+    "71053": {
+      "towns": [
+        { "nisCode": 71045, "name": "Nieuwerkerken" },
+        { "nisCode": 71053, "name": "Sint-Truiden" },
+        { "nisCode": 71017, "name": "Gingelom" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 22.05
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 21.51
+        }
+      ],
+      "name": "Kanton Sint-Truiden",
+      "shortName": "Sint-Truiden",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/sinttruiden"
+    },
+    "25998": {
+      "towns": [{ "nisCode": 25998, "name": "Nivelles (E5)" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.26
+        }
+      ],
+      "previous": [],
+      "name": "Kanton E5-Kieskring Waals-Brabant",
+      "shortName": "E5-Kieskring Waals-Brabant",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/e5kieskring_waalsbrabant"
+    },
+    "25999": {
+      "towns": [],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.66
+        }
+      ],
+      "previous": [],
+      "name": "Speciaal Kanton: Buza Waals Brabant",
+      "shortName": "Speciaal Kanton: Buza Waals Brabant",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/speciaal_kanton_buza_waals_brabant"
+    },
+    "92048": {
+      "towns": [
+        { "nisCode": 92045, "name": "Floreffe" },
+        { "nisCode": 92048, "name": "Fosses-la-Ville" },
+        { "nisCode": 92087, "name": "Mettet" },
+        { "nisCode": 92101, "name": "Profondeville" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.76
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Fosses-la-Ville",
+      "shortName": "Fosses-la-Ville",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/fosseslaville"
+    },
+    "73107": {
+      "towns": [
+        { "nisCode": 73042, "name": "Lanaken" },
+        { "nisCode": 73107, "name": "Maasmechelen" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 19.41
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 18.19
+        }
+      ],
+      "name": "Kanton Maasmechelen",
+      "shortName": "Maasmechelen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/maasmechelen"
+    },
+    "73109": {
+      "towns": [{ "nisCode": 73109, "name": "Voeren" }],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 29.61
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 37.14
+        }
+      ],
+      "name": "Kanton Voeren",
+      "shortName": "Voeren",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/voeren"
+    },
+    "91030": {
+      "towns": [
+        { "nisCode": 91030, "name": "Ciney" },
+        { "nisCode": 91059, "name": "Hamois" },
+        { "nisCode": 91064, "name": "Havelange" },
+        { "nisCode": 91120, "name": "Somme-Leuze" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.76
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Ciney",
+      "shortName": "Ciney",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/ciney"
+    },
+    "91034": {
+      "towns": [
+        { "nisCode": 91034, "name": "Dinant" },
+        { "nisCode": 91103, "name": "Onhaye" },
+        { "nisCode": 91141, "name": "Yvoir" },
+        { "nisCode": 91142, "name": "Hastière" },
+        { "nisCode": 91005, "name": "Anhée" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.11
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Dinant",
+      "shortName": "Dinant",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/dinant"
+    },
+    "93088": {
+      "towns": [{ "nisCode": 93088, "name": "Walcourt" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.21
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Walcourt",
+      "shortName": "Walcourt",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/walcourt"
+    },
+    "24998": {
+      "towns": [{ "nisCode": 24998, "name": "Leuven (E5)" }],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 17.46
+        }
+      ],
+      "previous": [],
+      "name": "Kanton E5-Kieskring Vlaams-Brabant",
+      "shortName": "E5-Kieskring Vlaams-Brabant",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/e5kieskring_vlaamsbrabant"
+    },
+    "24999": {
+      "towns": [],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 17.05
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 20.39
+        }
+      ],
+      "name": "Speciaal Kanton: Buza Leuven",
+      "shortName": "Speciaal Kanton: Buza Leuven",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/speciaal_kanton_buza_leuven"
+    },
+    "91054": {
+      "towns": [
+        { "nisCode": 91015, "name": "Bièvre" },
+        { "nisCode": 91054, "name": "Gedinne" },
+        { "nisCode": 91143, "name": "Vresse-sur-Semois" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.83
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Gedinne",
+      "shortName": "Gedinne",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/gedinne"
+    },
+    "46003": {
+      "towns": [{ "nisCode": 46003, "name": "Beveren" }],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 29.37
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 30.06
+        }
+      ],
+      "name": "Kanton Beveren",
+      "shortName": "Beveren",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/beveren"
+    },
+    "46014": {
+      "towns": [{ "nisCode": 46014, "name": "Lokeren" }],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 20.91
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 19.61
+        }
+      ],
+      "name": "Kanton Lokeren",
+      "shortName": "Lokeren",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/lokeren"
+    },
+    "92094": {
+      "towns": [
+        { "nisCode": 92094, "name": "Namen" },
+        { "nisCode": 92006, "name": "Assesse" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.55
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Namen",
+      "shortName": "Namen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/namen"
+    },
+    "24001": {
+      "towns": [
+        { "nisCode": 24001, "name": "Aarschot" },
+        { "nisCode": 24007, "name": "Begijnendijk" },
+        { "nisCode": 24135, "name": "Tielt-Winge" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 25.28
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 27.82
+        }
+      ],
+      "name": "Kanton Aarschot",
+      "shortName": "Aarschot",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/aarschot"
+    },
+    "46020": {
+      "towns": [
+        { "nisCode": 46020, "name": "Sint-Gillis-Waas" },
+        { "nisCode": 46024, "name": "Stekene" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 27.59
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 29.57
+        }
+      ],
+      "name": "Kanton Sint-Gillis-Waas",
+      "shortName": "Sint-Gillis-Waas",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/sintgilliswaas"
+    },
+    "46021": {
+      "towns": [{ "nisCode": 46021, "name": "Sint-Niklaas" }],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 23.74
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 26.32
+        }
+      ],
+      "name": "Kanton Sint-Niklaas",
+      "shortName": "Sint-Niklaas",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/sintniklaas"
+    },
+    "25031": {
+      "towns": [
+        { "nisCode": 25031, "name": "Genepiën" },
+        { "nisCode": 25107, "name": "Villers-la-Ville" }
+      ],
+      "current": [
+        { "language": "FRENCH", "name": "N-VA", "color": "yellow1", "pct": 1.9 }
+      ],
+      "previous": [],
+      "name": "Kanton Genepiën",
+      "shortName": "Genepiën",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/genepien"
+    },
+    "46025": {
+      "towns": [
+        { "nisCode": 46013, "name": "Kruibeke" },
+        { "nisCode": 46025, "name": "Temse" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 26.95
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 27.83
+        }
+      ],
+      "name": "Kanton Temse",
+      "shortName": "Temse",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/temse"
+    },
+    "24020": {
+      "towns": [
+        { "nisCode": 24008, "name": "Bekkevoort" },
+        { "nisCode": 24020, "name": "Diest" },
+        { "nisCode": 24054, "name": "Kortenaken" },
+        { "nisCode": 24134, "name": "Scherpenheuvel-Zichem" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 24.88
+        }
+      ],
+      "previous": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 27.7 }
+      ],
+      "name": "Kanton Diest",
+      "shortName": "Diest",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/diest"
+    },
+    "25048": {
+      "towns": [
+        { "nisCode": 25005, "name": "Bevekom" },
+        { "nisCode": 25043, "name": "Incourt" },
+        { "nisCode": 25048, "name": "Geldenaken" },
+        { "nisCode": 25120, "name": "Orp-Jauche" },
+        { "nisCode": 25122, "name": "Ramillies" },
+        { "nisCode": 25118, "name": "Hélécine" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.89
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Geldenaken",
+      "shortName": "Geldenaken",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/geldenaken"
+    },
+    "23002": {
+      "towns": [
+        { "nisCode": 23002, "name": "Asse" },
+        { "nisCode": 23016, "name": "Dilbeek" },
+        { "nisCode": 23044, "name": "Liedekerke" },
+        { "nisCode": 23052, "name": "Merchtem" },
+        { "nisCode": 23060, "name": "Opwijk" },
+        { "nisCode": 23086, "name": "Ternat" },
+        { "nisCode": 23105, "name": "Affligem" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 26.69
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 29.23
+        }
+      ],
+      "name": "Kanton Asse",
+      "shortName": "Asse",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/asse"
+    },
+    "24033": {
+      "towns": [
+        { "nisCode": 24014, "name": "Boortmeerbeek" },
+        { "nisCode": 24033, "name": "Haacht" },
+        { "nisCode": 24048, "name": "Keerbergen" },
+        { "nisCode": 24094, "name": "Rotselaar" },
+        { "nisCode": 24109, "name": "Tremelo" },
+        { "nisCode": 24043, "name": "Holsbeek" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 29.65
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 30.34
+        }
+      ],
+      "name": "Kanton Haacht",
+      "shortName": "Haacht",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/haacht"
+    },
+    "45035": {
+      "towns": [
+        { "nisCode": 45035, "name": "Oudenaarde" },
+        { "nisCode": 45061, "name": "Wortegem-Petegem" },
+        { "nisCode": 45064, "name": "Maarkedal" }
+      ],
+      "current": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 22.8 }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 19.75
+        }
+      ],
+      "name": "Kanton Oudenaarde",
+      "shortName": "Oudenaarde",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/oudenaarde"
+    },
+    "91114": {
+      "towns": [{ "nisCode": 91114, "name": "Rochefort" }],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.71
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Rochefort",
+      "shortName": "Rochefort",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/rochefort"
+    },
+    "44013": {
+      "towns": [{ "nisCode": 44013, "name": "Destelbergen" }],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 25.08
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 25.67
+        }
+      ],
+      "name": "Kanton Destelbergen",
+      "shortName": "Destelbergen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/destelbergen"
+    },
+    "21998": {
+      "towns": [{ "nisCode": 21998, "name": "Brussel (E5)" }],
+      "current": [
+        {
+          "language": "MULTIPLE",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 3.87
+        }
+      ],
+      "previous": [
+        {
+          "language": "MULTIPLE",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 3.19
+        }
+      ],
+      "name": "Kanton Brussel (E5)",
+      "shortName": "Brussel (E5)",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/brussel_e5"
+    },
+    "21999": {
+      "towns": [],
+      "current": [
+        {
+          "language": "MULTIPLE",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 5.23
+        }
+      ],
+      "previous": [
+        {
+          "language": "MULTIPLE",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 3.32
+        }
+      ],
+      "name": "Speciaal Kanton: Buza Brussel-Hoofdstad",
+      "shortName": "Speciaal Kanton: Buza Brussel-Hoofdstad",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/speciaal_kanton_buza_brusselhoofdstad"
+    },
+    "92142": {
+      "towns": [
+        { "nisCode": 92114, "name": "Sombreffe" },
+        { "nisCode": 92142, "name": "Gembloux" },
+        { "nisCode": 92137, "name": "Sambreville" },
+        { "nisCode": 92140, "name": "Jemeppe-sur-Sambre" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.68
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Gembloux",
+      "shortName": "Gembloux",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/gembloux"
+    },
+    "25072": {
+      "towns": [
+        { "nisCode": 25014, "name": "Braine-l'Alleud" },
+        { "nisCode": 25015, "name": "Kasteelbrakel" },
+        { "nisCode": 25044, "name": "Itter" },
+        { "nisCode": 25105, "name": "Tubeke" },
+        { "nisCode": 25110, "name": "Waterloo" },
+        { "nisCode": 25123, "name": "Rebecq" },
+        { "nisCode": 25072, "name": "Nijvel" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 2.44
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Nijvel",
+      "shortName": "Nijvel",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/nijvel"
+    },
+    "45041": {
+      "towns": [
+        { "nisCode": 45041, "name": "Ronse" },
+        { "nisCode": 45060, "name": "Kluisbergen" }
+      ],
+      "current": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 16.9 }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 16.53
+        }
+      ],
+      "name": "Kanton Ronse",
+      "shortName": "Ronse",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/ronse"
+    },
+    "23027": {
+      "towns": [
+        { "nisCode": 23027, "name": "Halle" },
+        { "nisCode": 23064, "name": "Pepingen" },
+        { "nisCode": 23077, "name": "Sint-Pieters-Leeuw" },
+        { "nisCode": 23003, "name": "Beersel" }
+      ],
+      "current": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 24.5 }
+      ],
+      "previous": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 28.2 }
+      ],
+      "name": "Kanton Halle",
+      "shortName": "Halle",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/halle"
+    },
+    "44019": {
+      "towns": [{ "nisCode": 44019, "name": "Evergem" }],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 25.29
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 25.34
+        }
+      ],
+      "name": "Kanton Evergem",
+      "shortName": "Evergem",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/evergem"
+    },
+    "44021": {
+      "towns": [{ "nisCode": 44021, "name": "Gent" }],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 16.75
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 15.96
+        }
+      ],
+      "name": "Kanton Gent",
+      "shortName": "Gent",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/gent"
+    },
+    "43002": {
+      "towns": [
+        { "nisCode": 43018, "name": "Zelzate" },
+        { "nisCode": 43002, "name": "Assenede" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 16.28
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 15.79
+        }
+      ],
+      "name": "Kanton Assenede",
+      "shortName": "Assenede",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/assenede"
+    },
+    "24059": {
+      "towns": [{ "nisCode": 24059, "name": "Landen" }],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 21.93
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 24.65
+        }
+      ],
+      "name": "Kanton Landen",
+      "shortName": "Landen",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/landen"
+    },
+    "25084": {
+      "towns": [
+        { "nisCode": 25068, "name": "Mont-Saint-Guibert" },
+        { "nisCode": 25084, "name": "Perwijs" },
+        { "nisCode": 25117, "name": "Chastre" },
+        { "nisCode": 25124, "name": "Walhain" }
+      ],
+      "current": [
+        {
+          "language": "FRENCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 1.61
+        }
+      ],
+      "previous": [],
+      "name": "Kanton Perwijs",
+      "shortName": "Perwijs",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/perwijs"
+    },
+    "43005": {
+      "towns": [
+        { "nisCode": 43005, "name": "Eeklo" },
+        { "nisCode": 43010, "name": "Maldegem" },
+        { "nisCode": 43014, "name": "Sint-Laureins" }
+      ],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 20.51
+        }
+      ],
+      "previous": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 19.9 }
+      ],
+      "name": "Kanton Eeklo",
+      "shortName": "Eeklo",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/eeklo"
+    },
+    "24062": {
+      "towns": [
+        { "nisCode": 24009, "name": "Bertem" },
+        { "nisCode": 24011, "name": "Bierbeek" },
+        { "nisCode": 24038, "name": "Herent" },
+        { "nisCode": 24055, "name": "Kortenberg" },
+        { "nisCode": 24062, "name": "Leuven" },
+        { "nisCode": 24086, "name": "Oud-Heverlee" },
+        { "nisCode": 24104, "name": "Tervuren" },
+        { "nisCode": 24045, "name": "Huldenberg" }
+      ],
+      "current": [
+        { "language": "DUTCH", "name": "N-VA", "color": "yellow1", "pct": 24.3 }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 26.01
+        }
+      ],
+      "name": "Kanton Leuven",
+      "shortName": "Leuven",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/leuven"
+    },
+    "43007": {
+      "towns": [{ "nisCode": 43007, "name": "Kaprijke" }],
+      "current": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 24.61
+        }
+      ],
+      "previous": [
+        {
+          "language": "DUTCH",
+          "name": "N-VA",
+          "color": "yellow1",
+          "pct": 22.46
+        }
+      ],
+      "name": "Kanton Kaprijke",
+      "shortName": "Kaprijke",
+      "levelLabel": "Kanton",
+      "resultKey": "/kamer/kanton/kaprijke"
+    }
+  }
+}
