@@ -64,7 +64,7 @@ async function setMostPopularParty(cities) {
 }
 
 async function setMostPopularPartyWithImigrationFilter(cities) {
-  const migrationData = await getData(".https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/migrationData.json");
+  const migrationData = await getData("https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/migrationData.json");
   description.innerHTML = farRightDescription;
   const electionData = await getData("https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/elections/kamer.json");
   const colourData = await getData("https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/elections/mapColours.json");
