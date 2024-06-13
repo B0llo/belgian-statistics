@@ -1,10 +1,15 @@
 import { getData, getMultipleData } from "../dataFetch.js";
 const farRightDescription = `This graph shows the total percentage of votes for the Far Right (NVA, Vlaams Belang) in Belgium.`;
 const farRightWImigrationFilterDescription = `This graph shows the total percentage of votes for the Far Right (NVA, Vlaams Belang) in Belgium. This map is overlayed with a filter that sets the saturation of every colour to the percentage of non-EU-born inhabitants.`;
+const MostPopularPartyDescription = `This graph shows the most popular party in every place in Belgium.`;
+const MostPopularPartyWithFilterDescription = `This graph shows the most popular party in every place in Belgium. Their opacity is based on the percentage of 
+inhabitants that were born in non EU27 countries.`;
 
 async function setFarRightWithImigrationFilter(cities, description) {
   description.innerHTML = farRightWImigrationFilterDescription;
-  const migrationData = await getData("https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/migrationData.json");
+  const migrationData = await getData(
+    "https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/migrationData.json"
+  );
   const electionData = await getMultipleData([
     "https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/elections/nva.json",
     "https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/elections/vlaamsbelang.json",
@@ -52,9 +57,13 @@ async function setFarRight(cities, description) {
 }
 
 async function setMostPopularParty(cities) {
-  description.innerHTML = farRightDescription;
-  const electionData = await getData("https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/elections/kamer.json");
-  const colourData = await getData("https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/elections/mapColours.json");
+  description.innerHTML = MostPopularPartyDescription;
+  const electionData = await getData(
+    "https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/elections/kamer.json"
+  );
+  const colourData = await getData(
+    "https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/elections/mapColours.json"
+  );
   cities.forEach((city) => {
     const kantonId = city.dataset.kanton.substring(1);
     const kantonWinner = electionData.results[kantonId].current[0];
@@ -64,10 +73,16 @@ async function setMostPopularParty(cities) {
 }
 
 async function setMostPopularPartyWithImigrationFilter(cities) {
-  const migrationData = await getData("https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/migrationData.json");
-  description.innerHTML = farRightDescription;
-  const electionData = await getData("https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/elections/kamer.json");
-  const colourData = await getData("https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/elections/mapColours.json");
+  const migrationData = await getData(
+    "https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/migrationData.json"
+  );
+  description.innerHTML = MostPopularPartyWithFilterDescription;
+  const electionData = await getData(
+    "https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/elections/kamer.json"
+  );
+  const colourData = await getData(
+    "https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/elections/mapColours.json"
+  );
   cities.forEach((city) => {
     const kantonId = city.dataset.kanton.substring(1);
     const kantonWinner = electionData.results[kantonId].current[0];
@@ -79,9 +94,14 @@ async function setMostPopularPartyWithImigrationFilter(cities) {
         (el) => (migrationPercentage += el["Bevolking geboren buiten EU"])
       );
 
-    city.style.filter = `opacity(${migrationPercentage / 40 * 100})`;
+    city.style.filter = `opacity(${(migrationPercentage / 40) * 100})`;
     city.innerHTML = `<title>${city.dataset.name} ~ ${kantonWinner.name} ~ non EU27 members: ${migrationPercentage}%`;
   });
 }
 
-export { setFarRightWithImigrationFilter, setFarRight, setMostPopularParty, setMostPopularPartyWithImigrationFilter };
+export {
+  setFarRightWithImigrationFilter,
+  setFarRight,
+  setMostPopularParty,
+  setMostPopularPartyWithImigrationFilter,
+};
