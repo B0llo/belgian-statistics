@@ -4,10 +4,10 @@ const farRightWImigrationFilterDescription = `This graph shows the total percent
 
 async function setFarRightWithImigrationFilter(cities, description) {
   description.innerHTML = farRightWImigrationFilterDescription;
-  const migrationData = await getData("../../data/migrationData.json");
+  const migrationData = await getData("https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/migrationData.json");
   const electionData = await getMultipleData([
-    "../data/elections/nva.json",
-    "../data/elections/vlaamsbelang.json",
+    "https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/elections/nva.json",
+    "https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/elections/vlaamsbelang.json",
   ]);
 
   cities.forEach((city) => {
@@ -64,10 +64,10 @@ async function setMostPopularParty(cities) {
 }
 
 async function setMostPopularPartyWithImigrationFilter(cities) {
-  const migrationData = await getData("../../data/migrationData.json");
+  const migrationData = await getData(".https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/migrationData.json");
   description.innerHTML = farRightDescription;
-  const electionData = await getData("../data/elections/kamer.json");
-  const colourData = await getData("../data/elections/mapColours.json");
+  const electionData = await getData("https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/elections/kamer.json");
+  const colourData = await getData("https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/elections/mapColours.json");
   cities.forEach((city) => {
     const kantonId = city.dataset.kanton.substring(1);
     const kantonWinner = electionData.results[kantonId].current[0];

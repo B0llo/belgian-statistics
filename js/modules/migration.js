@@ -17,7 +17,7 @@ const colorscheme = [
 ];
 const setMigrationData = async (description) => {
   description.innerHTML = migrationDescription;
-  const migrationData = await getData("../../data/migrationData.json");
+  const migrationData = await getData("https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/migrationData.json");
   migrationData.forEach((el) => {
     document.querySelectorAll(`[data-name="${el.Naam}"]`).forEach((item) => {
       item.style.fill = colorscheme[el.categorie - 1];
