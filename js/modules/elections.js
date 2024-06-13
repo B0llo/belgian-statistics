@@ -39,7 +39,7 @@ async function setFarRightWithImigrationFilter(cities, description) {
 async function setFarRight(cities, description) {
   description.innerHTML = farRightDescription;
   const electionData = await getMultipleData([
-    "https://raw.githubusercontent.com/B0llo/belgian-statistics/maindata/elections/nva.json",
+    "https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/elections/nva.json",
     "https://raw.githubusercontent.com/B0llo/belgian-statistics/main/data/elections/vlaamsbelang.json",
   ]);
 

@@ -9,7 +9,7 @@ body {
   max-width: 50rem;
 }
 .container {
-    margin-inline: min(10%, 2rem);
+  margin-inline: min(10%, 2rem);
 }
 h2#map_name {
   text-transform: capitalize;
@@ -17,4 +17,12 @@ h2#map_name {
 svg {
   margin: 5rem auto;
   width: 100%;
+}
+#map_selector {
+  border: solid 2px black;
+  border-radius: 4px;
+  padding: 4px 8px;
+  background: #fff;
+  text-decoration: underline;
+  font-family: "Poppins";
 }
