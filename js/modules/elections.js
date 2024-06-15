@@ -31,7 +31,7 @@ async function setFarRightWithImigrationFilter(cities, description) {
         (el) => (migrationPercentage += el["Bevolking geboren buiten EU"])
       );
 
-    city.style.filter = `opacity(${migrationPercentage / 40 * 100})`;
+    city.style.filter = `saturate(${migrationPercentage / 40 * 100})`;
     city.innerHTML = `<title>${city.dataset.name} ~ ${pct}% ~ non EU27 members: ${migrationPercentage}%`;
   });
 }
